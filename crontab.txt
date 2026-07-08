@@ -1,0 +1,10 @@
+# 亚马逊运营每日资讯 · 定时任务（Linux / macOS 服务器）
+# 北京时间每天 08:00 自动出刊并推送。
+# 注：本机时区需为 Asia/Shanghai；若服务器为 UTC，则用下方 UTC 版（00:00 UTC = 08:00 北京时间）。
+#
+# —— 本机为 Asia/Shanghai 时区时使用 ——
+CRON_TZ=Asia/Shanghai
+0 8 * * *  cd /path/to/workspace && /usr/bin/python3 run_daily.py >> daily.log 2>&1
+#
+# —— 本机为 UTC 时区时使用（二选一）——
+# 0 0 * * *  cd /path/to/workspace && /usr/bin/python3 run_daily.py >> daily.log 2>&1
