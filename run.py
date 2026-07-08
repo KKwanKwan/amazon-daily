@@ -1,322 +1,309 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-亚马逊运营每日资讯 · 一体化脚本（单文件版）
-包含：采集 + 生成网页 + 往期归档，全部在一个文件里。
-只需配合 .github/workflows/daily_push.yml 即可每天自动运行。
-
-用法：python3 run.py
-"""
-
-import argparse
-import json
-import re
-import html as html_mod
-import datetime
-import os
-import shutil
-import xml.etree.ElementTree as ET
-import requests
+import argparse,json,re,html as _h,datetime,os
+import xml.etree.ElementTree as _ET,requests
 from email.utils import parsedate_to_datetime
 
-UA = {"User-Agent": "Mozilla/5.0 (compatible; AmazonDailyBot/1.0)"}
-TIMEOUT = 15
-BASE_DATE = datetime.date(2026, 7, 8)
-HISTORY_FILE = "archive/history.json"
+UA={"User-Agent":"Mozilla/5.0"}
+TO=15;BD=datetime.date(2026,7,8);HF="archive/history.json"
+OFS=[("About Amazon","https://www.aboutamazon.com/news/rss"),
+     ("Practical Ecommerce","https://www.practicalecommerce.com/feed")]
+GNQ=["Amazon seller policy update","Amazon FBA fee changes",
+    "Amazon FBA changes 2026","Amazon global selling new marketplace",
+    "亚马逊 卖家 政策","亚马逊 FBA 费用",
+    "亚马逊 Prime Day","跨境电商 关税 欧盟",
+    "亚马逊 AI 广告"]
+CR=[
+("物流与供应链",["tariff","customs","logistics","fulfillment",
+  "shipping","cost","关税","清关","物流","海外仓",
+  "运价","海运","小包","免税","成本","涨价"]),
+("全球合规",["compliance","regulation","law",
+  "privacy","recall","banned","suspended","fine","effective",
+  "合规","认证","隐私","法律","法规",
+  "披露","罚款","封号","召回","下架"]),
+("政策与费用",["fee","FBA","commission","policy",
+  "rule","费用","费率","佣金"]),
+("流量与活动",["Prime","sale","deal",
+  "advertising","traffic","大促","广告"]),
+("工具与运营",["tool","AI","SOP",
+  "automation","assistant"]),
+("今日头条",["marketplace","expansion","latin",
+  "brazil","mexico","拉美","巴西","墨西哥"])]
+HW=["effective","tax","tariff","compliance","recall","banned",
+  "suspended","fine","law","生效","新规","新法",
+  "封号","冻结","召回","下架","诉讼",
+  "制裁"]
+MW=["fee","FBA","commission","subsidy","Prime","advertising"]
+IMP={
+"物流与供应链":"涉及跨境物流/关税。",
+"全球合规":"涉及合规风险。",
+"政策与费用":"涉及平台费用。",
+"流量与活动":"涉及站内流量。",
+"工具与运营":"涉及运营工具。",
+"今日头条":"涉及市场拓展。"}
+ACT={}
+ACT["logistics|high"]="本周核算履约成本。"
+ACT["compliance|high"]="本周排查合规风险。"
+ACT["policy|high"]="重算主力SKU盈利。"
+ACT["traffic|high"]="调整广告排期。"
+ACT["tools|low"]="评估接入现有运营流程。"
+ACT["headline|mid"]="联系账户经理了解入仓条件。"
 
-# ===== 采集源 =====
-OFFICIAL_FEEDS = [
-    ("About Amazon", "https://www.aboutamazon.com/news/rss"),
-    ("Practical Ecommerce", "https://www.practicalecommerce.com/feed"),
-]
-GN_QUERIES = [
-    "亚马逊 卖家 政策", "亚马逊 FBA 费用", "亚马逊 Prime Day 大促",
-    "跨境电商 关税 欧盟", "亚马逊 合规 AI 广告",
-    "Amazon seller policy update", "Amazon FBA fee changes",
-]
+def _n(t):return re.sub(r"[\s\W_]+","",t.lower())
+def _cl(s):
+ s=re.sub(r"<[^>]+>"," ",s or"")
+ return _h.unescape(re.sub(r"\s+"," ",s)).strip()
+def classify(t):
+ t=t.lower()
+ for col,wds in CR:
+  if any(x.lower()in t for x in wds): return col
+ return "headline"
+def level(t,col):
+ t=t.lower()
+ if any(w.lower()in t for w in HW): return "high"
+ if any(w.lower()in t for w in MW): return "mid"
+ return "low"
 
-COLUMN_RULES = [
-    ("物流与供应链", ["关税","清关","物流","海外仓","运价","海运","小包","免税","成本","涨价",
-                      "tariff","customs","logistics","fulfillment","shipping","cost"]),
-    ("全球合规",     ["合规","认证","隐私","法律","法规","披露","罚款","封号","召回","下架",
-                      "compliance","regulation","law","privacy","recall","banned","suspended","fine","effective"]),
-    ("政策与费用",   ["费用","费率","佣金","FBA","政策","规则","fee","commission","policy","rule"]),
-    ("流量与活动",   ["Prime","大促","广告","流量","算法","促销","prime","sale","deal","advertising","traffic"]),
-    ("工具与运营",   ["工具","AI","SOP","助手","canvas","tool","automation","assistant"]),
-    ("今日头条",     ["市场","站点","新市场","拉美","巴西","墨西哥",
-                      "marketplace","expansion","latin","brazil","mexico"]),
-]
-HIGH_WORDS = ["生效","新规","新法","税","关税","合规","封号","罚款","暂停","冻结","召回","下架",
-              "诉讼","制裁","限制","强制","enforced","tax","tariff","compliance","recall",
-              "banned","suspended","fine","law","effective"]
-MID_WORDS  = ["费用","FBA","费率","佣金","补贴","大促","Prime","广告","流量",
-              "fee","commission","sale","prime","advertising","subsidy"]
-IMPACT_TPL = {
-    "物流与供应链": "涉及跨境物流/关税成本，可能改变你的履约方案与到货成本。",
-    "全球合规":     "涉及合规或法律风险，未及时处理可能影响账户健康或被处罚。",
-    "政策与费用":   "涉及平台费用或规则，直接影响毛利与运营动作。",
-    "流量与活动":   "涉及站内流量或大促节奏，影响曝光与转化规划。",
-    "工具与运营":   "涉及运营工具/效率，可优化日常 SOP。",
-    "今日头条":     "涉及市场/站点拓展机会，值得关注布局窗口。",
-}
-ACTION_TPL = {
-    ("物流与供应链", "high"): "本周内核算该路向履约成本，评估转海外仓/本土仓方案。",
-    ("全球合规", "high"):     "本周内排查相关合规风险，按新规整改素材/流程。",
-    ("政策与费用", "high"):   "用新费率/规则重算主力 SKU 毛利，调整定价与库存。",
-    ("流量与活动", "high"):   "据此调整广告/大促排期与预算。",
-    ("工具与运营", "low"):    "评估是否将其接入现有运营流程。",
-    ("今日头条", "mid"):      "有相关意向的，联系账户经理了解扶持/入驻条件。",
-}
+def mk_item(title,link,src,pub,desc,origin):
+ col=classify(title);lv=level(title,col)
+ imp=IMP.get(col,"建议关注。")
+ key=col+"|"+lv
+ act=ACT.get(key) or ACT.get(col+"|mid") or "关注后续。"
+ tag="" if origin=="official" else " (via Google News)"
+ return {"level":lv,"column":col,"title":title,
+  "tags":[ "#"+col, "#"+src ],
+  "what": title+" "+desc.strip("."),
+  "impact":imp,"action":act,
+  "source": src+tag+" | "+pub,
+  "link":link,"origin":origin,"needs_review":lv=="high"}
 
+def fetch_official(name,url,hours):
+ try:r=requests.get(url,timeout=TO,headers=UA);r.raise_for_status()
+ except Exception as e:print(" ! ["+name+"] "+str(e));return{}
+ try:root=_ET.fromstring(r.content)
+ except Exception as e:print(" ! ["+name+"] parse "+str(e));return{}
+ cut=datetime.datetime.now(datetime.timezone.utc)-datetime.timedelta(hours=hours)
+ out={}
+ for it in root.iter("item"):
+  t=_cl(it.findtext("title",""));lk=(it.findtext("link","")or"").strip()
+  pub=it.findtext("pubDate","");desc=_cl(it.findtext("description",""))[:200]
+  if not t or not lk or len(t)<8:continue
+  try:
+    dt=parsedate_to_datetime(pub).astimezone(datetime.timezone.utc)
+    if dt<cut:continue
+  except:pass
+  out[_n(t)]=mk_item(t,lk,name,pub,desc,"official")
+ print(" ok ["+name+"]:"+str(len(out)));return out
 
-def _norm(t): return re.sub(r"[\s\W_]+", "", t.lower())
-def _clean(s):
-    s = re.sub(r"<[^>]+>", " ", s or "")
-    return html_mod.unescape(re.sub(r"\s+", " ", s)).strip()
+def fetch_gn(q,hours):
+ url="https://news.google.com/rss/search?q="+requests.utils.quote(q)+"&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
+ try:r=requests.get(url,timeout=TO,headers=UA);r.raise_for_status()
+ except:return{}
+ try:root=_ET.fromstring(r.content)
+ except:return{}
+ cut=datetime.datetime.now(datetime.timezone.utc)-datetime.timedelta(hours=hours);out={}
+ for it in root.iter("item"):
+  t=_cl(it.findtext("title",""));lk=(it.findtext("link","")or"").strip();pub=it.findtext("pubDate","")
+  src=it.findtext("source") or ""
+  if not src:src="GN"
+  desc=_cl(it.findtext("description",""))[:200]
+  body=t.rsplit(" - ",1)[0] if " - "in t else t
+  if len(body)<8:continue
+  try:
+    dt=parsedate_to_datetime(pub).astimezone(datetime.timezone.utc)
+    if dt<cut:continue
+  except:pass
+  k=_n(body)
+  if k not in out:out[k]=mk_item(body,lk,src,pub,desc,"google")
+ return out
 
-def classify(title):
-    t = title.lower()
-    for col, words in COLUMN_RULES:
-        if any(w.lower() in t for w in words): return col
-    return "今日头条"
+def collect(hours,top):
+ m={}
+ for n,u in OFS:m.update(fetch_official(n,u,hours))
+ for q in GNQ:
+  for k,v in fetch_gn(q,hours).items():m.setdefault(k,v)
+ items=list(m.values())
+ ord_map={"headline":0,"policy":1,"traffic":2,"logistics":3,"compliance":4,"tools":5}
+ items.sort(key=lambda x:({"high":0,"mid":1,"low":2}[x["level"]],ord_map.get(x["column"],9)))
+ return items[:top]
 
-def level_of(title, column):
-    t = title.lower()
-    if any(w.lower() in t for w in HIGH_WORDS): return "high"
-    if any(w.lower() in t for w in MID_WORDS): return "mid"
-    return "low" if column == "工具与运营" else "mid"
+# ===== CSS =====
+CSS=(
+ "body{font-family:-apple-system,'PingFang SC','Microsoft YaHei',sans-serif;background:#F4F6F8;color:#1F2733;line-height:1.65;padding:24px 12px;margin:0}.wrap{max-width:720px;margin:0 auto}.hero{background:linear-gradient(135deg,#232F3E,#37475A);color:#fff;border-radius:16px;padding:24px 22px;box-shadow:0 6px 20px rgba(35,47,62,.18)}.hero .kicker{font-size:12px;letter-spacing:2px;color:#FF9900;font-weight:700}.hero h1{font-size:23px;margin:6px 0 10px;font-weight:800}.hero .summary{font-size:14px;color:#D7DEE6}.hero .meta{margin-top:14px;font-size:12px;color:#AEB9C4;display:flex;gap:14px;flex-wrap:wrap}.hero .meta b{color:#fff}.alert{background:#FDECEA;border:1px solid #F5C6C0;border-left:4px"
+ " solid #E74C3C;border-radius:10px;padding:12px 14px;margin:18px 0;font-size:13.5px}.alert b{color:#E74C3C}.card{background:#fff;border:1px solid #E3E8EE;border-radius:14px;padding:16px 18px;margin:14px 0;position:relative;overflow:hidden;box-shadow:0 2px 8px rgba(35,47,62,.05)}.card::before{content:'';position:absolute;left:0;top:0;bottom:0;width:5px}.card.high::before{background:#E74C3C}.card.mid::before{background:#F39C12}.card.low::before{background:#27AE60}.card h2{font-size:16.5px;font-weight:800;margin-bottom:8px;padding-right:8px}.tags{margin:0 0 10px;display:flex;gap:6px;flex-wrap:wrap}.tag{font-size:11px;padding:2px 8px;border-radius:20px;background:#EEF2F6;color:#6B7785}.tag.lvl{"
+ "color:#fff;font-weight:700}.tag.high{background:#E74C3C}.tag.mid{background:#F39C12}.tag.low{background:#27AE60}.sec{margin:8px 0;font-size:13.5px}.sec .lab{font-weight:800;color:#232F3E;margin-right:6px}.sec .lab:before{content:'\\25ce ';color:#FF9900;margin-right:4px}.act{background:#F0F8F1;border-radius:8px;padding:8px 10px;margin-top:8px;font-size:13px}.src{font-size:11.5px;color:#6B7785;margin-top:9px;border-top:1px dashed #E3E8EE;padding-top:7px}.srclink{color:#2E6FB0;font-weight:600;text-decoration:none;border-bottom:1px dashed #2E6FB0}.srclink:hover{color:#FF9900;border-bottom-color:#FF9900}.check{background:#fff;border:1px solid #E3E8EE;border-radius:14px;padding:16px 18px;margin:"
+ "14px 0}.check h2{font-size:16.5px;font-weight:800;margin-bottom:10px;color:#232F3E}.check ul{list-style:none}.check li{font-size:13.5px;padding:7px 0;border-bottom:1px dashed #E3E8EE;display:flex;gap:9px;align-items:flex-start;flex-wrap:wrap}.check li:last-child{border-bottom:none}.check .box{width:17px;height:17px;border:2px solid #FF9900;border-radius:4px;flex:0 0 auto;margin-top:2px}.check small{color:#6B7785;font-weight:400;margin-left:4px}.check small a{color:#2E6FB0;text-decoration:none}.check small a:hover{color:#FF9900;text-decoration:underline}.footer{text-align:center;font-size:11.5px;color:#6B7785;margin:22px 0 6px}.footer b{color:#232F3E}a{color:#FF9900;text-decoration:none}"
+)
 
+def esc(s):return _h.escape(str(s))
 
-def _make_item(title, link, src, pub, desc, origin):
-    col = classify(title)
-    lvl = level_of(title, col)
-    impact = IMPACT_TPL.get(col, "与运营相关，建议关注。")
-    action = ACTION_TPL.get((col,lvl)) or ACTION_TPL.get((col,"mid")) or "关注后续官方细则，评估对店铺的影响。"
-    tag = "" if origin=="official" else "（via Google News 聚合）"
-    return {
-        "level":lvl,"column":col,"title":title,
-        "tags":[f"#{col}",f"#{src}"],
-        "what":f"{title}。{desc}".strip("."),
-        "impact":impact,"action":action,
-        "source":f"{src}{tag} ｜ {pub}",
-        "link":link,"origin":origin,"needs_review":lvl=="high",
-    }
+def build_card(item):
+ lc=item["level"];icons={"high":"🔴","mid":"🟠","low":"🟢"};ic=icons.get(lc,"")
+ tags=" ".join('<span class="tag">'+esc(t)+'</span>' for t in item.get("tags",[]))
+ lm=["High","Mid","Low"];ix=["high","mid","low"].index(lc)
+ tags=tags+' <span class="tag lvl '+lc+'">影响:'+lm[ix]+'</span>'
+ link=item.get("link","")
+ st=esc(item.get("source",""))
+ if link:
+  sr='<div class="src">Source: <a href="'+esc(link)+'" target="_blank" rel="noopener" class="srclink">'+st+' 🔗</a></div>'
+ else:
+  sr='<div class="src">Source: '+st+'</div>'
+ p=[]
+ p.append('<div class="card '+lc+'">')
+ p.append('<h2>'+esc(item["column"])+' | '+esc(item["title"])+'</h2>')
+ p.append('<div class="tags">'+tags+'</div>')
+ p.append('<div class="sec"><span class="lab">What</span>'+esc(item.get("what",""))+'</div>')
+ p.append('<div class="sec"><span class="lab">Impact</span>'+esc(item.get("impact",""))+'</div>')
+ p.append('<div class="action">✅ Action: '+esc(item.get("action",""))+'</div>')
+ p.append(sr)
+ p.append('</div>')
+ return "".join(p)
 
+def build_checklist(items):
+ groups={};order=[]
+ for it in items:
+  act=(it.get("action")or"").strip()
+  if not act: continue
+  if act not in groups:
+   groups[act]=[];order.append(act)
+  groups[act].append(it)
+ if not groups: return ""
+ r=[]
+ r.append('<div class="check">')
+ r.append('<h2>✅ Action List ('+str(len(groups))+' groups)</h2>')
+ r.append('<ul>')
+ for act in order:
+  r.append('<li><span class="box"></span><span>'+esc(act)+'</span>')
+  for it in groups[act]:
+   lk=it.get("link","")
+   if lk:
+    ts=(it.get("title")or"")[:28]
+    r.append(' <small>(<a href="'+esc(lk)+'" target="_blank" rel="noopener">'+esc(ts)+'...🔗</a>)</small>')
+  r.append('</li>')
+ r.append('</ul>')
+ r.append('</div>')
+ return"".join(r)
 
-# ---- 官方 RSS ----
-def fetch_official(name, url, hours):
-    try:
-        r = requests.get(url, timeout=TIMEOUT, headers=UA); r.raise_for_status()
-    except Exception as e:
-        print(f"  ! [{name}] 失败: {e}"); return {}
-    try: root = ET.fromstring(r.content)
-    except Exception as e:
-        print(f"  ! [{name}] 解析失败: {e}"); return {}
-    cutoff = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(hours=hours)
-    out = {}
-    for item in root.iter("item"):
-        title = _clean(item.findtext("title",""))
-        link = (item.findtext("link","") or "").strip()
-        pub = item.findtext("pubDate","")
-        desc = _clean(item.findtext("description",""))[:200]
-        if not title or not link or len(title)<8: continue
-        try:
-            dt = parsedate_to_datetime(pub).astimezone(datetime.timezone.utc)
-            if dt < cutoff: continue
-        except Exception: pass
-        out[_norm(title)] = _make_item(title, link, name, pub, desc, "official")
-    print(f"  ✓ 官方 [{name}]：{len(out)} 条")
-    return out
+def build_page(data,date_str,issue):
+ items=data.get("items",[])
+ hi=sum(1 for i in items if i.get("level")=="high")
+ alert=data.get("alert","")
+ ah=[]
+ if alert:
+  ah.append('<div class="alert"><b>Warning: </b>'+esc(alert)+'</div>')
+ cards=[build_card(i) for i in items]
+ chk=build_checklist(items)
+ o=[]
+ o.append('<!DOCTYPE html><html lang="zh-CN"><head><meta charset="UTF-8">')
+ o.append('<meta name="viewport" content="width=device-width,initial-scale=1.0">')
+ o.append('<title>'+esc("Amazon Daily News #"+str(issue)+" ("+date_str+")")+'</title>')
+ o.append('<style>'+CSS+'</style></head><body><div class="wrap">')
+ o.append('<div class="hero"><div class="kicker">AMAZON DAILY NEWS</div>')
+ o.append('<h1>'+esc("Amazon Daily News #"+str(issue))+'</h1>')
+ o.append('<div class="summary">'+esc(data.get("summary",""))+'</div>')
+ o.append('<div class="hero meta">')
+ o.append('<span>📅 <b>'+date_str+'</b></span>')
+ o.append('<span>📌 <b>'+str(len(items))+'</b> items</span>')
+ o.append('<span>🔴 <b>'+str(hi)+'</b> high</span>')
+ o.append('</div></div>')
+ o.extend(ah)
+ o.extend(cards)
+ o.append(chk)
+ o.append('<div class="footer"><b>Amazon Daily</b> | updated daily at 08:00 CST | ')
+ o.append('<a href="archive.html">'+esc("📚 Archive")+'</a>')
+ o.append('<br>auto-generated by run.py</div>')
+ o.append('</div></body></html>')
+ return"".join(o)
 
-# ---- Google News ----
-def fetch_google(q, hours):
-    url = "https://news.google.com/rss/search?q="+requests.utils.quote(q)+"&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
-    try:
-        r = requests.get(url, timeout=TIMEOUT, headers=UA); r.raise_for_status()
-    except Exception: return {}
-    try: root = ET.fromstring(r.content)
-    except Exception: return {}
-    cutoff = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(hours=hours)
-    out = {}
-    for item in root.iter("item"):
-        title = _clean(item.findtext("title",""))
-        link = (item.findtext("link","") or "").strip()
-        pub = item.findtext("pubDate","")
-        src = ""
-        try: src = item.find("{*}source").text or ""
-        except Exception: pass
-        if not src:
-            try: src = item.find("source").text or ""
-            except Exception: pass
-        if not src: src = "Google News"
-        desc = _clean(item.findtext("description",""))[:200]
-        body = title.rsplit(" - ",1)[0] if " - " in title else title
-        if len(body)<8: continue
-        try:
-            dt = parsedate_to_datetime(pub).astimezone(datetime.timezone.utc)
-            if dt < cutoff: continue
-        except Exception: pass
-        key = _norm(body)
-        if key not in out:
-            out[key] = _make_item(body, link, src, pub, desc, "google")
-    return out
+def build_archive(history,latest_date):
+ def e(s):return _h.escape(str(s))
+ try:ld=datetime.date.fromisoformat(latest_date)
+ except:ld=datetime.date.today()
+ ws=ld-datetime.timedelta(days=6)
+ week=[h for h in history if h.get("date")>=ws.isoformat()]
+ wt=sum(len(h.get("items",[]))for h in week)
+ wh=sum(1 for h in week for i in h.get("items",[])if i.get("level")=="high")
+ o=[]
+ o.append('<!DOCTYPE html><html lang="zh-CN"><head><meta charset="UTF-8">')
+ o.append('<meta name="viewport" content="width=device-width,initial-scale=1.0"><title>Archive</title><style>')
+ acss="body{font-family:-apple-system,'PingFang SC',sans-serif;background:#F4F6F8;color:#1F2733;padding:24px 12px;margin:0}"
+ acss+=".wrap{max-width:760px;margin:0 auto}.hero{background:linear-gradient(135deg,#232F3E,#37475A);color:#fff;border-radius:16px;padding:22px;margin-bottom:10px}"
+ acss+=".hero h1{font-size:22px;margin:0}.hero sub{font-size:13px;color:#D7DEE6;margin-top:6px}"
+ acss+=".card{background:#fff;border:1px solid #E3E8EE;border-radius:14px;padding:16px 18px;margin:14px 0;box-shadow:0 2px 8px rgba(35,47,62,.05)}"
+ acss+=".card h2{font-size:16px;margin:0 0 10px;color:#232F3E}table{width:100%;border-collapse:collapse;font-size:13.5px}"
+ acss+="th,td{text-align:left;padding:8px 6px;border-bottom:1px solid #EEF2F6}th{color:#6B7785;font-weight:700}"
+ acss+="a{color:#2E6FB0;text-decoration:none}a:hover{text-decoration:underline}"
+ acss+=".pill{display:inline-block;background:#FF9900;color:#232F3E;font-weight:700;border-radius:20px;padding:2px 10px;font-size:12px}"
+ acss+="ul{margin:6px 0;padding-left:20px}li{font-size:13.5px;padding:3px 0}.footer{text-align:center;font-size:11.5px;color:#6B7785;margin:18px 0}"
+ o.append(acss+'</style></head><body><div class="wrap">')
+ o.append('<div class="hero"><h1>'+e("📚 Archive")+'</h1>')
+ o.append('<div class="sub">'+e(str(len(history))+" issues | latest: "+latest_date)+" | 08:00 daily</div></div>")
+ o.append('<div class="card"><h2>'+e("🔁 This Week")+'('+ws.isoformat()+"~"+ld.isoformat()+')</h2>')
+ o.append("<p style='font-size:13.5px;margin:0 0 8px'>"+str(wt)+" items <span class='pill'>"+str(wh)+" high</span></p><ul>")
+ wl=[]
+ for h in reversed(week):
+  nhi=sum(1 for i in h.get("items",[])if i.get("level")=="high")
+  wl.append('<li><a href="'+e(h['date'])+'.html">'+e(h['date'])+'</a> '
+           +str(len(h.get('items',[])))+" items"
+           +("🔴"*nhi if nhi else "")+"</li>")
+ if not wl:wl.append("<li>No data this week</li>")
+ o.extend(wl);o.append("</ul></div>")
+ o.append('<div class="card"><h2>'+e("📊 Monthly")+"</h2><table><tr><th>Month</th><th>Items</th></tr>")
+ ms={};[ms.__setitem__(h["date"][:7],ms.get(h["date"][:7],0)+len(h.get("items",[])))for h in history]
+ for m,n in sorted(ms.items(),reverse=True):
+  o.append("<tr><td>"+e(m)+"</td><td>"+str(n)+"</td></tr>")
+ o.append("</table></div>")
+ o.append('<div class="card"><h2>'+e("📂 All Issues")+"</h2><table><tr><th>Date</th><th>#</th><th>Items</th><th>High</th></tr>")
+ for h in reversed(history):
+  nhi=sum(1 for i in h.get("items",[])if i.get("level")=="high")
+  o.append("<tr><td><a href='"+e(h['date'])+".html'>"+e(h['date'])+"</a></td>"
+             +"<td>#"+str(h.get('issue','?'))+"</td><td>"
+             +str(len(h.get('items',[])))+"</td><td>"
+             +("🔴"*nhi if nhi else "-")+"</td></tr>")
+ o.append("</table></div>")
+ o.append("<div class='footer'><a href='index.html'>"+e("← Back")+"</a></div>")
+ o.append("</div></body></html>")
+ return"".join(o)
 
+def issue_of(today):return max(1,(today-BD).days+1)
 
-def collect(hours, top):
-    merged = {}
-    for name,url in OFFICIAL_FEEDS: merged.update(fetch_official(name,url,hours))
-    for q in GN_QUERIES:
-        for k,v in fetch_google(q,hours).items(): merged.setdefault(k,v)
-    items = list(merged.values())
-    order = {"今日头条":0,"政策与费用":1,"流量与活动":2,"物流与供应链":3,"全球合规":4,"工具与运营":5}
-    items.sort(key=lambda x: ({"high":0,"mid":1,"low":2}[x["level"]], order.get(x["column"],9)))
-    return items[:top]
-
-
-# ===== HTML 生成 =====
-LV_EMOJI = {"high":"🔴","mid":"🟡","low":"🟢"}
-
-def build_html(data, date_str, issue):
-    items = data.get("items",[])
-    high = sum(1 for i in items if i.get("level")=="high")
-    alert = data.get("alert","")
-    alert_html = f'<div class="alert"><b>⚠ 风险提示：</b>{html_mod.escape(alert)}</div>' if alert else ""
-
-    cards = ""
-    for i in items:
-        lvl_t = LV_EMOJI.get(i["level"],"•"); lvl_c = i["level"]
-        tags = " ".join(f'<span class="tag">{html_mod.escape(t)}</span>' for t in i.get("tags",[]))
-        tags += f' <span class="tag lvl {lvl_c}">影响：{["高","中","低"][["high","mid","low"].index(lvl_c)]}</span>'
-        cards += f"""
-  <div class="card {lvl_c}">
-    <h2>{i.get('column_icon','•')} {html_mod.escape(i['column'])}｜{html_mod.escape(i['title'])}</h2>
-    <div class="tags">{tags}</div>
-    <div class="sec"><span class="lab">发生什么</span>{html_mod.escape(i.get('what',''))}</div>
-    <div class="sec"><span class="lab">对卖家影响</span>{html_mod.escape(i.get('impact',''))}</div>
-    <div class="act">✅ 建议动作：{html_mod.escape(i.get('action',''))}</div>
-    <div class="src">来源：{html_mod.escape(i.get('source',''))}</div>
-  </div>"""
-
-    checklist = "".join(
-        f'<li><span class="box"></span><span>{html_mod.escape(i["action"])}</span></li>'
-        for i in items if i.get("action")
-    )
-    chk = f"""
-  <div class="check">
-    <h2>✅ 今日行动清单（{date_str[-5:].replace("-","-")}）</h2>
-    <ul>{checklist}</ul>
-  </div>""" if checklist else ""
-
-    return f"""<!DOCTYPE html><html lang="zh-CN"><head><meta charset="UTF-8">
-<meta name="viewport" content="width=device-width,initial-scale=1.0">
-<title>亚马逊运营每日资讯 · 第 {issue} 期（{date_str}）</title>
-<style>
-:root{{--o:#FF9900;--n:#232F3E;--bg:#F4F6F8;--h:#E74C3C;--m:#F39C12;--l:#27AE60;--ln:#E3E8EE;--t:#1F2733;--s:#6B7785}}
-*{{box-sizing:border-box;margin:0;padding:0}}
-body{{font-family:-apple-system,"PingFang SC","Microsoft YaHei",Segoe UI,sans-serif;background:var(--bg);color:var(--t);line-height:1.65;padding:24px 12px}}
-.wrap{{max-width:720px;margin:0 auto}}
-.hero{{background:linear-gradient(135deg,var(--n),#37475A);color:#fff;border-radius:16px;padding:24px 22px;box-shadow:0 6px 20px rgba(35,47,62,.18)}}
-.hero .kicker{{font-size:12px;letter-spacing:2px;color:var(--o);font-weight:700}}
-.hero h1{{font-size:23px;margin:6px 0 10px;font-weight:800}}
-.hero .summary{{font-size:14px;color:#D7DEE6}}
-.hero .meta{{margin-top:14px;font-size:12px;color:#AEB9C4;display:flex;gap:14px;flex-wrap:wrap}}
-.hero .meta b{{color:#fff}}
-.alert{{background:#FDECEA;border:1px solid #F5C6C0;border-left:4px solid var(--h);border-radius:10px;padding:12px 14px;margin:18px 0;font-size:13.5px}}.alert b{{color:var(--h)}}
-.card{{background:#fff;border:1px solid var(--ln);border-radius:14px;padding:16px 18px;margin:14px 0;position:relative;overflow:hidden;box-shadow:0 2px 8px rgba(35,47,62,.05)}}.card::before{{content:"";position:absolute;left:0;top:0;bottom:0;width:5px}}.card.high::before{{background:var(--h)}}.card.mid::before{{background:var(--m)}}.card.low::before{{background:var(--l)}}.card h2{{font-size:16.5px;font-weight:800;margin-bottom:8px;padding-right:8px}}.tags{{margin:0 0 10px;display:flex;gap:6px;flex-wrap:wrap}}.tag{{font-size:11px;padding:2px 8px;border-radius:20px;background:#EEF2F6;color:var(--s)}}.tag.lvl{{color:#fff;font-weight:700}}.tag.high{{background:var(--h)}}.tag.mid{{background:var(--m)}}.tag.low{{background:var(--l)}}.sec{{margin:8px 0;font-size:13.5px}}.sec .lab{{font-weight:800;color:var(--n);margin-right:6px}}.sec .lab::before{{content:"▎";color:var(--o);margin-right:4px}}.act{{background:#F0F8F1;border-radius:8px;padding:8px 10px;margin-top:8px;font-size:13px}}.src{{font-size:11.5px;color:var(--s);margin-top:9px;border-top:1px dashed var(--ln);padding-top:7px}}.check{{background:#fff;border:1px solid var(--ln);border-radius:14px;padding:16px 18px;margin:14px 0}}.check h2{{font-size:16.5px;font-weight:800;margin-bottom:10px;color:var(--n)}}.check ul{{list-style:none}}.check li{{font-size:13.5px;padding:7px 0;border-bottom:1px dashed var(--ln);display:flex;gap:9px}}.check li:last-child{{border-bottom:none}}.check .box{{width:17px;height:17px;border:2px solid var(--o);border-radius:4px;flex:0 0 auto;margin-top:2px}}.footer{{text-align:center;font-size:11.5px;color:var(--s);margin:22px 0 6px}}.footer b{{color:var(--n)}}a{{color:#FF9900;text-decoration:none}}</style></head><body><div class="wrap">
-<div class="hero"><div class="kicker">CROSS-BORDER · AMAZON DAILY</div>
-<h1>亚马逊运营每日资讯 · 第 {issue} 期</h1>
-<div class="summary">{html_mod.escape(data.get('summary',''))}</div>
-<div class="meta">
-<span>📅 <b>{date_str}</b></span><span>📌 共 <b>{len(items)}</b> 条</span><span>🔴 高影响 <b>{high}</b> 条</span>
-</div></div>
-{alert_html}
-{cards}
-{chk}
-<div class="footer"><b>亚马逊运营每日资讯</b> · 每天北京时间 08:00 更新 ｜ <a href="archive.html">📚 往期归档</a><br>由 run.py 自动生成</div></div></body></html>"""
-
-
-def build_archive(history, latest_date):
-    def e(s): return html_mod.escape(str(s))
-    try: latest = datetime.date.fromisoformat(latest_date)
-    except: latest = datetime.date.today()
-    ws = latest - datetime.timedelta(days=6)
-    week = [h for h in history if h.get("date") >= ws.isoformat()]
-    wt = sum(len(h.get("items",[])) for h in week)
-    wh = sum(1 for h in week for i in h.get("items",[]) if i.get("level")=="high")
-
-    rows = "".join(f'<tr><td><a href="{e(h["date"])}.html">{e(h["date"])}</a></td><td>第{h.get("issue","?")}期</td><td>{len(h.get("items",[]))}</td><td>{"🔴"*sum(1 for i in h.get("items",[]) if i.get("level")=="high") or "—"}</td></tr>' for h in reversed(history))
-    wl = "".join(f'<li><a href="{e(h["date"])}.html">{e(h["date"])}</a>·{len(h.get("items",[]))}条{" 🔴"+str(sum(1 for i in h.get("items",[]) if i.get("level")=="high")) if any(i.get("level")=="high" for i in h.get("items",[])) else ""}</li>' for h in reversed(week)) or "<li>本周暂无</li>"
-    ms = {}; [ms.__setitem__(h["date"][:7], ms.get(h["date"][:7],0)+len(h.get("items",[]))) for h in history]
-    mr = "".join(f'<tr><td>{e(m)}</td><td>{n}条</td></tr>' for m,n in sorted(ms.items(),reverse=True))
-
-    return f"""<!DOCTYPE html><html lang="zh-CN"><head><meta charset="UTF-8">
-<meta name="viewport" content="width=device-width,initial-scale=1.0">
-<title>往期归档</title>
-<style>
-body{{font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;background:#F4F6F8;color:#1F2733;padding:24px 12px;margin:0}}.wrap{{max-width:760px;margin:0 auto}}
-.hero{{background:linear-gradient(135deg,#232F3E,#37475A);color:#fff;border-radius:16px;padding:22px;margin-bottom:10px}}.hero h1{{font-size:22px;margin:0}}.hero .sub{{font-size:13px;color:#D7DEE6;margin-top:6px}}
-.card{{background:#fff;border:1px solid #E3E8EE;border-radius:14px;padding:16px 18px;margin:14px 0;box-shadow:0 2px 8px rgba(35,47,62,.05)}}.card h2{{font-size:16px;margin:0 0 10px;color:#232F3E}}
-table{{width:100%;border-collapse:collapse;font-size:13.5px}}th,td{{text-align:left;padding:8px 6px;border-bottom:1px solid #EEF2F6}}th{{color:#6B7785;font-weight:700}}
-a{{color:#2E6FB0;text-decoration:none}}a:hover{{text-decoration:underline}}.pill{{display:inline-block;background:#FF9900;color:#232F3E;font-weight:700;border-radius:20px;padding:2px 10px;font-size:12px}}ul{{margin:6px 0;padding-left:20px}}li{{font-size:13.5px;padding:3px 0}}.footer{{text-align:center;font-size:11.5px;color:#6B7785;margin:18px 0}}
-</style></head><body><div class="wrap">
-<div class="hero"><h1>📚 亚马逊运营每日资讯 · 往期归档</h1><div class="sub">共{len(history)}期 ｜ 最新:{e(latest_date)} ｜ 每天08:00更新</div></div>
-<div class="card"><h2>🔁 本周复盘（{ws.isoformat()}~{latest.isoformat()}）</h2><p style="font-size:13.5px;margin:0 0 8px">近7天共<span class="pill">{wt}条</span> 高影响<span class="pill">{wh}条</span></p><ul>{wl}</ul></div>
-<div class="card"><h2>📊 月度汇总</h2><table><tr><th>月份</th><th>条数</th></tr>{mr}</table></div>
-<div class="card"><h2>🗂 完整往期列表</h2><table><tr><th>日期</th><th>期数</th><th>条数</th><th>高影响</th></tr>{rows}</table></div>
-<div class="footer"><a href="index.html">← 返回最新一期</a></div></div></body></html>"""
-
-
-def next_issue(today): return max(1,(today-BASE_DATE).days+1)
-
-def load_history():
-    if os.path.exists(HISTORY_FILE):
-        try: return json.load(open(HISTORY_FILE,encoding="utf-8"))
-        except: return []
-    return []
-
-def save_history(h):
-    os.makedirs("archive",exist_ok=True)
-    json.dump(h,open(HISTORY_FILE,"w",encoding="utf-8"),ensure_ascii=False,indent=2)
-
+def load_h():
+ if os.path.exists(HF):
+  try:return json.load(open(HF,encoding="utf-8"))
+  except:return []
+ return[]
+def save_h(h):
+ os.makedirs("archive",exist_ok=True)
+ json.dump(h,open(HF,"w",encoding="utf-8"),ensure_ascii=False,indent=2)
 
 def main():
-    ap = argparse.ArgumentParser()
-    ap.add_argument("--hours",type=int,default=48)
-    ap.add_argument("--top",type=int,default=8)
-    args = ap.parse_args()
+ ap=argparse.ArgumentParser()
+ ap.add_argument("--hours",type=int,default=48)
+ ap.add_argument("--top",type=int,default=8)
+ args=ap.parse_args()
+ today=datetime.date.today();ds=today.strftime("%Y-%m-%d");issue=issue_of(today)
+ print("=== Issue #"+str(issue)+" | "+ds+" ===")
+ items=collect(args.hours,args.top)
+ hi=sum(1 for i in items if i.get("level")=="high")
+ of=sum(1 for i in items if i.get("origin")=="official")
+ sm=str(len(items))+" items ("+str(of)+" official), "+str(hi)+" high" if items else "No new items"
+ al="Check high-impact items." if hi else ""
+ history=load_h();rec={"date":ds,"issue":issue,"summary":sm,"alert":al,"items":items}
+ found=False
+ for idx,hh in enumerate(history):
+  if hh.get("date")==ds:history[idx]=rec;found=True;break
+ if not found:history.append(rec)
+ history.sort(key=lambda x:x.get("date",""));save_h(history)
+ print("ok history="+str(len(items)))
+ os.makedirs("site",exist_ok=True)
+ for hh in history:
+  dd={"summary":hh["summary"],"alert":hh["alert"],"items":hh["items"]}
+  open("site/"+hh['date']+".html","w",encoding="utf-8").write(build_page(dd,hh["date"],hh["issue"]))
+ lhx=history[-1]
+ open("site/index.html","w",encoding="utf-8").write(
+   build_page({"summary":lhx["summary"],"alert":lhx["alert"],"items":lhx["items"]},ds,issue))
+ open("site/archive.html","w",encoding="utf-8").write(build_archive(history,ds))
+ print("ok site updated")
+ print("=== done ===")
 
-    today = datetime.date.today(); ds = today.strftime("%Y-%m-%d")
-    issue = next_issue(today)
-    print(f"===== 第{issue}期 · {ds} =====")
-
-    # 采集
-    items = collect(args.hours,args.top)
-    high = sum(1 for i in items if i["level"]=="high")
-    official = sum(1 for i in items if i.get("origin")=="official")
-    summary = f"自动聚合{len(items)}条（含{official}条官方原文），其中{high}条高影响。" if items else "今日暂无高相关新资讯。"
-    alert = "检测到高影响条目，推送前建议编辑核对事实与动作。" if high else ""
-
-    # 写档案
-    history = load_history(); record = {"date":ds,"issue":issue,"summary":summary,"alert":alert,"items":items}
-    found=False
-    for idx,h in enumerate(history):
-        if h.get("date")==ds: history[idx]=record; found=True;break
-    if not found: history.append(record)
-    history.sort(key=lambda x:x.get("date","")); save_history(history)
-    print(f"✅ 档案：{len(history)}期（今日{len(items)}条，官方{official}）")
-
-    # 生成全部网页
-    os.makedirs("site",exist_ok=True)
-    for h in history:
-        d={"summary":h["summary"],"alert":h["alert"],"items":h["items"]}
-        with open(f"site/{h['date']}.html","w",encoding="utf-8") as f: f.write(build_html(d,h["date"],h["issue"]))
-    lh = history[-1]
-    ih = build_html({"summary":lh["summary"],"alert":lh["alert"],"items":lh["items"]},ds,issue)
-    open("site/index.html","w",encoding="utf-8").write(ih)
-    open("site/archive.html","w",encoding="utf-8").write(build_archive(history,ds))
-    print(f"✅ 网页：site/index.html + {len(history)}个往期 + archive.html")
-    print("===== 完成 =====")
-
-
-if __name__ == "__main__":
-    main()
+if __name__=="__main__":main()
