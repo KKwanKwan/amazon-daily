@@ -187,6 +187,13 @@ def build_html(data, date_str, issue):
         lvl_t = LV_EMOJI.get(i["level"],"•"); lvl_c = i["level"]
         tags = " ".join(f'<span class="tag">{html_mod.escape(t)}</span>' for t in i.get("tags",[]))
         tags += f' <span class="tag lvl {lvl_c}">影响：{["高","中","低"][["high","mid","low"].index(lvl_c)]}</span>'
+        # 来源链接：有原文直链则可点击，Google News 聚合也带链接
+        link = i.get("link","")
+        src_text = i.get("source","")
+        if link:
+            src_html = f'来源：<a href="{html_mod.escape(link)}" target="_blank" rel="noopener" class="src-link">{html_mod.escape(src_text)} 🔗</a>'
+        else:
+            src_html = f'来源：{html_mod.escape(src_text)}'
         cards += f"""
   <div class="card {lvl_c}">
     <h2>{i.get('column_icon','•')} {html_mod.escape(i['column'])}｜{html_mod.escape(i['title'])}</h2>
@@ -194,16 +201,31 @@ def build_html(data, date_str, issue):
     <div class="sec"><span class="lab">发生什么</span>{html_mod.escape(i.get('what',''))}</div>
     <div class="sec"><span class="lab">对卖家影响</span>{html_mod.escape(i.get('impact',''))}</div>
     <div class="act">✅ 建议动作：{html_mod.escape(i.get('action',''))}</div>
-    <div class="src">来源：{html_mod.escape(i.get('source',''))}</div>
+    <div class="src">{src_html}</div>
   </div>"""
 
-    checklist = "".join(
-        f'<li><span class="box"></span><span>{html_mod.escape(i["action"])}</span></li>'
-        for i in items if i.get("action")
-    )
+    # 行动清单：去重（同一条动作只出现一次），并附带来源链接
+    seen_actions = set()
+    unique_checks = []
+    for i in items:
+        act = (i.get("action") or "").strip()
+        if not act or act in seen_actions:
+            continue
+        seen_actions.add(act)
+        link = i.get("link","")
+        title_short = (i.get("title") or "")[:35]
+        if link:
+            unique_checks.append(
+                f'<li><span class="box"></span><span>{html_mod.escape(act)} '
+                f'<small>(<a href="{html_mod.escape(link)}" target="_blank" rel="noopener">'
+                f'{html_mod.escape(title_short)}… 🔗</a>)</small></span></li>')
+        else:
+            unique_checks.append(f'<li><span class="box"></span><span>{html_mod.escape(act)}</span></li>')
+
+    checklist = "".join(unique_checks)
     chk = f"""
   <div class="check">
-    <h2>✅ 今日行动清单（{date_str[-5:].replace("-","-")}）</h2>
+    <h2>✅ 今日行动清单（{date_str[-5:].replace("-","-")}）· 共 {len(seen_actions)} 项独立行动</h2>
     <ul>{checklist}</ul>
   </div>""" if checklist else ""
 
@@ -212,111 +234,4 @@ def build_html(data, date_str, issue):
 <title>亚马逊运营每日资讯 · 第 {issue} 期（{date_str}）</title>
 <style>
 :root{{--o:#FF9900;--n:#232F3E;--bg:#F4F6F8;--h:#E74C3C;--m:#F39C12;--l:#27AE60;--ln:#E3E8EE;--t:#1F2733;--s:#6B7785}}
-*{{box-sizing:border-box;margin:0;padding:0}}
-body{{font-family:-apple-system,"PingFang SC","Microsoft YaHei",Segoe UI,sans-serif;background:var(--bg);color:var(--t);line-height:1.65;padding:24px 12px}}
-.wrap{{max-width:720px;margin:0 auto}}
-.hero{{background:linear-gradient(135deg,var(--n),#37475A);color:#fff;border-radius:16px;padding:24px 22px;box-shadow:0 6px 20px rgba(35,47,62,.18)}}
-.hero .kicker{{font-size:12px;letter-spacing:2px;color:var(--o);font-weight:700}}
-.hero h1{{font-size:23px;margin:6px 0 10px;font-weight:800}}
-.hero .summary{{font-size:14px;color:#D7DEE6}}
-.hero .meta{{margin-top:14px;font-size:12px;color:#AEB9C4;display:flex;gap:14px;flex-wrap:wrap}}
-.hero .meta b{{color:#fff}}
-.alert{{background:#FDECEA;border:1px solid #F5C6C0;border-left:4px solid var(--h);border-radius:10px;padding:12px 14px;margin:18px 0;font-size:13.5px}}.alert b{{color:var(--h)}}
-.card{{background:#fff;border:1px solid var(--ln);border-radius:14px;padding:16px 18px;margin:14px 0;position:relative;overflow:hidden;box-shadow:0 2px 8px rgba(35,47,62,.05)}}.card::before{{content:"";position:absolute;left:0;top:0;bottom:0;width:5px}}.card.high::before{{background:var(--h)}}.card.mid::before{{background:var(--m)}}.card.low::before{{background:var(--l)}}.card h2{{font-size:16.5px;font-weight:800;margin-bottom:8px;padding-right:8px}}.tags{{margin:0 0 10px;display:flex;gap:6px;flex-wrap:wrap}}.tag{{font-size:11px;padding:2px 8px;border-radius:20px;background:#EEF2F6;color:var(--s)}}.tag.lvl{{color:#fff;font-weight:700}}.tag.high{{background:var(--h)}}.tag.mid{{background:var(--m)}}.tag.low{{background:var(--l)}}.sec{{margin:8px 0;font-size:13.5px}}.sec .lab{{font-weight:800;color:var(--n);margin-right:6px}}.sec .lab::before{{content:"▎";color:var(--o);margin-right:4px}}.act{{background:#F0F8F1;border-radius:8px;padding:8px 10px;margin-top:8px;font-size:13px}}.src{{font-size:11.5px;color:var(--s);margin-top:9px;border-top:1px dashed var(--ln);padding-top:7px}}.check{{background:#fff;border:1px solid var(--ln);border-radius:14px;padding:16px 18px;margin:14px 0}}.check h2{{font-size:16.5px;font-weight:800;margin-bottom:10px;color:var(--n)}}.check ul{{list-style:none}}.check li{{font-size:13.5px;padding:7px 0;border-bottom:1px dashed var(--ln);display:flex;gap:9px}}.check li:last-child{{border-bottom:none}}.check .box{{width:17px;height:17px;border:2px solid var(--o);border-radius:4px;flex:0 0 auto;margin-top:2px}}.footer{{text-align:center;font-size:11.5px;color:var(--s);margin:22px 0 6px}}.footer b{{color:var(--n)}}a{{color:#FF9900;text-decoration:none}}</style></head><body><div class="wrap">
-<div class="hero"><div class="kicker">CROSS-BORDER · AMAZON DAILY</div>
-<h1>亚马逊运营每日资讯 · 第 {issue} 期</h1>
-<div class="summary">{html_mod.escape(data.get('summary',''))}</div>
-<div class="meta">
-<span>📅 <b>{date_str}</b></span><span>📌 共 <b>{len(items)}</b> 条</span><span>🔴 高影响 <b>{high}</b> 条</span>
-</div></div>
-{alert_html}
-{cards}
-{chk}
-<div class="footer"><b>亚马逊运营每日资讯</b> · 每天北京时间 08:00 更新 ｜ <a href="archive.html">📚 往期归档</a><br>由 run.py 自动生成</div></div></body></html>"""
-
-
-def build_archive(history, latest_date):
-    def e(s): return html_mod.escape(str(s))
-    try: latest = datetime.date.fromisoformat(latest_date)
-    except: latest = datetime.date.today()
-    ws = latest - datetime.timedelta(days=6)
-    week = [h for h in history if h.get("date") >= ws.isoformat()]
-    wt = sum(len(h.get("items",[])) for h in week)
-    wh = sum(1 for h in week for i in h.get("items",[]) if i.get("level")=="high")
-
-    rows = "".join(f'<tr><td><a href="{e(h["date"])}.html">{e(h["date"])}</a></td><td>第{h.get("issue","?")}期</td><td>{len(h.get("items",[]))}</td><td>{"🔴"*sum(1 for i in h.get("items",[]) if i.get("level")=="high") or "—"}</td></tr>' for h in reversed(history))
-    wl = "".join(f'<li><a href="{e(h["date"])}.html">{e(h["date"])}</a>·{len(h.get("items",[]))}条{" 🔴"+str(sum(1 for i in h.get("items",[]) if i.get("level")=="high")) if any(i.get("level")=="high" for i in h.get("items",[])) else ""}</li>' for h in reversed(week)) or "<li>本周暂无</li>"
-    ms = {}; [ms.__setitem__(h["date"][:7], ms.get(h["date"][:7],0)+len(h.get("items",[]))) for h in history]
-    mr = "".join(f'<tr><td>{e(m)}</td><td>{n}条</td></tr>' for m,n in sorted(ms.items(),reverse=True))
-
-    return f"""<!DOCTYPE html><html lang="zh-CN"><head><meta charset="UTF-8">
-<meta name="viewport" content="width=device-width,initial-scale=1.0">
-<title>往期归档</title>
-<style>
-body{{font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;background:#F4F6F8;color:#1F2733;padding:24px 12px;margin:0}}.wrap{{max-width:760px;margin:0 auto}}
-.hero{{background:linear-gradient(135deg,#232F3E,#37475A);color:#fff;border-radius:16px;padding:22px;margin-bottom:10px}}.hero h1{{font-size:22px;margin:0}}.hero .sub{{font-size:13px;color:#D7DEE6;margin-top:6px}}
-.card{{background:#fff;border:1px solid #E3E8EE;border-radius:14px;padding:16px 18px;margin:14px 0;box-shadow:0 2px 8px rgba(35,47,62,.05)}}.card h2{{font-size:16px;margin:0 0 10px;color:#232F3E}}
-table{{width:100%;border-collapse:collapse;font-size:13.5px}}th,td{{text-align:left;padding:8px 6px;border-bottom:1px solid #EEF2F6}}th{{color:#6B7785;font-weight:700}}
-a{{color:#2E6FB0;text-decoration:none}}a:hover{{text-decoration:underline}}.pill{{display:inline-block;background:#FF9900;color:#232F3E;font-weight:700;border-radius:20px;padding:2px 10px;font-size:12px}}ul{{margin:6px 0;padding-left:20px}}li{{font-size:13.5px;padding:3px 0}}.footer{{text-align:center;font-size:11.5px;color:#6B7785;margin:18px 0}}
-</style></head><body><div class="wrap">
-<div class="hero"><h1>📚 亚马逊运营每日资讯 · 往期归档</h1><div class="sub">共{len(history)}期 ｜ 最新:{e(latest_date)} ｜ 每天08:00更新</div></div>
-<div class="card"><h2>🔁 本周复盘（{ws.isoformat()}~{latest.isoformat()}）</h2><p style="font-size:13.5px;margin:0 0 8px">近7天共<span class="pill">{wt}条</span> 高影响<span class="pill">{wh}条</span></p><ul>{wl}</ul></div>
-<div class="card"><h2>📊 月度汇总</h2><table><tr><th>月份</th><th>条数</th></tr>{mr}</table></div>
-<div class="card"><h2>🗂 完整往期列表</h2><table><tr><th>日期</th><th>期数</th><th>条数</th><th>高影响</th></tr>{rows}</table></div>
-<div class="footer"><a href="index.html">← 返回最新一期</a></div></div></body></html>"""
-
-
-def next_issue(today): return max(1,(today-BASE_DATE).days+1)
-
-def load_history():
-    if os.path.exists(HISTORY_FILE):
-        try: return json.load(open(HISTORY_FILE,encoding="utf-8"))
-        except: return []
-    return []
-
-def save_history(h):
-    os.makedirs("archive",exist_ok=True)
-    json.dump(h,open(HISTORY_FILE,"w",encoding="utf-8"),ensure_ascii=False,indent=2)
-
-
-def main():
-    ap = argparse.ArgumentParser()
-    ap.add_argument("--hours",type=int,default=48)
-    ap.add_argument("--top",type=int,default=8)
-    args = ap.parse_args()
-
-    today = datetime.date.today(); ds = today.strftime("%Y-%m-%d")
-    issue = next_issue(today)
-    print(f"===== 第{issue}期 · {ds} =====")
-
-    # 采集
-    items = collect(args.hours,args.top)
-    high = sum(1 for i in items if i["level"]=="high")
-    official = sum(1 for i in items if i.get("origin")=="official")
-    summary = f"自动聚合{len(items)}条（含{official}条官方原文），其中{high}条高影响。" if items else "今日暂无高相关新资讯。"
-    alert = "检测到高影响条目，推送前建议编辑核对事实与动作。" if high else ""
-
-    # 写档案
-    history = load_history(); record = {"date":ds,"issue":issue,"summary":summary,"alert":alert,"items":items}
-    found=False
-    for idx,h in enumerate(history):
-        if h.get("date")==ds: history[idx]=record; found=True;break
-    if not found: history.append(record)
-    history.sort(key=lambda x:x.get("date","")); save_history(history)
-    print(f"✅ 档案：{len(history)}期（今日{len(items)}条，官方{official}）")
-
-    # 生成全部网页
-    os.makedirs("site",exist_ok=True)
-    for h in history:
-        d={"summary":h["summary"],"alert":h["alert"],"items":h["items"]}
-        with open(f"site/{h['date']}.html","w",encoding="utf-8") as f: f.write(build_html(d,h["date"],h["issue"]))
-    lh = history[-1]
-    ih = build_html({"summary":lh["summary"],"alert":lh["alert"],"items":lh["items"]},ds,issue)
-    open("site/index.html","w",encoding="utf-8").write(ih)
-    open("site/archive.html","w",encoding="utf-8").write(build_archive(history,ds))
-    print(f"✅ 网页：site/index.html + {len(history)}个往期 + archive.html")
-    print("===== 完成 =====")
-
-
-if __name__ == "__main__":
-    main()
+*{{box-sizing:border-box;margin:0;padding:
