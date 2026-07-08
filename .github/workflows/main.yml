@@ -22,46 +22,25 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
-
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-
-      - name: 安装依赖
-        run: pip install requests
-
-      - name: 检查必要文件是否存在
+      - run: pip install requests
+      - name: 检查文件
         run: |
-          echo "=== 文件清单 ==="
-          ls -la .
-          echo ""
-          echo "=== .py 文件 ==="
-          ls -la *.py || echo "⚠ 没有找到 .py 文件！"
-          echo ""
-          echo "=== .github ==="
-          ls -la .github/workflows/ || echo "⚠ 没有 .github 目录！"
-          echo ""
-
-      - name: 采集 → 生成网页 + 往期归档
-        run: python3 run_daily.py
-
-      - name: 提交往期档案
+          echo "=== 根目录 ==="
+          ls -la *.py 2>/dev/null || echo "⚠ 没有 .py 文件！"
+      - name: 运行
+        run: python3 run.py
+      - name: 提交档案
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add archive/history.json
-          if git diff --cached --quiet; then
-            echo "无变化，跳过提交"
-          else
-            git commit -m "daily: 更新往期档案 $(date +%F)"
-            git push
-          fi
-
-      - name: 上传网页到 Pages
-        uses: actions/upload-pages-artifact@v3
+          if git diff --cached --quiet; then echo "无变化"; else git commit -m "daily $(date +%F)" && git push; fi
+      - uses: actions/upload-pages-artifact@v3
         with:
           path: site
-
-      - name: 部署到 GitHub Pages
+      - name: 部署 Pages
         id: deployment
         uses: actions/deploy-pages@v4
