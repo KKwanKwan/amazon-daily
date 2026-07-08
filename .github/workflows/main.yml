@@ -30,6 +30,18 @@ jobs:
       - name: 安装依赖
         run: pip install requests
 
+      - name: 检查必要文件是否存在
+        run: |
+          echo "=== 文件清单 ==="
+          ls -la .
+          echo ""
+          echo "=== .py 文件 ==="
+          ls -la *.py || echo "⚠ 没有找到 .py 文件！"
+          echo ""
+          echo "=== .github ==="
+          ls -la .github/workflows/ || echo "⚠ 没有 .github 目录！"
+          echo ""
+
       - name: 采集 → 生成网页 + 往期归档
         run: python3 run_daily.py
 
