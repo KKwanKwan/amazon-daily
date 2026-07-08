@@ -1,0 +1,138 @@
+[
+  {
+    "date": "2026-07-08",
+    "issue": 1,
+    "summary": "自动聚合8条（含3条官方原文），其中5条高影响。",
+    "alert": "检测到高影响条目，推送前建议编辑核对事实与动作。",
+    "items": [
+      {
+        "level": "high",
+        "column": "物流与供应链",
+        "title": "欧盟“3欧元关税”落地：一项过渡性措施如何重塑对欧小包裹贸易",
+        "tags": [
+          "#物流与供应链",
+          "#新浪财经"
+        ],
+        "what": "欧盟“3欧元关税”落地：一项过渡性措施如何重塑对欧小包裹贸易。欧盟“3欧元关税”落地：一项过渡性措施如何重塑对欧小包裹贸易    新浪财经",
+        "impact": "涉及跨境物流/关税成本，可能改变你的履约方案与到货成本。",
+        "action": "本周内核算该路向履约成本，评估转海外仓/本土仓方案。",
+        "source": "新浪财经（via Google News 聚合） ｜ Tue, 07 Jul 2026 22:50:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBlMzdrY3JqNjcweGloY3N0TEpPam9WOXFYdkJOT2NWZTRlRUpVU3FpWlFxMFFfaFRudGNGcEl6dVZRaW9uZm9oM0c1NThUNVZQWjdTX1l4dW5EZ1N0bENoc2hXZXRXaml0d3hPbjJaaFdndjhaWktfdw?oc=5",
+        "origin": "google",
+        "needs_review": true
+      },
+      {
+        "level": "high",
+        "column": "物流与供应链",
+        "title": "欧盟取消小额包裹免税，中国卖家怎么办？",
+        "tags": [
+          "#物流与供应链",
+          "#36 Kr"
+        ],
+        "what": "欧盟取消小额包裹免税，中国卖家怎么办？。欧盟取消小额包裹免税，中国卖家怎么办？    36 Kr",
+        "impact": "涉及跨境物流/关税成本，可能改变你的履约方案与到货成本。",
+        "action": "本周内核算该路向履约成本，评估转海外仓/本土仓方案。",
+        "source": "36 Kr（via Google News 聚合） ｜ Tue, 07 Jul 2026 09:46:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5KMlQ5ZmE5VlhUbVZRM0tBbEJFbkF0NnN1YktoNDJGc2QxOVBvaTE2R0hyZkp4c01WY1RLaDNvOWs0dkJWb19Kc1ZhNEFHWEdE?oc=5",
+        "origin": "google",
+        "needs_review": true
+      },
+      {
+        "level": "high",
+        "column": "物流与供应链",
+        "title": "欧盟对低价值线上进口征收3欧元关税",
+        "tags": [
+          "#物流与供应链",
+          "#Vinetur"
+        ],
+        "what": "欧盟对低价值线上进口征收3欧元关税。欧盟对低价值线上进口征收3欧元关税    Vinetur",
+        "impact": "涉及跨境物流/关税成本，可能改变你的履约方案与到货成本。",
+        "action": "本周内核算该路向履约成本，评估转海外仓/本土仓方案。",
+        "source": "Vinetur（via Google News 聚合） ｜ Tue, 07 Jul 2026 18:51:24 GMT",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUWJ6TGQ4S2tWaTg1Q2ZndkkwUXlVT29oOEFrNWVqc0NFQUI5WWdxb0l0dWw3V3A3VHB0Nl9WajBPOF94cW54UGIyVk9LT0lFU3JKMGd4SUtwMHRMYkJrSVd6ODl0SkhmaTUwa2hvRUdZbWFjSzhMelg1MkRzeWlGWG50N2Ewc1ZXZzJVc0xjOTlCRXMycDV3UWlueWxVWDNMOUtSaXgyQXJkYmk3NkFTNE9kRjhJZUk0RWc4SnJ0SdIBxAFBVV95cUxPMFVETmVZTk5XaU5xVXdIbVY4NUNlbE1RSkctZ3dQSGNzN0pqTGRaVzNoNURkWWdmY2JFeFk0c29NLUhqM09aQUhDVnE3UW5HbWxCZ0hiblV0X3R4d1hNUVI3aEF0X0ZWeFpVLVJRSG4ydnBoOWM3S2tBaXBVdVBfMUI1V2QyUGYyWk95MU5GMU16M0k4X3IzbTByNXdmTFViVE10MmlJWHpOa0NZaFd0VzFEVThTZTdMTXhUWWRQMFNGdEZM?oc=5",
+        "origin": "google",
+        "needs_review": true
+      },
+      {
+        "level": "high",
+        "column": "全球合规",
+        "title": "亚马逊Prime会员日合规自查清单",
+        "tags": [
+          "#全球合规",
+          "#雨果跨境"
+        ],
+        "what": "亚马逊Prime会员日合规自查清单。亚马逊Prime会员日合规自查清单    雨果跨境",
+        "impact": "涉及合规或法律风险，未及时处理可能影响账户健康或被处罚。",
+        "action": "本周内排查相关合规风险，按新规整改素材/流程。",
+        "source": "雨果跨境（via Google News 聚合） ｜ Tue, 07 Jul 2026 12:03:11 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE54S2ZtdlB3TWhMRUl3X29zbnE3R3RIOUVsT3VaVndkU0pZQWtxUUVVUGNIOXdfM2lHMmczaC1QOGk4a2Z3Y28zRGhoRVpoRjQ?oc=5",
+        "origin": "google",
+        "needs_review": true
+      },
+      {
+        "level": "high",
+        "column": "全球合规",
+        "title": "亚马逊使用AI作图，不标注可能会被封号？罚款5000美金？",
+        "tags": [
+          "#全球合规",
+          "#雨果跨境"
+        ],
+        "what": "亚马逊使用AI作图，不标注可能会被封号？罚款5000美金？。亚马逊使用AI作图，不标注可能会被封号？罚款5000美金？    雨果跨境",
+        "impact": "涉及合规或法律风险，未及时处理可能影响账户健康或被处罚。",
+        "action": "本周内排查相关合规风险，按新规整改素材/流程。",
+        "source": "雨果跨境（via Google News 聚合） ｜ Tue, 07 Jul 2026 08:32:33 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE55Wk1EQVhWbkZTTVo2d0ZhUmVEeTlIWFRGVFJGcm9NSkRELUdySmVZaGhOOXJuVEN6TWNfbHEwN2FocHpvdHlub0VvT1Y?oc=5",
+        "origin": "google",
+        "needs_review": true
+      },
+      {
+        "level": "mid",
+        "column": "今日头条",
+        "title": "Amazon data center communities: Here’s what’s happening near data centers across the US",
+        "tags": [
+          "#今日头条",
+          "#About Amazon"
+        ],
+        "what": "Amazon data center communities: Here’s what’s happening near data centers across the US。Get the latest updates on how Amazon supports small businesses, creates jobs, sets up sustainability initiatives, and develops educational programs near AWS data centers",
+        "impact": "涉及市场/站点拓展机会，值得关注布局窗口。",
+        "action": "有相关意向的，联系账户经理了解扶持/入驻条件。",
+        "source": "About Amazon ｜ Wed, 08 Jul 2026 15:00:00 GMT",
+        "link": "https://www.aboutamazon.com/news/aws/amazon-data-centers-locations-news?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "mid",
+        "column": "今日头条",
+        "title": "5 ways Amazon is investing in Georgia",
+        "tags": [
+          "#今日头条",
+          "#About Amazon"
+        ],
+        "what": "5 ways Amazon is investing in Georgia。Amazon's investments are boosting Georgia's economy while creating opportunities for Georgians",
+        "impact": "涉及市场/站点拓展机会，值得关注布局窗口。",
+        "action": "有相关意向的，联系账户经理了解扶持/入驻条件。",
+        "source": "About Amazon ｜ Tue, 07 Jul 2026 18:21:54 GMT",
+        "link": "https://www.aboutamazon.com/news/community/amazon-investment-georgia-jobs-small-business?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "mid",
+        "column": "今日头条",
+        "title": "Amazon's water conservation and replenishment efforts around the world",
+        "tags": [
+          "#今日头条",
+          "#About Amazon"
+        ],
+        "what": "Amazon's water conservation and replenishment efforts around the world。Get the latest updates on how we’re reducing our water footprint and investing in innovations to address water scarcity",
+        "impact": "涉及市场/站点拓展机会，值得关注布局窗口。",
+        "action": "有相关意向的，联系账户经理了解扶持/入驻条件。",
+        "source": "About Amazon ｜ Tue, 07 Jul 2026 14:45:00 GMT",
+        "link": "https://www.aboutamazon.com/news/sustainability/amazon-water-conservation-replenishment-sustainability?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      }
+    ]
+  }
+]
