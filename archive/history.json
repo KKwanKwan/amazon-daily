@@ -274,25 +274,9 @@
   {
     "date": "2026-07-10",
     "issue": 3,
-    "summary": "8 items (5 official), 1 high",
-    "alert": "Check high-impact items.",
+    "summary": "8 items (6 official), 0 high",
+    "alert": "",
     "items": [
-      {
-        "level": "high",
-        "column": "物流与供应链",
-        "title": "重磅！欧盟新规7月生效，亚马逊卖家成本将全面上涨！-卖家之家",
-        "tags": [
-          "#物流与供应链",
-          "#新浪财经"
-        ],
-        "what": "重磅！欧盟新规7月生效，亚马逊卖家成本将全面上涨！-卖家之家 重磅！欧盟新规7月生效，亚马逊卖家成本将全面上涨！-卖家之家    新浪财经",
-        "impact": "涉及跨境物流/关税。",
-        "action": "关注后续。",
-        "source": "新浪财经 (via Google News) | Wed, 08 Jul 2026 08:30:23 GMT",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHZFlfMk9jRGdjMThIZmd5Mkx1eEswQWdkRDBlOXhPdVd1UnlzdWxJMEs4TWd0N3U1ckRDRUhQa05DaWxyN051N291UU05UUNfay00bmh2MjhIMlhzS29HV0dxYmpSb1lLcmxwaS1sX09yUQ?oc=5",
-        "origin": "google",
-        "needs_review": true
-      },
       {
         "level": "mid",
         "column": "流量与活动",
@@ -402,6 +386,22 @@
         "action": "联系账户经理了解入仓条件。",
         "source": "About Amazon | Thu, 09 Jul 2026 18:28:00 GMT",
         "link": "https://www.aboutamazon.com/news/aws/amazon-data-centers-locations-news?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Amazon's water conservation and replenishment efforts around the world",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Amazon's water conservation and replenishment efforts around the world Get the latest updates on how we’re reducing our water footprint and investing in innovations to address water scarcity",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Wed, 08 Jul 2026 15:39:00 GMT",
+        "link": "https://www.aboutamazon.com/news/sustainability/amazon-water-conservation-replenishment-sustainability?utm_source=rss",
         "origin": "official",
         "needs_review": false
       }
