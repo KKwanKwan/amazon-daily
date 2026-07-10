@@ -270,5 +270,141 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-07-10",
+    "issue": 3,
+    "summary": "8 items (5 official), 1 high",
+    "alert": "Check high-impact items.",
+    "items": [
+      {
+        "level": "high",
+        "column": "物流与供应链",
+        "title": "重磅！欧盟新规7月生效，亚马逊卖家成本将全面上涨！-卖家之家",
+        "tags": [
+          "#物流与供应链",
+          "#新浪财经"
+        ],
+        "what": "重磅！欧盟新规7月生效，亚马逊卖家成本将全面上涨！-卖家之家 重磅！欧盟新规7月生效，亚马逊卖家成本将全面上涨！-卖家之家    新浪财经",
+        "impact": "涉及跨境物流/关税。",
+        "action": "关注后续。",
+        "source": "新浪财经 (via Google News) | Wed, 08 Jul 2026 08:30:23 GMT",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHZFlfMk9jRGdjMThIZmd5Mkx1eEswQWdkRDBlOXhPdVd1UnlzdWxJMEs4TWd0N3U1ckRDRUhQa05DaWxyN051N291UU05UUNfay00bmh2MjhIMlhzS29HV0dxYmpSb1lLcmxwaS1sX09yUQ?oc=5",
+        "origin": "google",
+        "needs_review": true
+      },
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "Masterplan starring Stanley Tucci, coming to Prime Video October 16: Cast, release date, plot, and more",
+        "tags": [
+          "#流量与活动",
+          "#About Amazon"
+        ],
+        "what": "Masterplan starring Stanley Tucci, coming to Prime Video October 16: Cast, release date, plot, and more Academy Award nominee Stanley Tucci plays a legendary thief who recruits his long-lost children to steal the Mona Lisa in this new heist movie",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "About Amazon | Thu, 09 Jul 2026 11:55:35 GMT",
+        "link": "https://www.aboutamazon.com/news/entertainment/masterplan-stanley-tucci-prime-video?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "Amazon MGM Studios and Prime Video earn 68 Emmy Award nominations for \"Spider-Noir,\" 'Fallout,' and more",
+        "tags": [
+          "#流量与活动",
+          "#About Amazon"
+        ],
+        "what": "Amazon MGM Studios and Prime Video earn 68 Emmy Award nominations for \"Spider-Noir,\" 'Fallout,' and more 'The Boys,' 'Bait,' and 'John Candy: I Like Me' were also among the nominees for the 2026 Emmy Awards",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "About Amazon | Wed, 08 Jul 2026 17:23:25 GMT",
+        "link": "https://www.aboutamazon.com/news/entertainment/emmys-amazon-mgm-studios-prime-video?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "A first look at ‘Campus Drivers,’ Prime Video’s adaptation of the best-selling novels coming November 2026",
+        "tags": [
+          "#流量与活动",
+          "#About Amazon"
+        ],
+        "what": "A first look at ‘Campus Drivers,’ Prime Video’s adaptation of the best-selling novels coming November 2026 The French Prime Video young adult series adapts author C.S. Quill's popular college romance novels",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "About Amazon | Wed, 08 Jul 2026 16:34:46 GMT",
+        "link": "https://www.aboutamazon.com/news/entertainment/campus-drivers-prime-video?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "Watch the teaser trailer for ‘You+Me – Against the World,’ Prime Video’s new romantic drama adaptation coming September 18",
+        "tags": [
+          "#流量与活动",
+          "#About Amazon"
+        ],
+        "what": "Watch the teaser trailer for ‘You+Me – Against the World,’ Prime Video’s new romantic drama adaptation coming September 18 Prime Video’s film adaptation of author Emma Green’s young adult trilogy follows two students who can’t resist each other",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "About Amazon | Wed, 08 Jul 2026 13:58:50 GMT",
+        "link": "https://www.aboutamazon.com/news/entertainment/you-me-toi-moi-prime-video?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "追觅科技 Prime Day欧美热销，多品类矩阵拓宽全球版图",
+        "tags": [
+          "#流量与活动",
+          "#雷科技"
+        ],
+        "what": "追觅科技 Prime Day欧美热销，多品类矩阵拓宽全球版图 追觅科技 Prime Day欧美热销，多品类矩阵拓宽全球版图    雷科技",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "雷科技 (via Google News) | Thu, 09 Jul 2026 07:23:09 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9UUkQ1QUNaa0RzeE5UaWViNnA3WGdUblZuU0V0VkNUN0ozcTZZQ3RpZ3R1QmpWdFlHMlJqYmZabVdlZEg0V1FQa3daVFppQQ?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "TikTok的成功带来了营收增长……Nooni在亚马逊Prime Day期间北美销售额激增",
+        "tags": [
+          "#流量与活动",
+          "#벤처스퀘어"
+        ],
+        "what": "TikTok的成功带来了营收增长……Nooni在亚马逊Prime Day期间北美销售额激增 TikTok的成功带来了营收增长……Nooni在亚马逊Prime Day期间北美销售额激增    벤처스퀘어",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "벤처스퀘어 (via Google News) | Thu, 09 Jul 2026 11:31:15 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KT0RaR0ZReklCVW1faW9Ta2NWaEV4djdCSy1SeF9XTVptd3NkVkRtX1g2NzFKbHJGdHRkWGNqUkpaVmFMVUVxWURZbkFHNkVQQ2Zz?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Amazon data center communities: Here’s what’s happening near data centers across the US",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Amazon data center communities: Here’s what’s happening near data centers across the US Get the latest updates on how Amazon supports small businesses, creates jobs, sets up sustainability initiatives, and develops educational programs near AWS data centers",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Thu, 09 Jul 2026 18:28:00 GMT",
+        "link": "https://www.aboutamazon.com/news/aws/amazon-data-centers-locations-news?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      }
+    ]
   }
 ]
