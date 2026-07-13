@@ -630,5 +630,77 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-07-13",
+    "issue": 6,
+    "summary": "4 items (1 official), 0 high",
+    "alert": "",
+    "items": [
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "瞄准中国跨境电商平台，法国想到了新手段",
+        "tags": [
+          "#headline",
+          "#手机网易网"
+        ],
+        "what": "瞄准中国跨境电商平台，法国想到了新手段 瞄准中国跨境电商平台，法国想到了新手段    手机网易网",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "手机网易网 (via Google News) | Sat, 11 Jul 2026 02:37:43 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pQUZYWUdvNEZJWUJQbkZMOE53SWV1bHI0ODNpbVZkNUNKTTg1X0NUbFJWRDMwd2hXVVZsdDVUWWhReEliZ0pEWm9wYmRESjljTGJhcmw1dXN1elBRRmN5eU9B?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "最后通牒已下！欧盟27国联手围堵中国，中方已经做好最坏打算",
+        "tags": [
+          "#headline",
+          "#手机网易网"
+        ],
+        "what": "最后通牒已下！欧盟27国联手围堵中国，中方已经做好最坏打算 最后通牒已下！欧盟27国联手围堵中国，中方已经做好最坏打算    手机网易网",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "手机网易网 (via Google News) | Sun, 12 Jul 2026 09:05:52 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1WUVpFbVB6c1lKWEZHcU5jWUkyNlBFSG8wSjNGRHFhaGlmcXVTc19SUWZBTlc1T2M4VTRxV3BfMnBsTGI3a0pOclJDUUZmVmtaTTAyTHU0QXR4ZFRaYVFDWmFn?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "工具与运营",
+        "title": "Intent Clusters Guide AI Product Discovery",
+        "tags": [
+          "#工具与运营",
+          "#Practical Ecommerce"
+        ],
+        "what": "Intent Clusters Guide AI Product Discovery AI's growth in search and shopping adds precision to intent behaviors and opportunities. The post Intent Clusters Guide AI Product Discovery appeared first on Practical Ecommerce ",
+        "impact": "涉及运营工具。",
+        "action": "关注后续。",
+        "source": "Practical Ecommerce | Sun, 12 Jul 2026 12:56:29 +0000",
+        "link": "https://www.practicalecommerce.com/intent-clusters-guide-ai-product-discovery",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "物流与供应链",
+        "title": "USTR就60个经济体强迫劳动相关301关税举行听证；88家欧洲组织联署要求电商平台承担非欧盟卖家产品责任 | 跨境电商日报",
+        "tags": [
+          "#物流与供应链",
+          "#手机网易网"
+        ],
+        "what": "USTR就60个经济体强迫劳动相关301关税举行听证；88家欧洲组织联署要求电商平台承担非欧盟卖家产品责任 | 跨境电商日报 USTR就60个经济体强迫劳动相关301关税举行听证；88家欧洲组织联署要求电商平台承担非欧盟卖家产品责任 | 跨境电商日报    手机网易网",
+        "impact": "涉及跨境物流/关税。",
+        "action": "关注后续。",
+        "source": "手机网易网 (via Google News) | Mon, 13 Jul 2026 00:03:12 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9yWUJ3ZkRBaFdWcFZiTFY3SWlhMm0yRlJXeEZSQUNWbFlGdHo0SGRkZE4ySnY2eERHWlB5RUQtZ0RwTE5mOUtreUN3TUlHZmt1Q29iMjZxdmcta2EyZk1VbktB?oc=5",
+        "origin": "google",
+        "needs_review": false
+      }
+    ]
   }
 ]
