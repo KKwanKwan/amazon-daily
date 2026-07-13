@@ -634,22 +634,54 @@
   {
     "date": "2026-07-13",
     "issue": 6,
-    "summary": "4 items (1 official), 0 high",
+    "summary": "7 items (1 official), 0 high",
     "alert": "",
     "items": [
       {
-        "level": "low",
-        "column": "headline",
-        "title": "瞄准中国跨境电商平台，法国想到了新手段",
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "亚马逊印度Prime Day成绩单出炉：同日达订单激增3倍",
         "tags": [
-          "#headline",
-          "#手机网易网"
+          "#流量与活动",
+          "#电商派"
         ],
-        "what": "瞄准中国跨境电商平台，法国想到了新手段 瞄准中国跨境电商平台，法国想到了新手段    手机网易网",
-        "impact": "建议关注。",
-        "action": "联系账户经理了解入仓条件。",
-        "source": "手机网易网 (via Google News) | Sat, 11 Jul 2026 02:37:43 GMT",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pQUZYWUdvNEZJWUJQbkZMOE53SWV1bHI0ODNpbVZkNUNKTTg1X0NUbFJWRDMwd2hXVVZsdDVUWWhReEliZ0pEWm9wYmRESjljTGJhcmw1dXN1elBRRmN5eU9B?oc=5",
+        "what": "亚马逊印度Prime Day成绩单出炉：同日达订单激增3倍 亚马逊印度Prime Day成绩单出炉：同日达订单激增3倍    电商派",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "电商派 (via Google News) | Mon, 13 Jul 2026 03:56:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wMS1aejdVank4LXJoQzRSUlEtM1hTNVRjZVNHSk1qejJkUkp0MTc1akx5QnJJcHFFdTVPdTA4RzRTOFNKR1A2LUdTb1JzQkJEbVBreHhsVW4tYWl2MGtFNw?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "亚马逊印度第十届Prime Day落幕 高端数码与下沉市场双爆发",
+        "tags": [
+          "#流量与活动",
+          "#全球定制网"
+        ],
+        "what": "亚马逊印度第十届Prime Day落幕 高端数码与下沉市场双爆发 亚马逊印度第十届Prime Day落幕 高端数码与下沉市场双爆发    全球定制网",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "全球定制网 (via Google News) | Mon, 13 Jul 2026 06:09:35 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9jTlNsQTRCeE5VVEVJQU1KbWdTclFneEVGaFJaUEdZbUFka24tZU9lTG1wQmJsUmd3by0xWlJ5US1ON3h6X0txTzlMQTdYdw?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "mid",
+        "column": "物流与供应链",
+        "title": "亚马逊印度Prime Day同日达订单激增3倍 物流效率创历史新高",
+        "tags": [
+          "#物流与供应链",
+          "#全球定制网"
+        ],
+        "what": "亚马逊印度Prime Day同日达订单激增3倍 物流效率创历史新高 亚马逊印度Prime Day同日达订单激增3倍 物流效率创历史新高    全球定制网",
+        "impact": "涉及跨境物流/关税。",
+        "action": "关注后续。",
+        "source": "全球定制网 (via Google News) | Mon, 13 Jul 2026 06:09:45 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBHY3RCUTlONGNOR1J2RW9KaERMWXJXOHpsLVFRYkkycjBRQ0ZLd0hhaWFBYWZrU0dUWERFV25oaGlkeVY2NzlYODcwcU1pUQ?oc=5",
         "origin": "google",
         "needs_review": false
       },
@@ -698,6 +730,22 @@
         "action": "关注后续。",
         "source": "手机网易网 (via Google News) | Mon, 13 Jul 2026 00:03:12 GMT",
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9yWUJ3ZkRBaFdWcFZiTFY3SWlhMm0yRlJXeEZSQUNWbFlGdHo0SGRkZE4ySnY2eERHWlB5RUQtZ0RwTE5mOUtreUN3TUlHZmt1Q29iMjZxdmcta2EyZk1VbktB?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "物流与供应链",
+        "title": "Temu流量腰斩？SHEIN几乎退出？欧洲关税新政已致平台投流大幅缩减",
+        "tags": [
+          "#物流与供应链",
+          "#手机网易网"
+        ],
+        "what": "Temu流量腰斩？SHEIN几乎退出？欧洲关税新政已致平台投流大幅缩减 Temu流量腰斩？SHEIN几乎退出？欧洲关税新政已致平台投流大幅缩减    手机网易网",
+        "impact": "涉及跨境物流/关税。",
+        "action": "关注后续。",
+        "source": "手机网易网 (via Google News) | Mon, 13 Jul 2026 05:59:04 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9UQWQ5RGlNb0hmbndYQ3hIMmw4YzctQnFqY1BjUXZla1BHV0ZSNEhwWTZSVnFQdWt0dDF4ODFYTVZWZkxNeGRVN1VMaDRTZWJyQ2xCaVFpeGwxZWNuMGVtNUdn?oc=5",
         "origin": "google",
         "needs_review": false
       }
