@@ -1158,5 +1158,141 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-07-17",
+    "issue": 10,
+    "summary": "8 items (2 official), 2 high",
+    "alert": "Check high-impact items.",
+    "items": [
+      {
+        "level": "high",
+        "column": "物流与供应链",
+        "title": "亚马逊旺季配送费10月15日生效卖家物流成本将迎来上涨- 跨境电商",
+        "tags": [
+          "#物流与供应链",
+          "#亿邦动力网"
+        ],
+        "what": "亚马逊旺季配送费10月15日生效卖家物流成本将迎来上涨- 跨境电商 亚马逊旺季配送费10月15日生效卖家物流成本将迎来上涨- 跨境电商    亿邦动力网",
+        "impact": "涉及跨境物流/关税。",
+        "action": "关注后续。",
+        "source": "亿邦动力网 (via Google News) | Thu, 16 Jul 2026 01:23:08 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MT2JVRjl4S1Nid2Z6QzNUNGdqMmdNYlQ4WE1EWC11X1hVWUYzZTJLWm16enNPQmRZTEZHbEg2M21nUUlWeVJHRjlUTVhoMEN6NVY5eWNn?oc=5",
+        "origin": "google",
+        "needs_review": true
+      },
+      {
+        "level": "high",
+        "column": "政策与费用",
+        "title": "亚马逊 2026 旺季 FBA 履约费上调：10 月 15 日生效 叠加 3.5% 附加费",
+        "tags": [
+          "#政策与费用",
+          "#全球定制网"
+        ],
+        "what": "亚马逊 2026 旺季 FBA 履约费上调：10 月 15 日生效 叠加 3.5% 附加费 亚马逊 2026 旺季 FBA 履约费上调：10 月 15 日生效 叠加 3.5% 附加费    全球定制网",
+        "impact": "涉及平台费用。",
+        "action": "关注后续。",
+        "source": "全球定制网 (via Google News) | Thu, 16 Jul 2026 02:11:50 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFByb0VEd2N2RUlEdDVOYzdjN3VLUGxLako4eThCbWFNX1Jhd0JmRmlEUkVMcmVKdlJEbVRsdy12QXBPa2FYcGFNRlNST2lvQQ?oc=5",
+        "origin": "google",
+        "needs_review": true
+      },
+      {
+        "level": "mid",
+        "column": "政策与费用",
+        "title": "亚马逊FBA费用全面上调，2026下半年卖家如何守住盈利空间？",
+        "tags": [
+          "#政策与费用",
+          "#雨果跨境"
+        ],
+        "what": "亚马逊FBA费用全面上调，2026下半年卖家如何守住盈利空间？ 亚马逊FBA费用全面上调，2026下半年卖家如何守住盈利空间？    雨果跨境",
+        "impact": "涉及平台费用。",
+        "action": "关注后续。",
+        "source": "雨果跨境 (via Google News) | Thu, 16 Jul 2026 10:17:23 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1XWndZanRSaXkxSFUzbXN1bEdxRVBvV1gwdUFwWnpDY0ZIaTExemR2bjJLVzU0RUg3VC03amFyR1NpcVVkNUo0XzFUaHQ?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "mid",
+        "column": "政策与费用",
+        "title": "官宣!亚马逊欧洲站点2026年FBA旺季配送费上调",
+        "tags": [
+          "#政策与费用",
+          "#雨果跨境"
+        ],
+        "what": "官宣!亚马逊欧洲站点2026年FBA旺季配送费上调 官宣!亚马逊欧洲站点2026年FBA旺季配送费上调    雨果跨境",
+        "impact": "涉及平台费用。",
+        "action": "关注后续。",
+        "source": "雨果跨境 (via Google News) | Wed, 15 Jul 2026 08:19:13 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBEQmYydEI4Q21HVDZ0dHB0ZWg2NnBpdFc0cmRYV1c3bkk4dlg0R2dWc0xGQS1HeGZJNE5UVUwxLWJLWENhM2RtSFpiVjA?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "Prime day大促后，站外这笔账亚马逊卖家该重新算了",
+        "tags": [
+          "#流量与活动",
+          "#新浪财经"
+        ],
+        "what": "Prime day大促后，站外这笔账亚马逊卖家该重新算了 Prime day大促后，站外这笔账亚马逊卖家该重新算了    新浪财经",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "新浪财经 (via Google News) | Fri, 17 Jul 2026 03:06:33 GMT",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pUFh0V2NIR253U09jZE1VX2RvRXZFMnB0d3hfSXFadDlzNHRseG5scU8wNDBBbk5uTjlJWGFnU1VFOWtuNndVSWEyRVZPQXRUaXhiSkZoSW5uX3RseVE4a2VtYmJKVTdfT2pBenpBUlJSUQ?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "2026亚马逊Prime会员日收官！中国卖家多站点销量大幅暴涨",
+        "tags": [
+          "#流量与活动",
+          "#雨果跨境"
+        ],
+        "what": "2026亚马逊Prime会员日收官！中国卖家多站点销量大幅暴涨 2026亚马逊Prime会员日收官！中国卖家多站点销量大幅暴涨    雨果跨境",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "雨果跨境 (via Google News) | Thu, 16 Jul 2026 06:16:24 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA2cERENGpfemJ2Yy1zTnQ3Y1c0d0J5UlRSaGVCRHdQel81Sk9mUXFSTW1rc0VKWlNibHF5WG5GUFdIYV8xNHFpckp5R2tqX0U?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Amazon will share its Q2 2026 earnings on July 30",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Amazon will share its Q2 2026 earnings on July 30 On July 30, Amazon is set to hold a conference call to discuss its Q2 2026 financial results",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Thu, 16 Jul 2026 20:06:30 GMT",
+        "link": "https://www.aboutamazon.com/news/company-news/amazon-earnings-q2-2026-report?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "10 things to know about AWS’s new compute leader Dave Treadwell",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "10 things to know about AWS’s new compute leader Dave Treadwell Now the Senior Vice President of Compute and Machine Learning Services, Treadwell joined Amazon almost by accident and was one of the coders behind early Windows",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Thu, 16 Jul 2026 16:00:11 GMT",
+        "link": "https://www.aboutamazon.com/news/aws/aws-compute-leader-dave-treadwell-things-to-know?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      }
+    ]
   }
 ]
