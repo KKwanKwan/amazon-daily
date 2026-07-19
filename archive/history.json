@@ -1430,5 +1430,141 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-07-19",
+    "issue": 12,
+    "summary": "8 items (1 official), 0 high",
+    "alert": "",
+    "items": [
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "Prime day大促后，站外这笔账亚马逊卖家该重新算了",
+        "tags": [
+          "#流量与活动",
+          "#新浪财经"
+        ],
+        "what": "Prime day大促后，站外这笔账亚马逊卖家该重新算了 Prime day大促后，站外这笔账亚马逊卖家该重新算了    新浪财经",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "新浪财经 (via Google News) | Fri, 17 Jul 2026 03:06:33 GMT",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pUFh0V2NIR253U09jZE1VX2RvRXZFMnB0d3hfSXFadDlzNHRseG5scU8wNDBBbk5uTjlJWGFnU1VFOWtuNndVSWEyRVZPQXRUaXhiSkZoSW5uX3RseVE4a2VtYmJKVTdfT2pBenpBUlJSUQ?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "亚马逊澳洲Prime Day余热未散：扫拖机器人折扣仍在，最低299澳元",
+        "tags": [
+          "#流量与活动",
+          "#手机网易网"
+        ],
+        "what": "亚马逊澳洲Prime Day余热未散：扫拖机器人折扣仍在，最低299澳元 亚马逊澳洲Prime Day余热未散：扫拖机器人折扣仍在，最低299澳元    手机网易网",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "手机网易网 (via Google News) | Fri, 17 Jul 2026 20:54:47 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBic0gyUlZKRkxhb1RNcDlsVXB5dXdtbzg5Z3ViYU50czBkcmVLUXJwU1FYcmVsaWhFR2FyRjJ4Z3I1Y1l0eTkyd3IzZV9PNkhBT0ZIbGYxLWxvVWZkVy1Oa0l3?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "A One-Two Punch Drives Ecommerce Growth",
+        "tags": [
+          "#headline",
+          "#Practical Ecommerce"
+        ],
+        "what": "A One-Two Punch Drives Ecommerce Growth Agency owner Sean Stone says brands should focus on their own domains while selling Amazon-only items secondarily. It's a one-two punch, he says. The post A One-Two Punch Drives Ecommerce Growth appea",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "Practical Ecommerce | Fri, 17 Jul 2026 13:30:26 +0000",
+        "link": "https://www.practicalecommerce.com/a-one-two-punch-drives-ecommerce-growth",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "2026 亚马逊全球开店标杆新卖家孵化计划 扶持政策全解",
+        "tags": [
+          "#headline",
+          "#全球定制网"
+        ],
+        "what": "2026 亚马逊全球开店标杆新卖家孵化计划 扶持政策全解 2026 亚马逊全球开店标杆新卖家孵化计划 扶持政策全解    全球定制网",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "全球定制网 (via Google News) | Fri, 17 Jul 2026 02:35:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9mNXpMTzVmY1Q2Qk1ud25tQ3IxRXNTdXYxZjQ0R1VPQnR2c1JORm51QkoyVnJMeEM0YjA0eG0wMlpObk5QSkNIeHpEWFhVdw?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "暴涨13倍！半年涨两次！亚马逊卖家利润被挤压。",
+        "tags": [
+          "#headline",
+          "#全球定制网"
+        ],
+        "what": "暴涨13倍！半年涨两次！亚马逊卖家利润被挤压。 暴涨13倍！半年涨两次！亚马逊卖家利润被挤压。    全球定制网",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "全球定制网 (via Google News) | Fri, 17 Jul 2026 07:34:21 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1PZFBVOE5ZOTRvNFI0T0lsXzBlTk9zTXZPR3Ytb05LSXdSa3FQdUxJa1dRa09hWnpqMUhzY3hLbVFNemtmYi12ZVJ4Z0lEdw?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "中欧是战是和？马上有答案，冯德莱恩没想到，加盟国称中国是盟友",
+        "tags": [
+          "#headline",
+          "#手机网易网"
+        ],
+        "what": "中欧是战是和？马上有答案，冯德莱恩没想到，加盟国称中国是盟友 中欧是战是和？马上有答案，冯德莱恩没想到，加盟国称中国是盟友    手机网易网",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "手机网易网 (via Google News) | Fri, 17 Jul 2026 03:26:38 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9CSjJPSXN3M3doVE9mZS1pMi12UngzdkhHRlotbnlidzlhMUxTZXNDTHNnYXZOMVljNUZYbkhlcjhLX0RId2xnTEJQUzY1N2NRdWpLeG5xUENDYjFQM2NCNVhn?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "物流与供应链",
+        "title": "欧盟关税新政冲击低价产品，中国卖家将挑战变机遇",
+        "tags": [
+          "#物流与供应链",
+          "#新浪财经"
+        ],
+        "what": "欧盟关税新政冲击低价产品，中国卖家将挑战变机遇 欧盟关税新政冲击低价产品，中国卖家将挑战变机遇    新浪财经",
+        "impact": "涉及跨境物流/关税。",
+        "action": "关注后续。",
+        "source": "新浪财经 (via Google News) | Sat, 18 Jul 2026 17:46:34 GMT",
+        "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNUFJNTkw1R01CdTRoZnRYTWdSYWpkOUZpUmxXQVhWLXdwcFM4R0cxQTkyM0FmeS1GT3lFd3Nua0dURktQbFROZ0NGUFcxd1VJaEJFMkNKT18wcDVWRldCekdqNDJvMFNmOTBUbFVtRXFkYU9Uak9zaDQwMTBERHhVeXBhS1N6T0FjS3o3dUlyeXlDaE1hOUtqVjRqVnVvOTZGQ1FJVnJCZ2xKWG5Ec1NmT1YxQ2k5Y0t2cUY4RGtEbzhtelp5QWtMeVJSbnJrNjZ6NFlLcU5xRzhqdmt3UmRRejl0UlNqSVVNUDlSSDc5MS1kMXhrN2FDZG93Q2tZSkhpVmdOZ09acDQxZlU3QlVtcEVkU01TTjZp?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "物流与供应链",
+        "title": "市场验证+政策加码！海外仓正从可选项变成跨境出海标配",
+        "tags": [
+          "#物流与供应链",
+          "#手机网易网"
+        ],
+        "what": "市场验证+政策加码！海外仓正从可选项变成跨境出海标配 市场验证+政策加码！海外仓正从可选项变成跨境出海标配    手机网易网",
+        "impact": "涉及跨境物流/关税。",
+        "action": "关注后续。",
+        "source": "手机网易网 (via Google News) | Fri, 17 Jul 2026 01:59:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE95R3FuRy1ZUzA0SWh2Q1ZyS0RHWWFrWnVmclF1UXl2Q3ZaYUdaNXdDckhTdHRBci1TeXJxVVN0Wmthd203NE1qNEpsVVJfNEdieHFUbXJaN1NCLWZ4cjFUM3ln?oc=5",
+        "origin": "google",
+        "needs_review": false
+      }
+    ]
   }
 ]
