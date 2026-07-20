@@ -1566,5 +1566,45 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-07-20",
+    "issue": 13,
+    "summary": "2 items (1 official), 0 high",
+    "alert": "",
+    "items": [
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "RCS or SMS? It Depends on the Task",
+        "tags": [
+          "#headline",
+          "#Practical Ecommerce"
+        ],
+        "what": "RCS or SMS? It Depends on the Task RCS is worth the cost if it helps shoppers complete a task more profitably than SMS. The post RCS or SMS? It Depends on the Task appeared first on Practical Ecommerce ",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "Practical Ecommerce | Sun, 19 Jul 2026 13:14:17 +0000",
+        "link": "https://www.practicalecommerce.com/rcs-or-sms-it-depends-on-the-task",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "物流与供应链",
+        "title": "欧盟关税新政冲击低价产品，中国卖家将挑战变机遇",
+        "tags": [
+          "#物流与供应链",
+          "#新浪财经"
+        ],
+        "what": "欧盟关税新政冲击低价产品，中国卖家将挑战变机遇 欧盟关税新政冲击低价产品，中国卖家将挑战变机遇    新浪财经",
+        "impact": "涉及跨境物流/关税。",
+        "action": "关注后续。",
+        "source": "新浪财经 (via Google News) | Sun, 19 Jul 2026 10:57:05 GMT",
+        "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNX01iYXdxc2hWdlAyQzBzQW5nMUVSNDR3cVdUYUdkdEZwcEJvMWtqVlNXTFNIZHpHRVRNTFcyd2ZQQVNKVVhZdmZSUDlCT25UOUtfaUgwVXBOa2cxbUdNOUhwTTFYQUNjR082WEFNQXplSGoyRjJSaWlBVW1NRTg1ZS1PMlhnYmtEcnAxSFJMOFRoWGlzTEVLbHVsYU9RVFRZeU5xWlUxbmdOZ0tpSmFLb2w3NXZQMXBWZWs2MWp3S0ZxMV83eGIta19pc3d2alAxc01MajlkamctSTA3Y2Q0bklfMWtQV29udVM0aWtpaG5ZRnF6bElxQ3NGc01XQjlrQ3VUeHgwc09MUWxvWnhndF9DNnpJb2c?oc=5",
+        "origin": "google",
+        "needs_review": false
+      }
+    ]
   }
 ]
