@@ -1726,5 +1726,125 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-07-22",
+    "issue": 15,
+    "summary": "7 items (2 official), 0 high",
+    "alert": "",
+    "items": [
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "亚马逊提前举办Prime Day带动美国6月线上消费增长",
+        "tags": [
+          "#流量与活动",
+          "#富途牛牛"
+        ],
+        "what": "亚马逊提前举办Prime Day带动美国6月线上消费增长 亚马逊提前举办Prime Day带动美国6月线上消费增长    富途牛牛",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "富途牛牛 (via Google News) | Tue, 21 Jul 2026 05:34:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBTYkpRVE10aF9WZTRiQWtpbWo3VGZzT3dxRmViUUFoWGdoaTRnYVF1anpyb0g2Z0FFWnlJc1ZoTjdLazdqbmJOb2RTbExfdw?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "百思买“七月黑五”大促开启：乐高绝版套装爆冷击穿Prime Day底价，游戏碟片降至白菜价",
+        "tags": [
+          "#流量与活动",
+          "#手机网易网"
+        ],
+        "what": "百思买“七月黑五”大促开启：乐高绝版套装爆冷击穿Prime Day底价，游戏碟片降至白菜价 百思买“七月黑五”大促开启：乐高绝版套装爆冷击穿Prime Day底价，游戏碟片降至白菜价    手机网易网",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "手机网易网 (via Google News) | Mon, 20 Jul 2026 17:46:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9PX2RULWlhTF9DYnZxa1dhX2VkT0VkVDBqTktLdWZPc1RHYmpUZWM1dnVBdkJ0LTQzQUl2WVhlb2dKXzBBa2JsUm5FcmVybVhGSzN3MTFzb011OG5OZE9WZDRB?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "How the ONDC Reshapes India Ecommerce",
+        "tags": [
+          "#headline",
+          "#Practical Ecommerce"
+        ],
+        "what": "How the ONDC Reshapes India Ecommerce The Open Network for Digital Commerce aims to help small, local merchants, yet brands can access it, too. The post How the ONDC Reshapes India Ecommerce appeared first on Practical Ecommerce ",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "Practical Ecommerce | Tue, 21 Jul 2026 14:25:02 +0000",
+        "link": "https://www.practicalecommerce.com/how-the-ondc-reshapes-india-ecommerce",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Why Meta Descriptions Still Matter",
+        "tags": [
+          "#headline",
+          "#Practical Ecommerce"
+        ],
+        "what": "Why Meta Descriptions Still Matter Google and genAI platforms show search-result snippets (and answers) that help users. The post Why Meta Descriptions Still Matter appeared first on Practical Ecommerce ",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "Practical Ecommerce | Mon, 20 Jul 2026 13:17:44 +0000",
+        "link": "https://www.practicalecommerce.com/why-meta-descriptions-still-matter",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "亚马逊旺季配送费再次上调，大件货卖家压力最大",
+        "tags": [
+          "#headline",
+          "#雨果跨境"
+        ],
+        "what": "亚马逊旺季配送费再次上调，大件货卖家压力最大 亚马逊旺季配送费再次上调，大件货卖家压力最大    雨果跨境",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "雨果跨境 (via Google News) | Mon, 20 Jul 2026 07:09:41 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE81c05BS2plT2dKY1cxTHFSdUl5OW1NNEdiM0VmTWtaMkp0dXRYMUNmWmREZjRaR0FOZXhhb2kzdXN2WUI4Z2NBVlFOVTM?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "物流与供应链",
+        "title": "欧盟取消150欧元关税豁免后，59亿件小包踩刹车，中国如何破局？",
+        "tags": [
+          "#物流与供应链",
+          "#手机网易网"
+        ],
+        "what": "欧盟取消150欧元关税豁免后，59亿件小包踩刹车，中国如何破局？ 欧盟取消150欧元关税豁免后，59亿件小包踩刹车，中国如何破局？    手机网易网",
+        "impact": "涉及跨境物流/关税。",
+        "action": "关注后续。",
+        "source": "手机网易网 (via Google News) | Mon, 20 Jul 2026 17:02:54 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1qQ0ZTR3BJRGVsc1Y1S3dKcFNrWmpaWEJPa2lXX1N2cDFjNFB2ZXpwVlprQmZpalNLYU1hdklmMjRGTHhjSlQ3STRHVURVLVVuQUVPVThYcW5SbDhlZUFnTU13?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "流量与活动",
+        "title": "亚马逊广告：AI正成为中国跨境中小企业出海\"新引擎\"；阿里最新一代大模型千问3.8将至｜早资道",
+        "tags": [
+          "#流量与活动",
+          "#Sohu"
+        ],
+        "what": "亚马逊广告：AI正成为中国跨境中小企业出海\"新引擎\"；阿里最新一代大模型千问3.8将至｜早资道 亚马逊广告：AI正成为中国跨境中小企业出海\"新引擎\"；阿里最新一代大模型千问3.8将至｜早资道    Sohu",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "Sohu (via Google News) | Mon, 20 Jul 2026 02:07:52 GMT",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYTdEeWduZFRZRXhDQXhoVjBjSVRUbHFBUEhaWjFmOHVyT0RBa3ZYZm1yTkFnWjhtNTZNVmN0THp5cVpuTmYxbFcxUFZoSjJkNzRzWFE1dUliSGpfNkJicVNFOUdUQWdqVVl4R1lWa1NTTjZHNG5jNV9lNm1pYTI3Q1VYNGJWdFMzalVoQw?oc=5",
+        "origin": "google",
+        "needs_review": false
+      }
+    ]
   }
 ]
