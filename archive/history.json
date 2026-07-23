@@ -1846,5 +1846,109 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-07-23",
+    "issue": 16,
+    "summary": "6 items (3 official), 0 high",
+    "alert": "",
+    "items": [
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "Prime Video announces Lily Allen documentary, coming to streaming in 2027",
+        "tags": [
+          "#流量与活动",
+          "#About Amazon"
+        ],
+        "what": "Prime Video announces Lily Allen documentary, coming to streaming in 2027 The upcoming film will chart the life and work of Lily Allen, from her early years through to 'West End Girl.'",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "About Amazon | Wed, 22 Jul 2026 12:55:11 GMT",
+        "link": "https://www.aboutamazon.com/news/entertainment/lily-allen-documentary-prime-video?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "亚马逊宣布将于10月举办第二届Prime Day会员日",
+        "tags": [
+          "#流量与活动",
+          "#Grande Consumo"
+        ],
+        "what": "亚马逊宣布将于10月举办第二届Prime Day会员日 亚马逊宣布将于10月举办第二届Prime Day会员日    Grande Consumo",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "Grande Consumo (via Google News) | Tue, 21 Jul 2026 19:42:26 GMT",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOGh2d1VlQm54U1VUaGdGb1BlRFRWLXZyQmx1a0xDZWRUbF9HaV9jaW9UU2ppMTNRTTNEdHNrNm5mTlpVbjViTTk4cUlHemdzYm5EWC1wajh0SXdNa3hKQjBPRU1uT0NXemFLenlsd09Gb1hMUlZsWEp1WjdqQXFvSWpHYXQwQQ?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "How the ONDC Reshapes India Ecommerce",
+        "tags": [
+          "#headline",
+          "#Practical Ecommerce"
+        ],
+        "what": "How the ONDC Reshapes India Ecommerce The Open Network for Digital Commerce aims to help small, local merchants, yet brands can access it, too. The post How the ONDC Reshapes India Ecommerce appeared first on Practical Ecommerce ",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "Practical Ecommerce | Tue, 21 Jul 2026 14:25:02 +0000",
+        "link": "https://www.practicalecommerce.com/how-the-ondc-reshapes-india-ecommerce",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "美国、欧盟齐对中国跨境电商出手，SHEIN的估值还稳得住吗？",
+        "tags": [
+          "#headline",
+          "#维科号"
+        ],
+        "what": "美国、欧盟齐对中国跨境电商出手，SHEIN的估值还稳得住吗？ 美国、欧盟齐对中国跨境电商出手，SHEIN的估值还稳得住吗？    维科号",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "维科号 (via Google News) | Wed, 22 Jul 2026 08:50:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BcHV4TkJrZmJRWEU4UzNJbTFxSVg2UmhiX2s3eHp1QVAtVUY5ZVdSMEs4X2d1NXpTWlRuSFlUczZKb2RNbGkxUjBCZFozSzA?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "工具与运营",
+        "title": "New Ecommerce Tools: July 22, 2026",
+        "tags": [
+          "#工具与运营",
+          "#Practical Ecommerce"
+        ],
+        "what": "New Ecommerce Tools: July 22, 2026 This week's rundown includes new services for limited-time selling, quick deliveries, secure payments, cross-border, automated marketing, loyalty programs, and more. The post New Ecommerce Tools: July",
+        "impact": "涉及运营工具。",
+        "action": "关注后续。",
+        "source": "Practical Ecommerce | Wed, 22 Jul 2026 13:57:40 +0000",
+        "link": "https://www.practicalecommerce.com/new-ecommerce-tools-july-22-2026",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "物流与供应链",
+        "title": "特朗普重燃关税战，中国跨境电商面临生死考验",
+        "tags": [
+          "#物流与供应链",
+          "#手机网易网"
+        ],
+        "what": "特朗普重燃关税战，中国跨境电商面临生死考验 特朗普重燃关税战，中国跨境电商面临生死考验    手机网易网",
+        "impact": "涉及跨境物流/关税。",
+        "action": "关注后续。",
+        "source": "手机网易网 (via Google News) | Wed, 22 Jul 2026 04:58:25 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE55dGNDRjE0aXhCb1VtWmpTRGRrdl82SmlQVnhCbGQxbV82T0ktQ19LUGFVaURBSURJV0tNZDlJcmVRaERlUk9MSll1WHpVajFkd0phTUo5NTNWb0IzcU5COTh3?oc=5",
+        "origin": "google",
+        "needs_review": false
+      }
+    ]
   }
 ]
