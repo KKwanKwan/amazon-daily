@@ -2142,5 +2142,61 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-07-26",
+    "issue": 19,
+    "summary": "3 items (2 official), 0 high",
+    "alert": "",
+    "items": [
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "Watch the teaser trailer for 'Blade Runner 2099,' a new sci-fi series coming to Prime Video November 25",
+        "tags": [
+          "#流量与活动",
+          "#About Amazon"
+        ],
+        "what": "Watch the teaser trailer for 'Blade Runner 2099,' a new sci-fi series coming to Prime Video November 25 The limited series starring Michelle Yeoh and Hunter Schafer is set 50 years after 'Blade Runner 2049'",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "About Amazon | Fri, 24 Jul 2026 17:40:06 GMT",
+        "link": "https://www.aboutamazon.com/news/entertainment/blade-runner-2099-prime-video?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "The Top Cause of Wasted Ad Spend",
+        "tags": [
+          "#headline",
+          "#Practical Ecommerce"
+        ],
+        "what": "The Top Cause of Wasted Ad Spend Brett Fish, founder of TagHero, says bad data kills advertising performance, a kind of \"garbage in, garbage out.\" The post The Top Cause of Wasted Ad Spend appeared first on Practical Ecommerce ",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "Practical Ecommerce | Fri, 24 Jul 2026 14:23:01 +0000",
+        "link": "https://www.practicalecommerce.com/a-top-cause-of-wasted-ad-spend",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "亚马逊跟卖入口或将取消？2026最新政策解读，跟卖红利彻底消退",
+        "tags": [
+          "#headline",
+          "#全球定制网"
+        ],
+        "what": "亚马逊跟卖入口或将取消？2026最新政策解读，跟卖红利彻底消退 亚马逊跟卖入口或将取消？2026最新政策解读，跟卖红利彻底消退    全球定制网",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "全球定制网 (via Google News) | Fri, 24 Jul 2026 08:03:17 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12aHNoVW51dWk5bVpsSXU4NkFvSGswTFVXa1ZBT1lUajI2YXlPZ0JuLVRlSnNpa3hnYlFUalFCWjFkUWlNdDlzeHFiUVRmdw?oc=5",
+        "origin": "google",
+        "needs_review": false
+      }
+    ]
   }
 ]
