@@ -2438,5 +2438,109 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-07-29",
+    "issue": 22,
+    "summary": "6 items (4 official), 0 high",
+    "alert": "",
+    "items": [
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Amazon in the community: Here’s what’s happening in Seattle, Bellevue, and the Puget Sound",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Amazon in the community: Here’s what’s happening in Seattle, Bellevue, and the Puget Sound Learn how we invest in the community, help power the local economy, and support our employees in the Puget Sound region",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Mon, 27 Jul 2026 13:56:00 GMT",
+        "link": "https://www.aboutamazon.com/news/community/amazon-seattle-bellevue-puget-sound-news?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "How Amazon Leo plans to connect mobile devices from space",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "How Amazon Leo plans to connect mobile devices from space Amazon Leo has filed with the FCC to deploy up to 5,105 new satellites designed to use Globalstar’s spectrum to bring voice, data, messaging, and emergency services directly to mobile devices",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Mon, 27 Jul 2026 12:48:56 GMT",
+        "link": "https://www.aboutamazon.com/news/amazon-leo/amazon-leo-direct-to-device-satellite-service-explained?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Amazon Isn’t the Only U.S. Entry Channel",
+        "tags": [
+          "#headline",
+          "#Practical Ecommerce"
+        ],
+        "what": "Amazon Isn’t the Only U.S. Entry Channel The best channel for U.S. launches depends on whether consumers discover the product or search for it. The post Amazon Isn’t the Only U.S. Entry Channel appeared first on Practical Ecommerce ",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "Practical Ecommerce | Tue, 28 Jul 2026 10:00:03 +0000",
+        "link": "https://www.practicalecommerce.com/amazon-isnt-the-only-u-s-entry-channel",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Optimizing Crawl Budgets: What’s New",
+        "tags": [
+          "#headline",
+          "#Practical Ecommerce"
+        ],
+        "what": "Optimizing Crawl Budgets: What’s New Google's newly updated \"Crawling infrastructure\" documentation includes helpful pointers for streamlining crawls. The post Optimizing Crawl Budgets: What’s New appeared first on Practical Ecommerce ",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "Practical Ecommerce | Mon, 27 Jul 2026 10:00:44 +0000",
+        "link": "https://www.practicalecommerce.com/optimizing-crawl-budgets-whats-new",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "壁垒叠加难抑中国跨境电商韧性",
+        "tags": [
+          "#headline",
+          "#京报网"
+        ],
+        "what": "壁垒叠加难抑中国跨境电商韧性 壁垒叠加难抑中国跨境电商韧性    京报网",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "京报网 (via Google News) | Tue, 28 Jul 2026 10:17:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1HejRUUUprUUZMT1diZTZ4WG9LanVQdk1mX3dnX0FMb00wRS1VUDdfRTR4TmdoMFU0aWpnSEZmWmJ5TlRVUzZjcm5LSEFXQXlwNXZGSWN2YVlQc1ZEbnItVVNrRW52RUxhdVg1clVBN2dIUQ?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "法国下狠手，中国跨境巨头的“欧洲生死劫”刚刚开始",
+        "tags": [
+          "#headline",
+          "#文学城"
+        ],
+        "what": "法国下狠手，中国跨境巨头的“欧洲生死劫”刚刚开始 法国下狠手，中国跨境巨头的“欧洲生死劫”刚刚开始    文学城",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "文学城 (via Google News) | Tue, 28 Jul 2026 04:06:45 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5iNEdneHNMajF1ZXdRNnY0MTBHTGJnNHVKWENaR0Q5WXlVWURWQUFTLWtfQjRqUzNxMi0wYWc5YTBEdXVUbjlWVWkwTWhzSFhZaTIxcGNkQUhYRUJXQW0ydGwwWWZhRklC?oc=5",
+        "origin": "google",
+        "needs_review": false
+      }
+    ]
   }
 ]
