@@ -2542,5 +2542,93 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-07-30",
+    "issue": 23,
+    "summary": "5 items (4 official), 0 high",
+    "alert": "",
+    "items": [
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Amazon in the community: Service, community, and commitment at HQ2",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Amazon in the community: Service, community, and commitment at HQ2 Learn how we invest in the community, help power the local economy, and support our employees in the National Capital Region",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Wed, 29 Jul 2026 20:18:00 GMT",
+        "link": "https://www.aboutamazon.com/news/community/amazon-arlington-virginia-news?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Amazon Isn’t the Only U.S. Entry Channel",
+        "tags": [
+          "#headline",
+          "#Practical Ecommerce"
+        ],
+        "what": "Amazon Isn’t the Only U.S. Entry Channel The best channel for U.S. launches depends on whether consumers discover the product or search for it. The post Amazon Isn’t the Only U.S. Entry Channel appeared first on Practical Ecommerce ",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "Practical Ecommerce | Tue, 28 Jul 2026 10:00:03 +0000",
+        "link": "https://www.practicalecommerce.com/amazon-isnt-the-only-u-s-entry-channel",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "法国下狠手，中国跨境巨头的“欧洲生死劫”刚刚开始",
+        "tags": [
+          "#headline",
+          "#wenxuecity.com"
+        ],
+        "what": "法国下狠手，中国跨境巨头的“欧洲生死劫”刚刚开始 法国下狠手，中国跨境巨头的“欧洲生死劫”刚刚开始    wenxuecity.com",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "wenxuecity.com (via Google News) | Tue, 28 Jul 2026 04:06:45 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5iNEdneHNMajF1ZXdRNnY0MTBHTGJnNHVKWENaR0Q5WXlVWURWQUFTLWtfQjRqUzNxMi0wYWc5YTBEdXVUbjlWVWkwTWhzSFhZaTIxcGNkQUhYRUJXQW0ydGwwWWZhRklC?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "工具与运营",
+        "title": "'The Thomas Crown Affair': Everything to know about the Michael B. Jordan film, in theaters March 5, 2027",
+        "tags": [
+          "#工具与运营",
+          "#About Amazon"
+        ],
+        "what": "'The Thomas Crown Affair': Everything to know about the Michael B. Jordan film, in theaters March 5, 2027 Jordan directs, produces, and stars in a visually breathtaking heist thriller from Amazon MGM Studios",
+        "impact": "涉及运营工具。",
+        "action": "关注后续。",
+        "source": "About Amazon | Wed, 29 Jul 2026 13:00:07 GMT",
+        "link": "https://www.aboutamazon.com/news/entertainment/thomas-crown-affair-michael-b-jordan-amazon-mgm-studios?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "工具与运营",
+        "title": "New Ecommerce Tools: July 29, 2026",
+        "tags": [
+          "#工具与运营",
+          "#Practical Ecommerce"
+        ],
+        "what": "New Ecommerce Tools: July 29, 2026 New services for post-purchase, in-game commerce, payment options, analytics, ad campaigns, logistics, content syndication, search filters, chargebacks, and fraud prevention. The post New Ecommerce To",
+        "impact": "涉及运营工具。",
+        "action": "关注后续。",
+        "source": "Practical Ecommerce | Wed, 29 Jul 2026 09:00:38 +0000",
+        "link": "https://www.practicalecommerce.com/new-ecommerce-tools-july-29-2026",
+        "origin": "official",
+        "needs_review": false
+      }
+    ]
   }
 ]
