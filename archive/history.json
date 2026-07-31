@@ -2630,5 +2630,141 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-07-31",
+    "issue": 24,
+    "summary": "8 items (8 official), 0 high",
+    "alert": "",
+    "items": [
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Q2 Earnings: Andy Jassy on why AWS is booming and what it means for customers",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Q2 Earnings: Andy Jassy on why AWS is booming and what it means for customers AWS revenue growth accelerated to 36.7% year over year—the fastest in 18 quarters—with AI and core services driving each other's growth",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Fri, 31 Jul 2026 00:22:36 GMT",
+        "link": "https://www.aboutamazon.com/news/company-news/amazon-ceo-andy-jassy-aws-revenue-growth-q2-2026-earnings?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Q2 Earnings: Andy Jassy on what's driving Amazon Ads growth",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Q2 Earnings: Andy Jassy on what's driving Amazon Ads growth Amazon Ads generated $19.8 billion of revenue in Q2, up 26% year over year, powered by AI tools, conversational shopping, and multi-sport streaming strategies",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Fri, 31 Jul 2026 00:21:07 GMT",
+        "link": "https://www.aboutamazon.com/news/company-news/amazon-ceo-andy-jassy-amazon-ads-growth-q2-2026-earnings?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Amazon in the community: Here’s what’s happening in Seattle, Bellevue, and the Puget Sound",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Amazon in the community: Here’s what’s happening in Seattle, Bellevue, and the Puget Sound Learn how we invest in the community, help power the local economy, and support our employees in the Puget Sound region",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Thu, 30 Jul 2026 22:44:00 GMT",
+        "link": "https://www.aboutamazon.com/news/community/amazon-seattle-bellevue-puget-sound-news?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Amazon data center communities: Here’s what’s happening near data centers across the US",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Amazon data center communities: Here’s what’s happening near data centers across the US Get the latest updates on how Amazon supports small businesses, creates jobs, sets up sustainability initiatives, and develops educational programs near AWS data centers",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Thu, 30 Jul 2026 15:00:00 GMT",
+        "link": "https://www.aboutamazon.com/news/aws/amazon-data-centers-locations-news?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Amazon in the community: Service, community, and commitment at HQ2",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Amazon in the community: Service, community, and commitment at HQ2 Learn how we invest in the community, help power the local economy, and support our employees in the National Capital Region",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Wed, 29 Jul 2026 20:18:00 GMT",
+        "link": "https://www.aboutamazon.com/news/community/amazon-arlington-virginia-news?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "工具与运营",
+        "title": "Q2 earnings: Andy Jassy on Amazon Stores growth, delivery speed, and AI shopping",
+        "tags": [
+          "#工具与运营",
+          "#About Amazon"
+        ],
+        "what": "Q2 earnings: Andy Jassy on Amazon Stores growth, delivery speed, and AI shopping Amazon CEO Andy Jassy on how the Stores team is expanding selection, delivering at record speeds, growing Grocery and Pharmacy, and using AI to make shopping even easier",
+        "impact": "涉及运营工具。",
+        "action": "关注后续。",
+        "source": "About Amazon | Fri, 31 Jul 2026 00:20:31 GMT",
+        "link": "https://www.aboutamazon.com/news/company-news/amazon-ceo-andy-jassy-stores-growth-ai-shopping-q2-2026-earnings?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "工具与运营",
+        "title": "'The Thomas Crown Affair': Everything to know about the Michael B. Jordan film, in theaters March 5, 2027",
+        "tags": [
+          "#工具与运营",
+          "#About Amazon"
+        ],
+        "what": "'The Thomas Crown Affair': Everything to know about the Michael B. Jordan film, in theaters March 5, 2027 Jordan directs, produces, and stars in a visually breathtaking heist thriller from Amazon MGM Studios",
+        "impact": "涉及运营工具。",
+        "action": "关注后续。",
+        "source": "About Amazon | Wed, 29 Jul 2026 13:00:07 GMT",
+        "link": "https://www.aboutamazon.com/news/entertainment/thomas-crown-affair-michael-b-jordan-amazon-mgm-studios?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "今日头条",
+        "title": "House Bill Reshapes Marketplace Policies",
+        "tags": [
+          "#今日头条",
+          "#Practical Ecommerce"
+        ],
+        "what": "House Bill Reshapes Marketplace Policies The \"Online Sellers' Bill of Rights Act of 2026\" would require marketplaces to explain account suspensions and give affected sellers opportunities to appeal. The post House Bill Reshapes Marketplace P",
+        "impact": "涉及市场拓展。",
+        "action": "关注后续。",
+        "source": "Practical Ecommerce | Thu, 30 Jul 2026 10:08:46 +0000",
+        "link": "https://www.practicalecommerce.com/house-bill-reshapes-marketplace-policies",
+        "origin": "official",
+        "needs_review": false
+      }
+    ]
   }
 ]
