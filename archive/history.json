@@ -2766,5 +2766,141 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-08-01",
+    "issue": 25,
+    "summary": "8 items (8 official), 0 high",
+    "alert": "",
+    "items": [
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "What’s new on Prime Video in August 2026, including ‘Reacher,’ ‘Sterling Point,’ and live sports",
+        "tags": [
+          "#流量与活动",
+          "#About Amazon"
+        ],
+        "what": "What’s new on Prime Video in August 2026, including ‘Reacher,’ ‘Sterling Point,’ and live sports Prime Video’s August lineup also features a series with Bear Grylls and a Novak Djokovic documentary",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "About Amazon | Fri, 31 Jul 2026 13:00:17 GMT",
+        "link": "https://www.aboutamazon.com/news/entertainment/prime-video-august-movies-shows-music-sports-2026?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "How Amazon became one of the world’s top chip companies in a decade",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "How Amazon became one of the world’s top chip companies in a decade Amazon’s custom silicon business exceeded a $25 billion annual revenue run rate—here’s what that means for customers and the future of AI",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Fri, 31 Jul 2026 19:55:28 GMT",
+        "link": "https://www.aboutamazon.com/news/aws/amazon-ai-chips-business-history?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Q2 Earnings: Andy Jassy on why AWS is booming and what it means for customers",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Q2 Earnings: Andy Jassy on why AWS is booming and what it means for customers AWS revenue growth accelerated to 36.7% year over year—the fastest in 18 quarters—with AI and core services driving each other's growth",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Fri, 31 Jul 2026 00:22:36 GMT",
+        "link": "https://www.aboutamazon.com/news/company-news/amazon-ceo-andy-jassy-aws-revenue-growth-q2-2026-earnings?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Q2 Earnings: Andy Jassy on what's driving Amazon Ads growth",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Q2 Earnings: Andy Jassy on what's driving Amazon Ads growth Amazon Ads generated $19.8 billion of revenue in Q2, up 26% year over year, powered by AI tools, conversational shopping, and multi-sport streaming strategies",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Fri, 31 Jul 2026 00:21:07 GMT",
+        "link": "https://www.aboutamazon.com/news/company-news/amazon-ceo-andy-jassy-amazon-ads-growth-q2-2026-earnings?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Amazon in the community: Here’s what’s happening in Seattle, Bellevue, and the Puget Sound",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Amazon in the community: Here’s what’s happening in Seattle, Bellevue, and the Puget Sound Learn how we invest in the community, help power the local economy, and support our employees in the Puget Sound region",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Thu, 30 Jul 2026 22:44:00 GMT",
+        "link": "https://www.aboutamazon.com/news/community/amazon-seattle-bellevue-puget-sound-news?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Amazon data center communities: Here’s what’s happening near data centers across the US",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Amazon data center communities: Here’s what’s happening near data centers across the US Get the latest updates on how Amazon supports small businesses, creates jobs, sets up sustainability initiatives, and develops educational programs near AWS data centers",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Thu, 30 Jul 2026 15:00:00 GMT",
+        "link": "https://www.aboutamazon.com/news/aws/amazon-data-centers-locations-news?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "工具与运营",
+        "title": "Q2 Earnings: Andy Jassy on Amazon Stores growth, delivery speed, and AI shopping",
+        "tags": [
+          "#工具与运营",
+          "#About Amazon"
+        ],
+        "what": "Q2 Earnings: Andy Jassy on Amazon Stores growth, delivery speed, and AI shopping Amazon CEO Andy Jassy on how the Stores team is expanding selection, delivering at record speeds, growing Grocery and Pharmacy, and using AI to make shopping even easier",
+        "impact": "涉及运营工具。",
+        "action": "关注后续。",
+        "source": "About Amazon | Fri, 31 Jul 2026 00:20:31 GMT",
+        "link": "https://www.aboutamazon.com/news/company-news/amazon-ceo-andy-jassy-stores-growth-ai-shopping-q2-2026-earnings?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "工具与运营",
+        "title": "Email Pro: Open Rate Is a Vanity Metric",
+        "tags": [
+          "#工具与运营",
+          "#Practical Ecommerce"
+        ],
+        "what": "Email Pro: Open Rate Is a Vanity Metric Agency owner Nabeel Azeez says revenue, not open rates, is paramount and never unsubscribe dormant recipients. The post Email Pro: Open Rate Is a Vanity Metric appeared first on Practical Ecommerce ",
+        "impact": "涉及运营工具。",
+        "action": "关注后续。",
+        "source": "Practical Ecommerce | Fri, 31 Jul 2026 09:36:07 +0000",
+        "link": "https://www.practicalecommerce.com/email-pro-open-rate-is-a-vanity-metric",
+        "origin": "official",
+        "needs_review": false
+      }
+    ]
   }
 ]
