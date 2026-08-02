@@ -2902,5 +2902,93 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-08-02",
+    "issue": 26,
+    "summary": "5 items (3 official), 0 high",
+    "alert": "",
+    "items": [
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "What’s new on Prime Video in August 2026, including ‘Reacher,’ ‘Sterling Point,’ and live sports",
+        "tags": [
+          "#流量与活动",
+          "#About Amazon"
+        ],
+        "what": "What’s new on Prime Video in August 2026, including ‘Reacher,’ ‘Sterling Point,’ and live sports Prime Video’s August lineup also features a series with Bear Grylls and a Novak Djokovic documentary",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "About Amazon | Fri, 31 Jul 2026 13:00:17 GMT",
+        "link": "https://www.aboutamazon.com/news/entertainment/prime-video-august-movies-shows-music-sports-2026?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "How Amazon became one of the world’s top chip companies in a decade",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "How Amazon became one of the world’s top chip companies in a decade Amazon’s custom silicon business exceeded a $25 billion annual revenue run rate—here’s what that means for customers and the future of AI",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Fri, 31 Jul 2026 19:55:28 GMT",
+        "link": "https://www.aboutamazon.com/news/aws/amazon-ai-chips-business-history?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "工具与运营",
+        "title": "Email Pro: Open Rate Is a Vanity Metric",
+        "tags": [
+          "#工具与运营",
+          "#Practical Ecommerce"
+        ],
+        "what": "Email Pro: Open Rate Is a Vanity Metric Agency owner Nabeel Azeez says revenue, not open rates, is paramount and never unsubscribe dormant recipients. The post Email Pro: Open Rate Is a Vanity Metric appeared first on Practical Ecommerce ",
+        "impact": "涉及运营工具。",
+        "action": "关注后续。",
+        "source": "Practical Ecommerce | Fri, 31 Jul 2026 09:36:07 +0000",
+        "link": "https://www.practicalecommerce.com/email-pro-open-rate-is-a-vanity-metric",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "物流与供应链",
+        "title": "欧盟关税新政冲击低价产品，中国卖家将挑战变机遇",
+        "tags": [
+          "#物流与供应链",
+          "#新浪财经"
+        ],
+        "what": "欧盟关税新政冲击低价产品，中国卖家将挑战变机遇 欧盟关税新政冲击低价产品，中国卖家将挑战变机遇    新浪财经",
+        "impact": "涉及跨境物流/关税。",
+        "action": "关注后续。",
+        "source": "新浪财经 (via Google News) | Sat, 01 Aug 2026 03:47:45 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZGNtWEpiR0ttRmNPUlEtQ19GRjRLdm5yeWF2NDRydlFkYlNPX3FsM3NHZWY3bVh3N2VvbXpzWTFjTm80UlEzNHpQa0tHSEptd2xrZmtKLVU4Z3JXWER1RS1JVjBiSGFtOFpwaDRTc3VBV3g5UkNnSTA3aUx2bUh2QUluU2ZaaERrUERTdDJheGJ6R05aOGhHU0dOb0dlRnRBdmxv?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "工具与运营",
+        "title": "AWS重新提速，亚马逊(AMZN.US)AI投资进入回报验证期",
+        "tags": [
+          "#工具与运营",
+          "#同花顺财经"
+        ],
+        "what": "AWS重新提速，亚马逊(AMZN.US)AI投资进入回报验证期 AWS重新提速，亚马逊(AMZN.US)AI投资进入回报验证期    同花顺财经",
+        "impact": "涉及运营工具。",
+        "action": "关注后续。",
+        "source": "同花顺财经 (via Google News) | Sat, 01 Aug 2026 11:57:06 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE45a3FVdWdHNjFOa2RYc1dhQWpob1lHMTAtWERCLUY3Yk5mY0o3Mzg2UWVMNWtlOGhJS3VLZmQyZ082OUU1dDRuS3NXZUx2MEUwMExBUkpReVlEdGgwTFBOY09R?oc=5",
+        "origin": "google",
+        "needs_review": false
+      }
+    ]
   }
 ]
