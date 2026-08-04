@@ -2997,5 +2997,77 @@
     "summary": "No new items",
     "alert": "",
     "items": []
+  },
+  {
+    "date": "2026-08-04",
+    "issue": 28,
+    "summary": "4 items (3 official), 0 high",
+    "alert": "",
+    "items": [
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "TikTok硬刚亚马逊！测试Shop Plus对标亚马逊Prime",
+        "tags": [
+          "#流量与活动",
+          "#新浪财经"
+        ],
+        "what": "TikTok硬刚亚马逊！测试Shop Plus对标亚马逊Prime TikTok硬刚亚马逊！测试Shop Plus对标亚马逊Prime    新浪财经",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "新浪财经 (via Google News) | Mon, 03 Aug 2026 14:27:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE85MHB6ODF0WXBRRVAyM3VhcmhZazJJcEZCNTBIS2NhY1daTFNzeDlSeGcwQVl3QkQxQkFDUHIzTlMwUTFJRjJQWnh3NmRhbHVMdUFSRFgyUGpXNGt4RXFiZ3dpT3BjOUpweVpUWENCbEFLQQ?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "How Amazon is supporting communities impacted by wildfires in Spokane, Washington",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "How Amazon is supporting communities impacted by wildfires in Spokane, Washington Amazon is working with the American Red Cross, Save the Children, and local nonprofits to support thousands of people in Spokane County who can’t go home",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Mon, 03 Aug 2026 22:43:40 GMT",
+        "link": "https://www.aboutamazon.com/news/community/spokane-washington-fires-amazon-disaster-relief?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Amazon's water conservation and replenishment efforts around the world",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Amazon's water conservation and replenishment efforts around the world Get the latest updates on how we’re reducing our water footprint and investing in innovations to address water scarcity",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Mon, 03 Aug 2026 08:16:00 GMT",
+        "link": "https://www.aboutamazon.com/news/sustainability/amazon-water-conservation-replenishment-sustainability?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "5 Content Marketing Ideas for September 2026",
+        "tags": [
+          "#headline",
+          "#Practical Ecommerce"
+        ],
+        "what": "5 Content Marketing Ideas for September 2026 Content opportunities in September include Back to Hogwarts Day, bacon, emergency preparedness, Grandparents Day, and fall home resets. The post 5 Content Marketing Ideas for September 2026 appeared f",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "Practical Ecommerce | Mon, 03 Aug 2026 09:07:41 +0000",
+        "link": "https://www.practicalecommerce.com/5-content-marketing-ideas-for-september",
+        "origin": "official",
+        "needs_review": false
+      }
+    ]
   }
 ]
