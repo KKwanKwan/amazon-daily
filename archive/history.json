@@ -3477,5 +3477,141 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-08-08",
+    "issue": 32,
+    "summary": "8 items (5 official), 2 high",
+    "alert": "Check high-impact items.",
+    "items": [
+      {
+        "level": "high",
+        "column": "物流与供应链",
+        "title": "欧盟网购新规7月生效：每件商品强制征收3欧元关税，廉价跨境购物时代面临终结",
+        "tags": [
+          "#物流与供应链",
+          "#华人头条"
+        ],
+        "what": "欧盟网购新规7月生效：每件商品强制征收3欧元关税，廉价跨境购物时代面临终结 欧盟网购新规7月生效：每件商品强制征收3欧元关税，廉价跨境购物时代面临终结    华人头条",
+        "impact": "涉及跨境物流/关税。",
+        "action": "关注后续。",
+        "source": "华人头条 (via Google News) | Thu, 06 Aug 2026 21:58:30 GMT",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOV0x0SXY5c2pnaGNUMXNWeE5nVzYtNEF4ZHpRVUYxQXBwSnRmLXlXNldVbnFUVS1jQ2RSblBnTjA1T0NXMlZoRkdTWkp3V2dyX3dDVkRCV2NYLWh2T0JndDVlN2FZbjVMR3JqV1VlVFFMSndQWldvOE9iWnNpMVZoYjczcVVMa0k?oc=5",
+        "origin": "google",
+        "needs_review": true
+      },
+      {
+        "level": "high",
+        "column": "工具与运营",
+        "title": "亚马逊发布商品展示新规：AI生成的人像内容必须添加指定元数据- 跨境电商",
+        "tags": [
+          "#工具与运营",
+          "#亿邦动力网"
+        ],
+        "what": "亚马逊发布商品展示新规：AI生成的人像内容必须添加指定元数据- 跨境电商 亚马逊发布商品展示新规：AI生成的人像内容必须添加指定元数据- 跨境电商    亿邦动力网",
+        "impact": "涉及运营工具。",
+        "action": "关注后续。",
+        "source": "亿邦动力网 (via Google News) | Fri, 07 Aug 2026 01:23:10 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yWXZHZVFBM1BvblhTc0w5RkZtQ1VaLXNERWVnREVGZkFjdkFWSHJfT21TWUZZc1FxN24waWhidDctS2h4STV4M1pudFBuWDVZOGxJQkR3?oc=5",
+        "origin": "google",
+        "needs_review": true
+      },
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "Everything to know about ‘Madden,’ a new movie coming to Prime Video November 18",
+        "tags": [
+          "#流量与活动",
+          "#About Amazon"
+        ],
+        "what": "Everything to know about ‘Madden,’ a new movie coming to Prime Video November 18 Nicolas Cage stars as legendary NFL coach John Madden in this film charting his unlikely journey from Super Bowl winner to video game icon",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "About Amazon | Thu, 06 Aug 2026 15:00:58 GMT",
+        "link": "https://www.aboutamazon.com/news/entertainment/madden-movie-nicolas-cage-prime-video?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Inside Amazon's first-ever drone delivery site in the UK",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Inside Amazon's first-ever drone delivery site in the UK The Prime Air site in Darlington, England is the first of its kind outside of the U.S",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Fri, 07 Aug 2026 05:55:38 GMT",
+        "link": "https://www.aboutamazon.com/news/transportation/amazon-drone-prime-air-uk?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "How Amazon is supporting communities impacted by wildfires in Spokane, Washington",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "How Amazon is supporting communities impacted by wildfires in Spokane, Washington Amazon is working with the American Red Cross, Save the Children, and local nonprofits to support thousands of people in Spokane County who can’t go home",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Thu, 06 Aug 2026 22:00:00 GMT",
+        "link": "https://www.aboutamazon.com/news/community/spokane-washington-fires-amazon-disaster-relief?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Amazon Pharmacy now delivers GLP-1 medications to eligible Medicare patients for $50 a month",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Amazon Pharmacy now delivers GLP-1 medications to eligible Medicare patients for $50 a month Amazon Pharmacy handles the majority of the paperwork and delivers Wegovy, Zepbound, and Foundayo to patients' doors—with Same-Day Delivery and kiosk pickup",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Thu, 06 Aug 2026 10:01:37 GMT",
+        "link": "https://www.aboutamazon.com/news/retail/amazon-pharmacy-glp-1-medicare?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Thinking about Cart Recovery in 2026",
+        "tags": [
+          "#headline",
+          "#Practical Ecommerce"
+        ],
+        "what": "Thinking about Cart Recovery in 2026 Today's cart abandonment automations can do more than remind shoppers what they left behind. The post Thinking about Cart Recovery in 2026 appeared first on Practical Ecommerce ",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "Practical Ecommerce | Thu, 06 Aug 2026 11:36:02 +0000",
+        "link": "https://www.practicalecommerce.com/thinking-about-cart-recovery-in-2026",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Prettybully Onlyfans 2026 File Updates & Releases #811",
+        "tags": [
+          "#headline",
+          "#The Colleges of Law"
+        ],
+        "what": "Prettybully Onlyfans 2026 File Updates & Releases #811 Prettybully Onlyfans 2026 File Updates & Releases #811    The Colleges of Law",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "The Colleges of Law (via Google News) | Thu, 06 Aug 2026 12:09:08 GMT",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01Sk5QYXllUWc3bXNDNF9UU19NRUtDRmYzU0ZWZElUdmVjbmI1QWVGR3NyQ2pQSS11MzE1YWNEam1rZ2I5M21IUHhzWks3NjNFaWkxLWFzQzlyblM4NGhqa1pJZG42TE9uQ0gtdmZWQi0?oc=5",
+        "origin": "google",
+        "needs_review": false
+      }
+    ]
   }
 ]
