@@ -3613,5 +3613,61 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-08-09",
+    "issue": 33,
+    "summary": "3 items (2 official), 1 high",
+    "alert": "Check high-impact items.",
+    "items": [
+      {
+        "level": "high",
+        "column": "工具与运营",
+        "title": "亚马逊发布商品展示新规：AI生成的人像内容必须添加指定元数据- 跨境电商",
+        "tags": [
+          "#工具与运营",
+          "#亿邦动力网"
+        ],
+        "what": "亚马逊发布商品展示新规：AI生成的人像内容必须添加指定元数据- 跨境电商 亚马逊发布商品展示新规：AI生成的人像内容必须添加指定元数据- 跨境电商    亿邦动力网",
+        "impact": "涉及运营工具。",
+        "action": "关注后续。",
+        "source": "亿邦动力网 (via Google News) | Fri, 07 Aug 2026 01:23:10 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yWXZHZVFBM1BvblhTc0w5RkZtQ1VaLXNERWVnREVGZkFjdkFWSHJfT21TWUZZc1FxN24waWhidDctS2h4STV4M1pudFBuWDVZOGxJQkR3?oc=5",
+        "origin": "google",
+        "needs_review": true
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Inside Amazon's first-ever drone delivery site in the UK",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Inside Amazon's first-ever drone delivery site in the UK The Prime Air site in Darlington, England is the first of its kind outside of the U.S",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Fri, 07 Aug 2026 05:55:38 GMT",
+        "link": "https://www.aboutamazon.com/news/transportation/amazon-drone-prime-air-uk?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "物流与供应链",
+        "title": "Emotion-Led Ads Cut Costs 30%",
+        "tags": [
+          "#物流与供应链",
+          "#Practical Ecommerce"
+        ],
+        "what": "Emotion-Led Ads Cut Costs 30% Sarah Levinger, a consultant for D2C brands, says advertising success comes from aligning messaging with shoppers' underlying emotions. The post Emotion-Led Ads Cut Costs 30% appeared first on Practic",
+        "impact": "涉及跨境物流/关税。",
+        "action": "关注后续。",
+        "source": "Practical Ecommerce | Fri, 07 Aug 2026 13:59:44 +0000",
+        "link": "https://www.practicalecommerce.com/emotion-led-ads-cut-costs-30",
+        "origin": "official",
+        "needs_review": false
+      }
+    ]
   }
 ]
