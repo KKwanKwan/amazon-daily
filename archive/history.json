@@ -3669,5 +3669,29 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-08-10",
+    "issue": 34,
+    "summary": "1 items (1 official), 0 high",
+    "alert": "",
+    "items": [
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "USPS Prioritizes Revenue over Volume",
+        "tags": [
+          "#headline",
+          "#Practical Ecommerce"
+        ],
+        "what": "USPS Prioritizes Revenue over Volume Postmaster General David Steiner says long-term sustainability requires additional rate hikes and fewer packages. The post USPS Prioritizes Revenue over Volume appeared first on Practical Ecommerce ",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "Practical Ecommerce | Sun, 09 Aug 2026 11:22:22 +0000",
+        "link": "https://www.practicalecommerce.com/usps-prioritizes-revenue-over-volume",
+        "origin": "official",
+        "needs_review": false
+      }
+    ]
   }
 ]
