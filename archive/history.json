@@ -4005,5 +4005,93 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-08-14",
+    "issue": 38,
+    "summary": "5 items (5 official), 0 high",
+    "alert": "",
+    "items": [
+      {
+        "level": "mid",
+        "column": "政策与费用",
+        "title": "How Amazon's AI shopping assistant makes hundreds of millions of products feel personal",
+        "tags": [
+          "#政策与费用",
+          "#About Amazon"
+        ],
+        "what": "How Amazon's AI shopping assistant makes hundreds of millions of products feel personal Doug Herrington, Amazon's CEO of Worldwide Stores, explains why conversational AI is the next format shift in retail—just as the catalog gave way to the search bar",
+        "impact": "涉及平台费用。",
+        "action": "关注后续。",
+        "source": "About Amazon | Wed, 12 Aug 2026 16:55:18 GMT",
+        "link": "https://www.aboutamazon.com/news/retail/alexa-for-shopping-learn-and-be-curious-podcast?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "5 ways Amazon is investing in Maryland",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "5 ways Amazon is investing in Maryland Amazon's investments are boosting the state's economy while creating opportunities for those who call Maryland home",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Thu, 13 Aug 2026 16:20:49 GMT",
+        "link": "https://www.aboutamazon.com/news/community/amazon-investment-maryland-jobs-infrastructure-small-business?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Amazon's water conservation and replenishment efforts around the world",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Amazon's water conservation and replenishment efforts around the world Get the latest updates on how we’re reducing our water footprint and investing in innovations to address water scarcity",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Wed, 12 Aug 2026 13:00:00 GMT",
+        "link": "https://www.aboutamazon.com/news/sustainability/amazon-water-conservation-replenishment-sustainability?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "工具与运营",
+        "title": "Email Open Bloat and Deliverability",
+        "tags": [
+          "#工具与运营",
+          "#Practical Ecommerce"
+        ],
+        "what": "Email Open Bloat and Deliverability A portion of email opens is likely non-human, resulting in \"bloat\" from unengaged subscribers. The post Email Open Bloat and Deliverability appeared first on Practical Ecommerce ",
+        "impact": "涉及运营工具。",
+        "action": "关注后续。",
+        "source": "Practical Ecommerce | Thu, 13 Aug 2026 11:51:08 +0000",
+        "link": "https://www.practicalecommerce.com/email-open-bloat-and-deliverability",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "工具与运营",
+        "title": "New Ecommerce Tools: August 12, 2026",
+        "tags": [
+          "#工具与运营",
+          "#Practical Ecommerce"
+        ],
+        "what": "New Ecommerce Tools: August 12, 2026 New services for live shopping, ecommerce carts, product listing generators, social commerce, fulfillment, cross-border deliveries, autonomous marketing, and more. The post New Ecommerce Tools: August",
+        "impact": "涉及运营工具。",
+        "action": "关注后续。",
+        "source": "Practical Ecommerce | Wed, 12 Aug 2026 13:11:12 +0000",
+        "link": "https://www.practicalecommerce.com/new-ecommerce-tools-august-12-2026",
+        "origin": "official",
+        "needs_review": false
+      }
+    ]
   }
 ]
