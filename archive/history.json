@@ -4229,5 +4229,77 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-08-16",
+    "issue": 40,
+    "summary": "4 items (2 official), 0 high",
+    "alert": "",
+    "items": [
+      {
+        "level": "mid",
+        "column": "政策与费用",
+        "title": "亚马逊欧洲五国FBA要求自9月起提供7天配送窗口- 跨境电商",
+        "tags": [
+          "#政策与费用",
+          "#ebrun.com"
+        ],
+        "what": "亚马逊欧洲五国FBA要求自9月起提供7天配送窗口- 跨境电商 亚马逊欧洲五国FBA要求自9月起提供7天配送窗口- 跨境电商    ebrun.com",
+        "impact": "涉及平台费用。",
+        "action": "关注后续。",
+        "source": "ebrun.com (via Google News) | Fri, 14 Aug 2026 08:07:28 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnWlpIYzA1S0VaWXdqRkJ2SW5ZZk94ZG1ITkE2Sk1fV3FCT1hXaFBwN0xxNHhaWFRvOW5xSlRpQlFPdS1iUmFiTnVyWUZpLW5mRFNxeW9n?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "How Amazon is supporting communities impacted by wildfires in Spokane, Washington",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "How Amazon is supporting communities impacted by wildfires in Spokane, Washington Amazon is working with the American Red Cross, Save the Children, and local nonprofits to support thousands of people in Spokane County who can’t go home",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Sat, 15 Aug 2026 02:00:00 GMT",
+        "link": "https://www.aboutamazon.com/news/community/spokane-washington-fires-amazon-disaster-relief?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Ad Fraud Expert on Scams, Bots, Spoofs",
+        "tags": [
+          "#headline",
+          "#Practical Ecommerce"
+        ],
+        "what": "Ad Fraud Expert on Scams, Bots, Spoofs Ad fraud, says Daypart founder Jeromy Sonne, can mean billed bot impressions, scam offers, and even money laundering The post Ad Fraud Expert on Scams, Bots, Spoofs appeared first on Practical Ecommer",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "Practical Ecommerce | Fri, 14 Aug 2026 14:22:28 +0000",
+        "link": "https://www.practicalecommerce.com/ad-fraud-expert-on-scams-bots-spoofs",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "工具与运营",
+        "title": "当亚马逊AI购物助手接管流量入口 谁的商品在“消失”？",
+        "tags": [
+          "#工具与运营",
+          "#ebrun.com"
+        ],
+        "what": "当亚马逊AI购物助手接管流量入口 谁的商品在“消失”？ 当亚马逊AI购物助手接管流量入口 谁的商品在“消失”？    ebrun.com",
+        "impact": "涉及运营工具。",
+        "action": "关注后续。",
+        "source": "ebrun.com (via Google News) | Fri, 14 Aug 2026 08:13:51 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBTHEtVk5fT0RMZEZqdjBTWHBiVVhOanRDa1VScHp4WEpzYUR2ZkpXUjEycnVEbFRBeVFCcERhRTAzSVJLcjRfTC03ODVDdTRFX2RxQm93?oc=5",
+        "origin": "google",
+        "needs_review": false
+      }
+    ]
   }
 ]
