@@ -4301,5 +4301,45 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-08-17",
+    "issue": 41,
+    "summary": "2 items (2 official), 0 high",
+    "alert": "",
+    "items": [
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "How Amazon is supporting communities impacted by wildfires in Spokane, Washington",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "How Amazon is supporting communities impacted by wildfires in Spokane, Washington Amazon is working with the American Red Cross, Save the Children, and local nonprofits to support thousands of people in Spokane County who can’t go home",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Sat, 15 Aug 2026 02:00:00 GMT",
+        "link": "https://www.aboutamazon.com/news/community/spokane-washington-fires-amazon-disaster-relief?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "5 Predictions for 2026 Holiday Shopping",
+        "tags": [
+          "#headline",
+          "#Practical Ecommerce"
+        ],
+        "what": "5 Predictions for 2026 Holiday Shopping Since 2013, we've predicted ecommerce trends and sales for the coming holiday season. The post 5 Predictions for 2026 Holiday Shopping appeared first on Practical Ecommerce ",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "Practical Ecommerce | Sun, 16 Aug 2026 12:43:53 +0000",
+        "link": "https://www.practicalecommerce.com/5-predictions-for-2026-holiday-shopping",
+        "origin": "official",
+        "needs_review": false
+      }
+    ]
   }
 ]
