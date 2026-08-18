@@ -4341,5 +4341,109 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-08-18",
+    "issue": 42,
+    "summary": "6 items (5 official), 0 high",
+    "alert": "",
+    "items": [
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "A first look at 'The Terminal List' Season 2 starring Chris Pratt, coming to Prime Video October 21",
+        "tags": [
+          "#流量与活动",
+          "#About Amazon"
+        ],
+        "what": "A first look at 'The Terminal List' Season 2 starring Chris Pratt, coming to Prime Video October 21 Based on author Jack Carr's novel 'True Believer,' this season takes James Reece across the world",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "About Amazon | Mon, 17 Aug 2026 13:00:09 GMT",
+        "link": "https://www.aboutamazon.com/news/entertainment/terminal-list-prime-video-chris-pratt?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "mid",
+        "column": "全球合规",
+        "title": "2026年亚马逊FBA验货公司高性价比推荐 适配全站点全品类合规需求",
+        "tags": [
+          "#全球合规",
+          "#邢台网"
+        ],
+        "what": "2026年亚马逊FBA验货公司高性价比推荐 适配全站点全品类合规需求 2026年亚马逊FBA验货公司高性价比推荐 适配全站点全品类合规需求    邢台网",
+        "impact": "涉及合规风险。",
+        "action": "关注后续。",
+        "source": "邢台网 (via Google News) | Sun, 16 Aug 2026 16:00:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1TcTRndExnYjJSQlhFVnZMcHE3Ql8teUNoY1JiNzdOaEtTbTJ0aVVrTEtFX3R4WkVpWUVQODRyU3FVSXhfcENvcXA5cjNIWG82eTJWa3h2dUljVzNGRWNQbmxJdUJnZw?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "5 ways Amazon is investing in Nevada",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "5 ways Amazon is investing in Nevada Amazon's investments are boosting the Silver State's economy while creating opportunities for those who call Nevada home",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Mon, 17 Aug 2026 19:30:36 GMT",
+        "link": "https://www.aboutamazon.com/news/community/amazon-investment-nevada-jobs-infrastructure-small-business?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "5 ways Amazon is investing in Colorado",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "5 ways Amazon is investing in Colorado Amazon's investments are boosting the Centennial State's economy while creating opportunities for those who call Colorado home",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Mon, 17 Aug 2026 19:20:01 GMT",
+        "link": "https://www.aboutamazon.com/news/community/amazon-investment-colorado-jobs-infrastructure-small-business?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "How Foreign Brands Sell in Indonesia",
+        "tags": [
+          "#headline",
+          "#Practical Ecommerce"
+        ],
+        "what": "How Foreign Brands Sell in Indonesia With high internet penetration and low retail sales, Indonesia offers much ecommerce potential. The post How Foreign Brands Sell in Indonesia appeared first on Practical Ecommerce ",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "Practical Ecommerce | Mon, 17 Aug 2026 14:18:58 +0000",
+        "link": "https://www.practicalecommerce.com/how-foreign-brands-sell-in-indonesia",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "5 Predictions for 2026 Holiday Shopping",
+        "tags": [
+          "#headline",
+          "#Practical Ecommerce"
+        ],
+        "what": "5 Predictions for 2026 Holiday Shopping Since 2013, we've predicted ecommerce trends and sales for the coming holiday season. The post 5 Predictions for 2026 Holiday Shopping appeared first on Practical Ecommerce ",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "Practical Ecommerce | Sun, 16 Aug 2026 12:43:53 +0000",
+        "link": "https://www.practicalecommerce.com/5-predictions-for-2026-holiday-shopping",
+        "origin": "official",
+        "needs_review": false
+      }
+    ]
   }
 ]
