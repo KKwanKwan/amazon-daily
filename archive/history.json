@@ -4717,5 +4717,141 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-08-21",
+    "issue": 45,
+    "summary": "8 items (3 official), 1 high",
+    "alert": "Check high-impact items.",
+    "items": [
+      {
+        "level": "high",
+        "column": "物流与供应链",
+        "title": "歐盟關稅生效 中國小包裹湧入立陶宛數量暴跌",
+        "tags": [
+          "#物流与供应链",
+          "#大纪元"
+        ],
+        "what": "歐盟關稅生效 中國小包裹湧入立陶宛數量暴跌 歐盟關稅生效 中國小包裹湧入立陶宛數量暴跌    大纪元",
+        "impact": "涉及跨境物流/关税。",
+        "action": "关注后续。",
+        "source": "大纪元 (via Google News) | Thu, 20 Aug 2026 20:19:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zTUF3RGMxdnNHNGthVkJodkdqV3VfWnl5cXFaMVRfYXFNWUd1cG5DVFlZWkhKSzVPNFBHWHdiUDdPRXR3RnlXeXktNUdxQl9kckhSZ0tSb1hiSkVTVVJERdIBZkFVX3lxTE1MLTcxQmFKY1E1eVF1ZVg5VWFkcEpxMXhybHRMUXpuNTVpa2xicXlfcTF6VlRldDNDNU4yR05sQk5jM0tJYzVzckFBUW5NYVZpYTVjVXA1b08ySW1fT2NTbzdUMVlPdw?oc=5",
+        "origin": "google",
+        "needs_review": true
+      },
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "Prime Video to invest $2 billion in Latin America between 2027 and 2030",
+        "tags": [
+          "#流量与活动",
+          "#About Amazon"
+        ],
+        "what": "Prime Video to invest $2 billion in Latin America between 2027 and 2030 The investment spans original programming and live sports across the region—with more than 25 new titles coming in 2027 alone",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "About Amazon | Thu, 20 Aug 2026 17:30:07 GMT",
+        "link": "https://www.aboutamazon.com/news/entertainment/prime-video-latin-america-investment?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "'Sterling Point' Season 2: Everything to know and how to watch Season 1 on Prime Video",
+        "tags": [
+          "#流量与活动",
+          "#About Amazon"
+        ],
+        "what": "'Sterling Point' Season 2: Everything to know and how to watch Season 1 on Prime Video The series follows a New York City teen who inherits her grandfather's mysterious island in Canada, uncovering friends, romance, and secrets",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "About Amazon | Thu, 20 Aug 2026 17:00:10 GMT",
+        "link": "https://www.aboutamazon.com/news/entertainment/sterling-point-series-prime-video?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "Amazon Prime Air drone delivery is expanding to nearly 500 US cities and towns this year",
+        "tags": [
+          "#流量与活动",
+          "#About Amazon"
+        ],
+        "what": "Amazon Prime Air drone delivery is expanding to nearly 500 US cities and towns this year Prime Air delivers millions of items in as fast as 30 minutes and will reach communities with tens of millions of customers by year-end",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "About Amazon | Wed, 19 Aug 2026 09:45:13 GMT",
+        "link": "https://www.aboutamazon.com/news/transportation/amazon-prime-air-drone-delivery-expansion?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "配送越快完单率越高，亚马逊Prime Air宣布扩张六倍",
+        "tags": [
+          "#流量与活动",
+          "#finance.sina.com.cn"
+        ],
+        "what": "配送越快完单率越高，亚马逊Prime Air宣布扩张六倍 配送越快完单率越高，亚马逊Prime Air宣布扩张六倍    finance.sina.com.cn",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "finance.sina.com.cn (via Google News) | Thu, 20 Aug 2026 13:54:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE55eG1NZ0JCU243NTFTT0pLdjBjUXlyQUV5Y285cmhsRHBtLXJWZHRDOE54clBWWktkaWV6bEtJemFpRmxaNjlzZEczeDFFZHdmbmRiSVhVVHhaUGZMTzQ4SDRoMFJCR003ZERUUmZrcnl4MVBrTW0xcg?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "亚马逊Prime Air无人机配送拟扩展至美国近500城",
+        "tags": [
+          "#流量与活动",
+          "#t.cj.sina.cn"
+        ],
+        "what": "亚马逊Prime Air无人机配送拟扩展至美国近500城 亚马逊Prime Air无人机配送拟扩展至美国近500城    t.cj.sina.cn",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "t.cj.sina.cn (via Google News) | Thu, 20 Aug 2026 06:26:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1dC1BZ1BSVHplbEQzdGZpd2U3a0hpZXhoM0NFYU0xcDVnc2U0VlVLdTNaaDdCdHlBa1dyQnJZSjJhNC1Bb2ctR0psaE5iVkNoUVlVTmx2MU84cVBUT01uWGpYUDBOWmFZVl9TRGVaNHU?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "亚马逊Prime Air无人机配送将扩展至美国近500城",
+        "tags": [
+          "#流量与活动",
+          "#t.cj.sina.cn"
+        ],
+        "what": "亚马逊Prime Air无人机配送将扩展至美国近500城 亚马逊Prime Air无人机配送将扩展至美国近500城    t.cj.sina.cn",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "t.cj.sina.cn (via Google News) | Wed, 19 Aug 2026 23:36:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Wekx3Mk02ZzM4QWt1amJCRk1DUEdBTi04dFFscXBLRU5BZGstOGpPYjJQUWQ5SzMzeUZoX3FHdTAzRzh5MkEzN2tpbmQ5b0JQVUJaQ2NLeHpDUUJucm0yVF82b0FqMFprNVhBcjJ5VUc?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "亚马逊正在考虑将Prime Day推迟到8月举行。",
+        "tags": [
+          "#流量与活动",
+          "#Grande Consumo"
+        ],
+        "what": "亚马逊正在考虑将Prime Day推迟到8月举行。 亚马逊正在考虑将Prime Day推迟到8月举行。    Grande Consumo",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "Grande Consumo (via Google News) | Wed, 19 Aug 2026 15:08:29 GMT",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMjVXZGRzbEQyemRER3daRGo2MVRJX0daNE4xMDE4LVNxZUxJR1Yza01TeVdoRnZNQmR3UDBkdzlRMVFXQnBobnh4WkxDU2o3WE1VdVVxaEtIMHF6d1V5S29qbTNwQXdHYzczQTBSZVhmUkd3d29xYUM3RkxpbVVtWl9pdw?oc=5",
+        "origin": "google",
+        "needs_review": false
+      }
+    ]
   }
 ]
