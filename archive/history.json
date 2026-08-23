@@ -4989,5 +4989,61 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-08-23",
+    "issue": 47,
+    "summary": "3 items (1 official), 0 high",
+    "alert": "",
+    "items": [
+      {
+        "level": "mid",
+        "column": "政策与费用",
+        "title": "亚马逊欧盟跨境FBA进口费用结构",
+        "tags": [
+          "#政策与费用",
+          "#雨果跨境"
+        ],
+        "what": "亚马逊欧盟跨境FBA进口费用结构 亚马逊欧盟跨境FBA进口费用结构    雨果跨境",
+        "impact": "涉及平台费用。",
+        "action": "关注后续。",
+        "source": "雨果跨境 (via Google News) | Fri, 21 Aug 2026 01:00:11 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1wdjBEaVI2dTFjTGNDMy1MaWJ6QWhLWlcwUUhDT1VyM2lRaVVWWFA2UlEySHRLV0V6R0piRWNpNnR0bzQzOTdKTE5teWk?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "推迟Prime Day可能会让亚马逊损失270亿欧元。",
+        "tags": [
+          "#流量与活动",
+          "#Grande Consumo"
+        ],
+        "what": "推迟Prime Day可能会让亚马逊损失270亿欧元。 推迟Prime Day可能会让亚马逊损失270亿欧元。    Grande Consumo",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "Grande Consumo (via Google News) | Fri, 21 Aug 2026 14:39:38 GMT",
+        "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPQ3NLSWJPbHVHOUZTbjlWVDd3NjNKdWtFWDc4RFR0NmN5VjNqY3VOaTNQR3VjRHhEYlBOUWI5V2lIN2Q1QzV0b3VSX0FWellxV3pjVEJWZXFTbmNBYWN1WVhTLTd5QmJXTW9fRGoxSy1TRHc1ZEppRFBKYldSZzhFWFB0NVdnaG05UGRJX0VvMWdfc3Jja1UxaGZvWGNnYlVZM2RMc0NJeGZMM2dpM2lsOE9la3N0dFdTempXZmZxYmxSeVA2Rjd4OW8xdTFreXNTS3BsX1U5RzdxaEJjajN5bmJfeTlTUEJRZ3ZRb2NXSko2QjVjWDhGMlhVMmZYNEZtM3ZKUWJkdldpSlNf?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "BattlBox’s Path from YouTube to Netflix",
+        "tags": [
+          "#headline",
+          "#Practical Ecommerce"
+        ],
+        "what": "BattlBox’s Path from YouTube to Netflix How does an ecommerce entrepreneur land a Netflix series? Not easily. The post BattlBox’s Path from YouTube to Netflix appeared first on Practical Ecommerce ",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "Practical Ecommerce | Fri, 21 Aug 2026 15:08:25 +0000",
+        "link": "https://www.practicalecommerce.com/battlboxs-path-from-youtube-to-netflix",
+        "origin": "official",
+        "needs_review": false
+      }
+    ]
   }
 ]
