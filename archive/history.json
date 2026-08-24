@@ -5045,5 +5045,45 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-08-24",
+    "issue": 48,
+    "summary": "2 items (1 official), 0 high",
+    "alert": "",
+    "items": [
+      {
+        "level": "mid",
+        "column": "政策与费用",
+        "title": "【亚马逊FBA赚钱指南】2026年分步详解",
+        "tags": [
+          "#政策与费用",
+          "#Internet Paso a Paso"
+        ],
+        "what": "【亚马逊FBA赚钱指南】2026年分步详解 【亚马逊FBA赚钱指南】2026年分步详解    Internet Paso a Paso",
+        "impact": "涉及平台费用。",
+        "action": "关注后续。",
+        "source": "Internet Paso a Paso (via Google News) | Sat, 22 Aug 2026 16:06:39 GMT",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNd2ZXbC1lbXhrS1YxdzBkMXlWSTE5bGljSUVCRk1uM1B6ay1jUzkyaDltdWtLY2tSYjlwajdBYXlkcUNQa1VYM2JFT3RCN214aXdLVlljRGhqaE5oamtnTW9oVzZPSl8ycmN5OVhXZXNkNWxDYUNqbW45cFVRN3dqcHBJb25lV3RSaS1FOGN4TVRYX19DeVc5V29rcUhUd1lybHhvcl9wTUtOaXhYRThLTC14M1ZXejU3X0U0bGRR?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Double-Digit Ecommerce Growth Returns",
+        "tags": [
+          "#headline",
+          "#Practical Ecommerce"
+        ],
+        "what": "Double-Digit Ecommerce Growth Returns Does 2026 signal a lasting acceleration in U.S. ecommerce spending, or is it an outlier? The post Double-Digit Ecommerce Growth Returns appeared first on Practical Ecommerce ",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "Practical Ecommerce | Sun, 23 Aug 2026 12:27:01 +0000",
+        "link": "https://www.practicalecommerce.com/double-digit-ecommerce-growth-returns",
+        "origin": "official",
+        "needs_review": false
+      }
+    ]
   }
 ]
