@@ -5085,5 +5085,61 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-08-25",
+    "issue": 49,
+    "summary": "3 items (3 official), 0 high",
+    "alert": "",
+    "items": [
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Amazon hourly employees became satellite technicians—then watched their work launch into space",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Amazon hourly employees became satellite technicians—then watched their work launch into space Career Choice is helping eligible Amazon employees earn certifications and launch new aerospace careers with Amazon Leo",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Mon, 24 Aug 2026 14:00:25 GMT",
+        "link": "https://www.aboutamazon.com/news/amazon-leo/amazon-career-choice-satellite-technicians-space-launch?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Double-Digit Ecommerce Growth Returns",
+        "tags": [
+          "#headline",
+          "#Practical Ecommerce"
+        ],
+        "what": "Double-Digit Ecommerce Growth Returns Does 2026 signal a lasting acceleration in U.S. ecommerce spending, or is it an outlier? The post Double-Digit Ecommerce Growth Returns appeared first on Practical Ecommerce ",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "Practical Ecommerce | Sun, 23 Aug 2026 12:27:01 +0000",
+        "link": "https://www.practicalecommerce.com/double-digit-ecommerce-growth-returns",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "工具与运营",
+        "title": "Filter AI Mode Prompts in Search Console",
+        "tags": [
+          "#工具与运营",
+          "#Practical Ecommerce"
+        ],
+        "what": "Filter AI Mode Prompts in Search Console Google's John Mueller confirms that Search Console lists AI Mode prompts as queries. The post Filter AI Mode Prompts in Search Console appeared first on Practical Ecommerce ",
+        "impact": "涉及运营工具。",
+        "action": "关注后续。",
+        "source": "Practical Ecommerce | Mon, 24 Aug 2026 14:13:14 +0000",
+        "link": "https://www.practicalecommerce.com/filter-ai-mode-prompts-in-search-console",
+        "origin": "official",
+        "needs_review": false
+      }
+    ]
   }
 ]
