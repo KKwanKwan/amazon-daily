@@ -5141,5 +5141,109 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-08-26",
+    "issue": 50,
+    "summary": "6 items (6 official), 0 high",
+    "alert": "",
+    "items": [
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Inside the grocery operation Amazon built to be pickier than you",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Inside the grocery operation Amazon built to be pickier than you From cherry taste tests to banana ripening rooms, here’s what happens before your Amazon groceries reach your door",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Tue, 25 Aug 2026 12:55:05 GMT",
+        "link": "https://www.aboutamazon.com/stories/how-amazon-grocery-delivery-works?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "How to buy a car with Amazon Autos",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "How to buy a car with Amazon Autos Amazon Autos lets you browse, compare, finance, and buy new, used, and certified pre-owned vehicles—all online",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Tue, 25 Aug 2026 09:24:59 GMT",
+        "link": "https://www.aboutamazon.com/news/retail/how-to-buy-a-car-with-amazon-autos?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Amazon hourly employees became satellite technicians—then watched their work launch into space",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Amazon hourly employees became satellite technicians—then watched their work launch into space Career Choice is helping eligible Amazon employees earn certifications and launch new aerospace careers with Amazon Leo",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Mon, 24 Aug 2026 14:00:25 GMT",
+        "link": "https://www.aboutamazon.com/news/amazon-leo/amazon-career-choice-satellite-technicians-space-launch?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Auto-Translate Won’t Win E.U. Shoppers",
+        "tags": [
+          "#headline",
+          "#Practical Ecommerce"
+        ],
+        "what": "Auto-Translate Won’t Win E.U. Shoppers Localization for merchants can seem as simple as automatic translation. But readable is not the same as credible. The post Auto-Translate Won’t Win E.U. Shoppers appeared first on Practical Ecommerce ",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "Practical Ecommerce | Tue, 25 Aug 2026 14:19:28 +0000",
+        "link": "https://www.practicalecommerce.com/auto-translate-wont-win-e-u-shoppers",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "工具与运营",
+        "title": "I'm an Amazon SVP who hadn't coded in 25 years. Then I wrote 100,000 lines of code with AI.",
+        "tags": [
+          "#工具与运营",
+          "#About Amazon"
+        ],
+        "what": "I'm an Amazon SVP who hadn't coded in 25 years. Then I wrote 100,000 lines of code with AI. Amazon’s HR leader, Beth Galetti, shares how AI tools are empowering employees to build and how the company is investing $2.5 billion to prepare people for the future of work",
+        "impact": "涉及运营工具。",
+        "action": "关注后续。",
+        "source": "About Amazon | Tue, 25 Aug 2026 18:31:13 GMT",
+        "link": "https://www.aboutamazon.com/news/workplace/amazon-svp-ai-tools-employees-careers?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "工具与运营",
+        "title": "Filter AI Mode Prompts in Search Console",
+        "tags": [
+          "#工具与运营",
+          "#Practical Ecommerce"
+        ],
+        "what": "Filter AI Mode Prompts in Search Console Google's John Mueller confirms that Search Console lists AI Mode prompts as queries. The post Filter AI Mode Prompts in Search Console appeared first on Practical Ecommerce ",
+        "impact": "涉及运营工具。",
+        "action": "关注后续。",
+        "source": "Practical Ecommerce | Mon, 24 Aug 2026 14:13:14 +0000",
+        "link": "https://www.practicalecommerce.com/filter-ai-mode-prompts-in-search-console",
+        "origin": "official",
+        "needs_review": false
+      }
+    ]
   }
 ]
