@@ -5381,5 +5381,141 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-08-28",
+    "issue": 52,
+    "summary": "8 items (5 official), 1 high",
+    "alert": "Check high-impact items.",
+    "items": [
+      {
+        "level": "high",
+        "column": "物流与供应链",
+        "title": "欧盟网购新规7月生效：每件商品强制征收3欧元关税，廉价跨境购物时代面临终结",
+        "tags": [
+          "#物流与供应链",
+          "#华人头条"
+        ],
+        "what": "欧盟网购新规7月生效：每件商品强制征收3欧元关税，廉价跨境购物时代面临终结 欧盟网购新规7月生效：每件商品强制征收3欧元关税，廉价跨境购物时代面临终结    华人头条",
+        "impact": "涉及跨境物流/关税。",
+        "action": "关注后续。",
+        "source": "华人头条 (via Google News) | Wed, 26 Aug 2026 18:56:26 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORW1FZDFBd0UtSW9oc3RFUTlkMEMxUVVqMzRlSWIwVkx1OHZHc0JGY0MybGNvT19lT1NMRnJyTl9zUVByTHBrTGQzdGNmQUV6SThhcngwcDhERWRYb2U4NmNxMzlTaEo2eVBqdFhteVl3TmoybVBEYy05YVpCM0ZmelFKczNweENF?oc=5",
+        "origin": "google",
+        "needs_review": true
+      },
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "PMEs que vendem na Amazon elevaram vendas em 60% durante o Prime Day",
+        "tags": [
+          "#流量与活动",
+          "#Grande Consumo"
+        ],
+        "what": "PMEs que vendem na Amazon elevaram vendas em 60% durante o Prime Day PMEs que vendem na Amazon elevaram vendas em 60% durante o Prime Day    Grande Consumo",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "Grande Consumo (via Google News) | Wed, 26 Aug 2026 21:53:53 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWkN1VVM1LWNpUFVhdVM1SGpPNzBpazhQRExLejA1VHJ5SlRFeG52UWo0M0ZHckw3S1V5TWliRklLeVNqcFlnT21ZdVByX1p4NHp4c2MxaW5WUUhHRVduWWIyMC1uWnc4ZnlTYWYyS2NPVmhORkxqcXY3Z3JZYV9XejdHRlRwaHVDWWF4TkhNWFBsbkRZSWNQRzcteE1vNjU4UkE?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "AWS to acquire DuckLabs, the Amsterdam-based company behind DuckDB",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "AWS to acquire DuckLabs, the Amsterdam-based company behind DuckDB ",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Wed, 26 Aug 2026 13:00:22 GMT",
+        "link": "https://www.aboutamazon.com/news/company-news/aws-ducklabs?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Ring introduces TAKE, setting a new industry standard for default encryption and control",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Ring introduces TAKE, setting a new industry standard for default encryption and control TAKE (Throw Away the Key Encryption) will become the default encryption for all Ring customers worldwide when fully rolled out",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Wed, 26 Aug 2026 12:00:07 GMT",
+        "link": "https://www.aboutamazon.com/news/devices/ring-take-encryption?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Contribution Margin Guides Ecommerce Growth",
+        "tags": [
+          "#headline",
+          "#Practical Ecommerce"
+        ],
+        "what": "Contribution Margin Guides Ecommerce Growth A merchant's busiest holiday season could also be its least profitable. The post Contribution Margin Guides Ecommerce Growth appeared first on Practical Ecommerce ",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "Practical Ecommerce | Thu, 27 Aug 2026 13:47:39 +0000",
+        "link": "https://www.practicalecommerce.com/contribution-margin-guides-ecommerce-growth",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "亚马逊差评政策有变，大批卖家评分从4.3暴跌至3.8",
+        "tags": [
+          "#headline",
+          "#t.cj.sina.cn"
+        ],
+        "what": "亚马逊差评政策有变，大批卖家评分从4.3暴跌至3.8 亚马逊差评政策有变，大批卖家评分从4.3暴跌至3.8    t.cj.sina.cn",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "t.cj.sina.cn (via Google News) | Thu, 27 Aug 2026 12:34:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1lN3hSWHdPTlBwRXVxWXB6b1hiZFh4WXU5TF95aWRZVGFkZFNCRXRsRzU1S2ZEeHNvZUhkTDFCWXdzQ1lidHprSldoOURmdzBHZTNEZUNsU1dtdU5NRHZQaW5qNVpTcExPZFgzOHdhVXg1QQ?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "工具与运营",
+        "title": "AWS and NVIDIA expand partnership for next-gen AI infrastructure",
+        "tags": [
+          "#工具与运营",
+          "#About Amazon"
+        ],
+        "what": "AWS and NVIDIA expand partnership for next-gen AI infrastructure AWS and NVIDIA will deploy 2 million additional GPUs and deepen collaboration across CPUs, networking, and robotics",
+        "impact": "涉及运营工具。",
+        "action": "关注后续。",
+        "source": "About Amazon | Wed, 26 Aug 2026 21:12:41 GMT",
+        "link": "https://www.aboutamazon.com/news/aws/aws-nvidia-2-million-gpus-ai?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "工具与运营",
+        "title": "New Ecommerce Tools: August 26, 2026",
+        "tags": [
+          "#工具与运营",
+          "#Practical Ecommerce"
+        ],
+        "what": "New Ecommerce Tools: August 26, 2026 This week's installment includes products and services for popups, site builders, subscriber lists, drone deliveries, livestreaming, virtual try-ons, and more. The post New Ecommerce Tools: August 26,",
+        "impact": "涉及运营工具。",
+        "action": "关注后续。",
+        "source": "Practical Ecommerce | Wed, 26 Aug 2026 13:59:38 +0000",
+        "link": "https://www.practicalecommerce.com/new-ecommerce-tools-august-26-2026",
+        "origin": "official",
+        "needs_review": false
+      }
+    ]
   }
 ]
