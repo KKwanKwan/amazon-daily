@@ -5725,5 +5725,29 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-08-31",
+    "issue": 55,
+    "summary": "1 items (1 official), 0 high",
+    "alert": "",
+    "items": [
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Competing with Wicked Fast Delivery",
+        "tags": [
+          "#headline",
+          "#Practical Ecommerce"
+        ],
+        "what": "Competing with Wicked Fast Delivery Ecommerce SMBs can compete where delivery speed creates value, not where it merely adds cost. The post Competing with Wicked Fast Delivery appeared first on Practical Ecommerce ",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "Practical Ecommerce | Sun, 30 Aug 2026 12:39:41 +0000",
+        "link": "https://www.practicalecommerce.com/competing-with-wicked-fast-delivery",
+        "origin": "official",
+        "needs_review": false
+      }
+    ]
   }
 ]
