@@ -5749,5 +5749,125 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-09-01",
+    "issue": 56,
+    "summary": "7 items (4 official), 1 high",
+    "alert": "Check high-impact items.",
+    "items": [
+      {
+        "level": "high",
+        "column": "全球合规",
+        "title": "Amazon’s response to the FTC’s lawsuit regarding Sponsored Ads",
+        "tags": [
+          "#全球合规",
+          "#About Amazon"
+        ],
+        "what": "Amazon’s response to the FTC’s lawsuit regarding Sponsored Ads The FTC today filed a misguided lawsuit claiming Amazon misled advertisers about its Sponsored Ads pricing and auction. Amazon strongly disagrees",
+        "impact": "涉及合规风险。",
+        "action": "关注后续。",
+        "source": "About Amazon | Mon, 31 Aug 2026 19:36:13 GMT",
+        "link": "https://www.aboutamazon.com/company-news/amazon-ftc-sponsored-ads-lawsuit-response?utm_source=rss",
+        "origin": "official",
+        "needs_review": true
+      },
+      {
+        "level": "mid",
+        "column": "政策与费用",
+        "title": "亚马逊向FBA卖家开放付费加入次当日达配送项目- 跨境电商",
+        "tags": [
+          "#政策与费用",
+          "#亿邦动力网"
+        ],
+        "what": "亚马逊向FBA卖家开放付费加入次当日达配送项目- 跨境电商 亚马逊向FBA卖家开放付费加入次当日达配送项目- 跨境电商    亿邦动力网",
+        "impact": "涉及平台费用。",
+        "action": "关注后续。",
+        "source": "亿邦动力网 (via Google News) | Mon, 31 Aug 2026 02:07:42 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zdjA3NnRiNEF2dS10aWJ4blNTd2VYcHA4MS1QT3B0MGdndl85N1lpV2tjdjJyQzJUTXdNWlNmTURiOWpGdUJvSkZRbGp0b3ppSkg4QjBn?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "mid",
+        "column": "全球合规",
+        "title": "亚马逊欧洲FBA尺寸认证扩围，7 月 17 日前务必完成",
+        "tags": [
+          "#全球合规",
+          "#雨果跨境"
+        ],
+        "what": "亚马逊欧洲FBA尺寸认证扩围，7 月 17 日前务必完成 亚马逊欧洲FBA尺寸认证扩围，7 月 17 日前务必完成    雨果跨境",
+        "impact": "涉及合规风险。",
+        "action": "关注后续。",
+        "source": "雨果跨境 (via Google News) | Tue, 01 Sep 2026 00:20:46 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBJN2JuMUhnZWdhS0VYQTN4Z0JFSkVSVWZudnQwU0xnZFA3LV92UjAxSzZNNHUwdVhMY1YzcmtCLWg5MWU2WmZLWHIwWXc?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "mid",
+        "column": "政策与费用",
+        "title": "亚马逊泛欧FBA新增荷兰及比利时站点运营要求- 跨境电商",
+        "tags": [
+          "#政策与费用",
+          "#亿邦动力网"
+        ],
+        "what": "亚马逊泛欧FBA新增荷兰及比利时站点运营要求- 跨境电商 亚马逊泛欧FBA新增荷兰及比利时站点运营要求- 跨境电商    亿邦动力网",
+        "impact": "涉及平台费用。",
+        "action": "关注后续。",
+        "source": "亿邦动力网 (via Google News) | Mon, 31 Aug 2026 02:22:31 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JWHpka0xHb20xbGJIVEU5c0FsRTJoc3FfQXdLeVlfZkx1M3kwYnBQek80VDctb0M1ZmhlRWZtc2ItYUZNY2tEM1pJa3RwX1JQMVVpazBR?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "AWS to launch first cloud infrastructure region in the Kingdom of Saudi Arabia by December 2026",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "AWS to launch first cloud infrastructure region in the Kingdom of Saudi Arabia by December 2026 AWS and HUMAIN deepen partnership with a commitment to deliver up to 50MW of capacity in Saudi’s first AI Zone by 2028",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Mon, 31 Aug 2026 14:08:31 GMT",
+        "link": "https://www.aboutamazon.com/news/aws/aws-cloud-region-saudi-arabia?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Google’s Redirects Blur Search Rankings",
+        "tags": [
+          "#headline",
+          "#Practical Ecommerce"
+        ],
+        "what": "Google’s Redirects Blur Search Rankings Hiding the full URL of listings is the search giant's latest attempt to block bot access. The post Google’s Redirects Blur Search Rankings appeared first on Practical Ecommerce ",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "Practical Ecommerce | Mon, 31 Aug 2026 13:01:03 +0000",
+        "link": "https://www.practicalecommerce.com/googles-redirects-blur-search-rankings",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Competing with Wicked Fast Delivery",
+        "tags": [
+          "#headline",
+          "#Practical Ecommerce"
+        ],
+        "what": "Competing with Wicked Fast Delivery Ecommerce SMBs can compete where delivery speed creates value, not where it merely adds cost. The post Competing with Wicked Fast Delivery appeared first on Practical Ecommerce ",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "Practical Ecommerce | Sun, 30 Aug 2026 12:39:41 +0000",
+        "link": "https://www.practicalecommerce.com/competing-with-wicked-fast-delivery",
+        "origin": "official",
+        "needs_review": false
+      }
+    ]
   }
 ]
