@@ -6005,5 +6005,109 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-09-03",
+    "issue": 58,
+    "summary": "6 items (5 official), 0 high",
+    "alert": "",
+    "items": [
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "What’s new on Prime Video in September 2026, including ‘Neagley,’ ‘Drawn Together,’ and ‘Thursday Night Football’",
+        "tags": [
+          "#流量与活动",
+          "#About Amazon"
+        ],
+        "what": "What’s new on Prime Video in September 2026, including ‘Neagley,’ ‘Drawn Together,’ and ‘Thursday Night Football’ Prime Video’s September lineup also features several new films based on best-selling books",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "About Amazon | Tue, 01 Sep 2026 13:00:06 GMT",
+        "link": "https://www.aboutamazon.com/news/entertainment/prime-video-september-films-shows-sports-2026?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Is that message really from Amazon? Just ask Alexa for Shopping.",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Is that message really from Amazon? Just ask Alexa for Shopping. Amazon’s first-of-its-kind Alexa for Shopping feature helps protect consumers from scams",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Wed, 02 Sep 2026 13:01:10 GMT",
+        "link": "https://www.aboutamazon.com/news/retail/how-to-verify-amazon-messages-alexa-for-shopping?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "How Amazon is preparing for the energy needs of the future",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "How Amazon is preparing for the energy needs of the future Learn how we're supporting the transition to carbon-free energy and powering our business with sustainability in mind",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Tue, 01 Sep 2026 11:35:00 GMT",
+        "link": "https://www.aboutamazon.com/news/sustainability/amazon-renewable-energy-updates?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Ecommerce in Nigeria Poised for Growth",
+        "tags": [
+          "#headline",
+          "#Practical Ecommerce"
+        ],
+        "what": "Ecommerce in Nigeria Poised for Growth Per DHL, Nigeria exceeds the global average for expected ecommerce expansion. The post Ecommerce in Nigeria Poised for Growth appeared first on Practical Ecommerce ",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "Practical Ecommerce | Tue, 01 Sep 2026 13:58:24 +0000",
+        "link": "https://www.practicalecommerce.com/ecommerce-in-nigeria-poised-for-growth",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "工具与运营",
+        "title": "New Ecommerce Tools: September 2, 2026",
+        "tags": [
+          "#工具与运营",
+          "#Practical Ecommerce"
+        ],
+        "what": "New Ecommerce Tools: September 2, 2026 This week's rollouts include tools for payments, shipping, affiliate marketing, CRMs, supply chain, merchant-of-record services, and more. The post New Ecommerce Tools: September 2, 2026 appeared firs",
+        "impact": "涉及运营工具。",
+        "action": "关注后续。",
+        "source": "Practical Ecommerce | Wed, 02 Sep 2026 15:02:32 +0000",
+        "link": "https://www.practicalecommerce.com/new-ecommerce-tools-september-2-2026",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "流量与活动",
+        "title": "伯恩斯坦研报解读：Meta 广告收入 Q4 或超谷歌搜索，电商成 AI 广告最大赢家",
+        "tags": [
+          "#流量与活动",
+          "#深潮TechFlow"
+        ],
+        "what": "伯恩斯坦研报解读：Meta 广告收入 Q4 或超谷歌搜索，电商成 AI 广告最大赢家 伯恩斯坦研报解读：Meta 广告收入 Q4 或超谷歌搜索，电商成 AI 广告最大赢家    深潮TechFlow",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "深潮TechFlow (via Google News) | Tue, 01 Sep 2026 06:38:17 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE81N3h5OGV5RTY5azdXUWVFUDFRVlNubDNERzRiWE9xNjRGc3NQU0JKc0tFUDhVTTB2aHh5RVVNY00wcXJ5dU5LbzJBbDRselpYTTRnMg?oc=5",
+        "origin": "google",
+        "needs_review": false
+      }
+    ]
   }
 ]
