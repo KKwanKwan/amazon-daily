@@ -6109,5 +6109,93 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-09-04",
+    "issue": 59,
+    "summary": "5 items (3 official), 0 high",
+    "alert": "",
+    "items": [
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Is that message really from Amazon? Just ask Alexa for Shopping.",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Is that message really from Amazon? Just ask Alexa for Shopping. Amazon’s first-of-its-kind Alexa for Shopping feature helps protect consumers from scams",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Wed, 02 Sep 2026 13:01:10 GMT",
+        "link": "https://www.aboutamazon.com/news/retail/how-to-verify-amazon-messages-alexa-for-shopping?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "5 Content Marketing Ideas for October 2026",
+        "tags": [
+          "#headline",
+          "#Practical Ecommerce"
+        ],
+        "what": "5 Content Marketing Ideas for October 2026 Content marketers in October can explore Winnie-the-Pooh, Halloween, AI vs. humans, company archives, and breaking news. The post 5 Content Marketing Ideas for October 2026 appeared first on Practical",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "Practical Ecommerce | Thu, 03 Sep 2026 12:23:37 +0000",
+        "link": "https://www.practicalecommerce.com/5-content-marketing-ideas-for-october",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "重要！重要！重要！亚马逊近期政策大汇总！",
+        "tags": [
+          "#headline",
+          "#全球定制网"
+        ],
+        "what": "重要！重要！重要！亚马逊近期政策大汇总！ 重要！重要！重要！亚马逊近期政策大汇总！    全球定制网",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "全球定制网 (via Google News) | Thu, 03 Sep 2026 08:31:13 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBzZ2RwblBsV1l3aGhlYXlpUW1LVnhrZ0JiSU4zOEUtOGJsSlVvRnJVSDliOXdxSEcycXoyYjJyYUQxZEtKZk9telBtSkpZUQ?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "工具与运营",
+        "title": "New Ecommerce Tools: September 2, 2026",
+        "tags": [
+          "#工具与运营",
+          "#Practical Ecommerce"
+        ],
+        "what": "New Ecommerce Tools: September 2, 2026 This week's rollouts include tools for payments, shipping, affiliate marketing, CRMs, supply chain, merchant-of-record services, and more. The post New Ecommerce Tools: September 2, 2026 appeared firs",
+        "impact": "涉及运营工具。",
+        "action": "关注后续。",
+        "source": "Practical Ecommerce | Wed, 02 Sep 2026 15:02:32 +0000",
+        "link": "https://www.practicalecommerce.com/new-ecommerce-tools-september-2-2026",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "流量与活动",
+        "title": "Amazon被FTC起诉：广告竞价藏了什么？AI又为何威胁金融系统？｜湾区有约。",
+        "tags": [
+          "#流量与活动",
+          "#soundofhope.org"
+        ],
+        "what": "Amazon被FTC起诉：广告竞价藏了什么？AI又为何威胁金融系统？｜湾区有约。 Amazon被FTC起诉：广告竞价藏了什么？AI又为何威胁金融系统？｜湾区有约。    soundofhope.org",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "soundofhope.org (via Google News) | Thu, 03 Sep 2026 03:38:11 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE52Q3d4T3VNdFZ3VC1KeXpKdTNRVVBHUVFzWEtSWVNfNFNYSGJVTVFEeWxlNVZmemdlVVNfMlhabHhENEU0ZUdsZ3kxLW12TEk3?oc=5",
+        "origin": "google",
+        "needs_review": false
+      }
+    ]
   }
 ]
