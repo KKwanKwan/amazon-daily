@@ -6197,5 +6197,93 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-09-05",
+    "issue": 60,
+    "summary": "5 items (4 official), 0 high",
+    "alert": "",
+    "items": [
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Amazon expands Career Choice employee benefit with new programs in high-demand industries",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Amazon expands Career Choice employee benefit with new programs in high-demand industries Eligible employees, including corporate employees, will be able to use Amazon’s tuition assistance and career development benefit to earn credentials and move into new, in-demand industries",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Fri, 04 Sep 2026 15:27:02 GMT",
+        "link": "https://www.aboutamazon.com/news/workplace/amazon-career-choice-training-programs-tuition-careers?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Amazon's water conservation and replenishment efforts around the world",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Amazon's water conservation and replenishment efforts around the world Get the latest updates on how we’re reducing our water footprint and investing in innovations to address water scarcity",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Fri, 04 Sep 2026 08:25:00 GMT",
+        "link": "https://www.aboutamazon.com/news/sustainability/amazon-water-conservation-replenishment-sustainability?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Influencers Mostly Skip Disclosure",
+        "tags": [
+          "#headline",
+          "#Practical Ecommerce"
+        ],
+        "what": "Influencers Mostly Skip Disclosure The challenge with enforcing disclosure rules starts with the definition. The post Influencers Mostly Skip Disclosure appeared first on Practical Ecommerce ",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "Practical Ecommerce | Fri, 04 Sep 2026 15:30:47 +0000",
+        "link": "https://www.practicalecommerce.com/influencers-mostly-skip-disclosure",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "5 Content Marketing Ideas for October 2026",
+        "tags": [
+          "#headline",
+          "#Practical Ecommerce"
+        ],
+        "what": "5 Content Marketing Ideas for October 2026 Content marketers in October can explore Winnie-the-Pooh, Halloween, AI vs. humans, company archives, and breaking news. The post 5 Content Marketing Ideas for October 2026 appeared first on Practical",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "Practical Ecommerce | Thu, 03 Sep 2026 12:23:37 +0000",
+        "link": "https://www.practicalecommerce.com/5-content-marketing-ideas-for-october",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "重要！重要！重要！亚马逊近期政策大汇总！",
+        "tags": [
+          "#headline",
+          "#全球定制网"
+        ],
+        "what": "重要！重要！重要！亚马逊近期政策大汇总！ 重要！重要！重要！亚马逊近期政策大汇总！    全球定制网",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "全球定制网 (via Google News) | Thu, 03 Sep 2026 08:31:13 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBzZ2RwblBsV1l3aGhlYXlpUW1LVnhrZ0JiSU4zOEUtOGJsSlVvRnJVSDliOXdxSEcycXoyYjJyYUQxZEtKZk9telBtSkpZUQ?oc=5",
+        "origin": "google",
+        "needs_review": false
+      }
+    ]
   }
 ]
