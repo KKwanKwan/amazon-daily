@@ -6285,5 +6285,109 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-09-06",
+    "issue": 61,
+    "summary": "6 items (3 official), 0 high",
+    "alert": "",
+    "items": [
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "2020年亚马逊Prime Day旨在促进中小企业业务发展。",
+        "tags": [
+          "#流量与活动",
+          "#Grande Consumo"
+        ],
+        "what": "2020年亚马逊Prime Day旨在促进中小企业业务发展。 2020年亚马逊Prime Day旨在促进中小企业业务发展。    Grande Consumo",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "Grande Consumo (via Google News) | Fri, 04 Sep 2026 15:24:31 GMT",
+        "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNMS1nOTZlUzJGMzZQMnprV2VaaDFCeFduNU1GZGJnTm1nQjBkbmVwX2lDSjBYQ0ZIMU83Zy01WmVSbUhfd1VxUjFYN25mbGdUMkxXMlhFcTQtVFJvUEZINlBFNWNJMjhOQXU0UUlNeDhRa3ZzYVFLUkJrUk9TclBNODVIRDBQT1VpNFpQYWdvSEpLR2NTaElEOUVabi1HdTZSaW5wWGl0UkxjME9DcmY2UmR6eDh6enV2Umh0Y3J3SlJwWUFwQXhaalpGVktQcXRxTmU1Qm0tX2pBOU9fYm1OQmt6UnZ2cGh2Vy1GSzVacTc2WG85SjAwUnJ0U3dSSTVhMndmRktFUXhRUFV3amZSYlktTUdzNkZwNmk4WFpJdUszdTJMYlpIWlBkaEdUZ0lCTWc?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "在亚马逊上销售商品的中小企业在Prime Day期间销售额增长了60%。",
+        "tags": [
+          "#流量与活动",
+          "#Grande Consumo"
+        ],
+        "what": "在亚马逊上销售商品的中小企业在Prime Day期间销售额增长了60%。 在亚马逊上销售商品的中小企业在Prime Day期间销售额增长了60%。    Grande Consumo",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "Grande Consumo (via Google News) | Fri, 04 Sep 2026 18:59:37 GMT",
+        "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPNDdqbGVJY3pIcGRzejl2NTE4UDE3QUlsTGxnLWMxTE04WHdVMmxGalRrSGZQRkpZWEplME10ai1FLVEtNlBTbnIxZk1XTWVaMFlyYzVtRWZNRXlpOHVsUGpRaUNsbjFiWUM3REVaYTZuVno4VU40cEVKRWNjclBfcWRpY2dlTUdiSDBPZ3VDTnJ0MklUOUNVUXpHOUhvWEthLWlEbWpvQ3I1VmdDeDZKbElEX0lXQUN1bXVZbVdCQ1FvbHhHSWpJSS1BS0Y4cjZfMHJBa29WMFRhRlktblBoSHpwa3JYOVFRbmdFbUhaMDZmaE5BcGs3MTBaXy1lQVI0cVo2bXVEQmItYTU2d21uUURRcXFMck1MYzdkS3ZnTmVLZ2pSUXZ1eTNUSkFfN3BIRkxNYmwySHNoSGRFQjRtY2hEZ2VCYlJkbzFXUTNsWnBhTEFza2dYS01EamloQQ?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Amazon expands Career Choice employee benefit with new programs in high-demand industries",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Amazon expands Career Choice employee benefit with new programs in high-demand industries Eligible employees, including corporate employees, will be able to use Amazon’s tuition assistance and career development benefit to earn credentials and move into new, in-demand industries",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Fri, 04 Sep 2026 15:27:02 GMT",
+        "link": "https://www.aboutamazon.com/news/workplace/amazon-career-choice-training-programs-tuition-careers?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Amazon's water conservation and replenishment efforts around the world",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Amazon's water conservation and replenishment efforts around the world Get the latest updates on how we’re reducing our water footprint and investing in innovations to address water scarcity",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Fri, 04 Sep 2026 08:25:00 GMT",
+        "link": "https://www.aboutamazon.com/news/sustainability/amazon-water-conservation-replenishment-sustainability?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Influencers Mostly Skip Disclosure",
+        "tags": [
+          "#headline",
+          "#Practical Ecommerce"
+        ],
+        "what": "Influencers Mostly Skip Disclosure The challenge with enforcing disclosure rules starts with the definition. The post Influencers Mostly Skip Disclosure appeared first on Practical Ecommerce ",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "Practical Ecommerce | Fri, 04 Sep 2026 15:30:47 +0000",
+        "link": "https://www.practicalecommerce.com/influencers-mostly-skip-disclosure",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "物流与供应链",
+        "title": "告别免税红利，跨境电商全托管商家“分流转场”",
+        "tags": [
+          "#物流与供应链",
+          "#36氪出海"
+        ],
+        "what": "告别免税红利，跨境电商全托管商家“分流转场” 告别免税红利，跨境电商全托管商家“分流转场”    36氪出海",
+        "impact": "涉及跨境物流/关税。",
+        "action": "关注后续。",
+        "source": "36氪出海 (via Google News) | Sat, 05 Sep 2026 02:43:34 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE41WmM2UmlhSjNuU21fTlcwRmNTSU03QUFYZHdFTE9WZUtHVmdsQTFONWNtRkxXQVE2Yk93bm1ONHBETHBmNkE?oc=5",
+        "origin": "google",
+        "needs_review": false
+      }
+    ]
   }
 ]
