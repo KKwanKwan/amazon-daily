@@ -6389,5 +6389,61 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-09-07",
+    "issue": 62,
+    "summary": "3 items (2 official), 0 high",
+    "alert": "",
+    "items": [
+      {
+        "level": "low",
+        "column": "工具与运营",
+        "title": "Amazon 21 Air updates",
+        "tags": [
+          "#工具与运营",
+          "#About Amazon"
+        ],
+        "what": "Amazon 21 Air updates ",
+        "impact": "涉及运营工具。",
+        "action": "关注后续。",
+        "source": "About Amazon | Sun, 06 Sep 2026 20:43:38 GMT",
+        "link": "https://www.aboutamazon.com/news/company-news/amazon-21-air-miami-updates?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "工具与运营",
+        "title": "The Race to Own AI Shopping",
+        "tags": [
+          "#工具与运营",
+          "#Practical Ecommerce"
+        ],
+        "what": "The Race to Own AI Shopping Will shoppers use AI mostly on external platforms, or on-site directly with merchants? The post The Race to Own AI Shopping appeared first on Practical Ecommerce ",
+        "impact": "涉及运营工具。",
+        "action": "关注后续。",
+        "source": "Practical Ecommerce | Sun, 06 Sep 2026 12:42:25 +0000",
+        "link": "https://www.practicalecommerce.com/the-race-to-own-ai-shopping",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "物流与供应链",
+        "title": "告别免税红利，跨境电商全托管商家“分流转场”",
+        "tags": [
+          "#物流与供应链",
+          "#36氪出海"
+        ],
+        "what": "告别免税红利，跨境电商全托管商家“分流转场” 告别免税红利，跨境电商全托管商家“分流转场”    36氪出海",
+        "impact": "涉及跨境物流/关税。",
+        "action": "关注后续。",
+        "source": "36氪出海 (via Google News) | Sat, 05 Sep 2026 02:43:34 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE41WmM2UmlhSjNuU21fTlcwRmNTSU03QUFYZHdFTE9WZUtHVmdsQTFONWNtRkxXQVE2Yk93bm1ONHBETHBmNkE?oc=5",
+        "origin": "google",
+        "needs_review": false
+      }
+    ]
   }
 ]
