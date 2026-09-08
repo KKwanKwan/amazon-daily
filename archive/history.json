@@ -6445,5 +6445,93 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-09-08",
+    "issue": 63,
+    "summary": "5 items (3 official), 0 high",
+    "alert": "",
+    "items": [
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Do We Still Need Google Disavow?",
+        "tags": [
+          "#headline",
+          "#Practical Ecommerce"
+        ],
+        "what": "Do We Still Need Google Disavow? Yes, Google's Disavow tool remains useful for manual, link-related penalties. The post Do We Still Need Google Disavow? appeared first on Practical Ecommerce ",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "Practical Ecommerce | Mon, 07 Sep 2026 13:17:29 +0000",
+        "link": "https://www.practicalecommerce.com/do-we-still-need-google-disavow",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "从IFA看跨境电商大洗牌：速卖通Brand+驶上快车道",
+        "tags": [
+          "#headline",
+          "#Sohu"
+        ],
+        "what": "从IFA看跨境电商大洗牌：速卖通Brand+驶上快车道 从IFA看跨境电商大洗牌：速卖通Brand+驶上快车道    Sohu",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "Sohu (via Google News) | Mon, 07 Sep 2026 13:16:14 GMT",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcjRWeTVKYWNiRjRGN0hqT3BpLVNsaDREMWc2SXIyNEpBQUgzZnhLZVFMYVV0V2JmdGNLRVZDSFM0VVNqSkxLanM5QkZXVVgwdnJxV3Y0VmJxWUJkZjlFUGZlVHJ2ZTFVUERZRjkxMTZDNEt6cWZRTlR0NW1rMmJZQ0tuSEJCMmY3QzBqSQ?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "工具与运营",
+        "title": "Amazon 21 Air updates",
+        "tags": [
+          "#工具与运营",
+          "#About Amazon"
+        ],
+        "what": "Amazon 21 Air updates ",
+        "impact": "涉及运营工具。",
+        "action": "关注后续。",
+        "source": "About Amazon | Sun, 06 Sep 2026 20:43:38 GMT",
+        "link": "https://www.aboutamazon.com/news/company-news/amazon-21-air-miami-updates?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "工具与运营",
+        "title": "The Race to Own AI Shopping",
+        "tags": [
+          "#工具与运营",
+          "#Practical Ecommerce"
+        ],
+        "what": "The Race to Own AI Shopping Will shoppers use AI mostly on external platforms, or on-site directly with merchants? The post The Race to Own AI Shopping appeared first on Practical Ecommerce ",
+        "impact": "涉及运营工具。",
+        "action": "关注后续。",
+        "source": "Practical Ecommerce | Sun, 06 Sep 2026 12:42:25 +0000",
+        "link": "https://www.practicalecommerce.com/the-race-to-own-ai-shopping",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "物流与供应链",
+        "title": "从2欧元到10欧元，欧盟小包裹处理费拟翻5倍，Temu、SHEIN受大挑战",
+        "tags": [
+          "#物流与供应链",
+          "#t.cj.sina.cn"
+        ],
+        "what": "从2欧元到10欧元，欧盟小包裹处理费拟翻5倍，Temu、SHEIN受大挑战 从2欧元到10欧元，欧盟小包裹处理费拟翻5倍，Temu、SHEIN受大挑战    t.cj.sina.cn",
+        "impact": "涉及跨境物流/关税。",
+        "action": "关注后续。",
+        "source": "t.cj.sina.cn (via Google News) | Mon, 07 Sep 2026 12:41:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWFkzX1ZzMTdzM3E5YjBQeHZYVm12Yk9fWGZSX0NoWU1pT01BdFhYX3dSSjRSRzE0V0V0LW5IMm0yWXlkbWNiX0VRY1Q0Q2hJQlpISVVGMzRRWDIyMFpXdk9KTkdfVHJNS2hHTUFSMzFTX2lwZmJub21GUnNqczNmNWQwZmlSOFNIdHNmZkd3?oc=5",
+        "origin": "google",
+        "needs_review": false
+      }
+    ]
   }
 ]
