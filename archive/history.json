@@ -7149,5 +7149,45 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-09-14",
+    "issue": 69,
+    "summary": "2 items (1 official), 0 high",
+    "alert": "",
+    "items": [
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "2020年亚马逊Prime Day旨在促进中小企业业务发展。",
+        "tags": [
+          "#流量与活动",
+          "#Grande Consumo"
+        ],
+        "what": "2020年亚马逊Prime Day旨在促进中小企业业务发展。 2020年亚马逊Prime Day旨在促进中小企业业务发展。    Grande Consumo",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "Grande Consumo (via Google News) | Sat, 12 Sep 2026 02:53:45 GMT",
+        "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNMS1nOTZlUzJGMzZQMnprV2VaaDFCeFduNU1GZGJnTm1nQjBkbmVwX2lDSjBYQ0ZIMU83Zy01WmVSbUhfd1VxUjFYN25mbGdUMkxXMlhFcTQtVFJvUEZINlBFNWNJMjhOQXU0UUlNeDhRa3ZzYVFLUkJrUk9TclBNODVIRDBQT1VpNFpQYWdvSEpLR2NTaElEOUVabi1HdTZSaW5wWGl0UkxjME9DcmY2UmR6eDh6enV2Umh0Y3J3SlJwWUFwQXhaalpGVktQcXRxTmU1Qm0tX2pBOU9fYm1OQmt6UnZ2cGh2Vy1GSzVacTc2WG85SjAwUnJ0U3dSSTVhMndmRktFUXhRUFV3amZSYlktTUdzNkZwNmk4WFpJdUszdTJMYlpIWlBkaEdUZ0lCTWc?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "工具与运营",
+        "title": "Does Retail Media Add Value?",
+        "tags": [
+          "#工具与运营",
+          "#Practical Ecommerce"
+        ],
+        "what": "Does Retail Media Add Value? When it works, retail media generates net revenue for retailer-publishers and profitable customers for advertisers. The post Does Retail Media Add Value? appeared first on Practical Ecommerce ",
+        "impact": "涉及运营工具。",
+        "action": "关注后续。",
+        "source": "Practical Ecommerce | Sun, 13 Sep 2026 13:31:24 +0000",
+        "link": "https://www.practicalecommerce.com/does-retail-media-add-value",
+        "origin": "official",
+        "needs_review": false
+      }
+    ]
   }
 ]
