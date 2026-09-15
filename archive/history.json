@@ -7189,5 +7189,77 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-09-15",
+    "issue": 70,
+    "summary": "4 items (3 official), 0 high",
+    "alert": "",
+    "items": [
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "How Amazon is helping after back-to-back earthquakes in Venezuela",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "How Amazon is helping after back-to-back earthquakes in Venezuela Amazon is supporting nonprofits on the ground and delivering relief supplies after devastating quakes hit northern Venezuela",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Mon, 14 Sep 2026 19:01:00 GMT",
+        "link": "https://www.aboutamazon.com/news/community/amazon-response-venezuela-earthquakes-2026?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Branded Sites Are Vital for Merchants",
+        "tags": [
+          "#headline",
+          "#Practical Ecommerce"
+        ],
+        "what": "Branded Sites Are Vital for Merchants There's no substitute for direct relationships with shoppers. The post Branded Sites Are Vital for Merchants appeared first on Practical Ecommerce ",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "Practical Ecommerce | Mon, 14 Sep 2026 13:28:05 +0000",
+        "link": "https://www.practicalecommerce.com/branded-sites-are-vital-for-merchants",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "工具与运营",
+        "title": "Does Retail Media Add Value?",
+        "tags": [
+          "#工具与运营",
+          "#Practical Ecommerce"
+        ],
+        "what": "Does Retail Media Add Value? When it works, retail media generates net revenue for retailer-publishers and profitable customers for advertisers. The post Does Retail Media Add Value? appeared first on Practical Ecommerce ",
+        "impact": "涉及运营工具。",
+        "action": "关注后续。",
+        "source": "Practical Ecommerce | Sun, 13 Sep 2026 13:31:24 +0000",
+        "link": "https://www.practicalecommerce.com/does-retail-media-add-value",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "物流与供应链",
+        "title": "从全球货运50强看国际物流新趋势：顺丰国际以全域能力构筑新格局",
+        "tags": [
+          "#物流与供应链",
+          "#36 Kr"
+        ],
+        "what": "从全球货运50强看国际物流新趋势：顺丰国际以全域能力构筑新格局 从全球货运50强看国际物流新趋势：顺丰国际以全域能力构筑新格局    36 Kr",
+        "impact": "涉及跨境物流/关税。",
+        "action": "关注后续。",
+        "source": "36 Kr (via Google News) | Sun, 13 Sep 2026 16:21:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBkQmNLcmFfZEV3VWI5cmJaS0pWQkc3bFNYZm55ajRlTzhUd2daZVgtOUpUcjVPV1RDVlZ3T25uR1Z6cGU4bWtYaGpfMGZoVWVP?oc=5",
+        "origin": "google",
+        "needs_review": false
+      }
+    ]
   }
 ]
