@@ -7789,5 +7789,61 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-09-20",
+    "issue": 75,
+    "summary": "3 items (2 official), 0 high",
+    "alert": "",
+    "items": [
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "亚马逊Prime大促定档10月6-7日，各站点提报截止日期请收好",
+        "tags": [
+          "#流量与活动",
+          "#雨果跨境"
+        ],
+        "what": "亚马逊Prime大促定档10月6-7日，各站点提报截止日期请收好 亚马逊Prime大促定档10月6-7日，各站点提报截止日期请收好    雨果跨境",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "雨果跨境 (via Google News) | Fri, 18 Sep 2026 09:35:53 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1sX3BCR3VQSno1MFBZVWlyczJLZ3VjUldYTlVLbmY5Y2ozamtSTE1ZNDZmSnJHRVZMWlNxVnlqYjZySFdhRExGZ0QtMVU?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "5 Levers Drive CAC, Says Ad Pro",
+        "tags": [
+          "#headline",
+          "#Practical Ecommerce"
+        ],
+        "what": "5 Levers Drive CAC, Says Ad Pro Hal Smith of H Street Digital says lowering customer acquisition cost on Meta and Google starts with the offer. The post 5 Levers Drive CAC, Says Ad Pro appeared first on Practical Ecommerce ",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "Practical Ecommerce | Fri, 18 Sep 2026 14:00:58 +0000",
+        "link": "https://www.practicalecommerce.com/5-levers-drive-cac-says-ad-pro",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "工具与运营",
+        "title": "Amazon highlights investments in satellite connectivity, responsible AI, and sustainability at UN General Assembly",
+        "tags": [
+          "#工具与运营",
+          "#About Amazon"
+        ],
+        "what": "Amazon highlights investments in satellite connectivity, responsible AI, and sustainability at UN General Assembly From satellite internet in South Africa to 42 gigawatts of clean energy, Amazon's Chief Global Affairs Officer shares how the company is investing in the future",
+        "impact": "涉及运营工具。",
+        "action": "关注后续。",
+        "source": "About Amazon | Fri, 18 Sep 2026 16:42:11 GMT",
+        "link": "https://www.aboutamazon.com/news/policy-news-views/united-nations-general-assembly-2026-amazon-ai-sustainability?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      }
+    ]
   }
 ]
