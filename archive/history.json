@@ -7845,5 +7845,141 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-09-21",
+    "issue": 76,
+    "summary": "8 items (1 official), 1 high",
+    "alert": "Check high-impact items.",
+    "items": [
+      {
+        "level": "high",
+        "column": "物流与供应链",
+        "title": "欧盟海关新规落地！11月起跨境小包新增处理费，欧洲卖家务必警惕",
+        "tags": [
+          "#物流与供应链",
+          "#雨果跨境"
+        ],
+        "what": "欧盟海关新规落地！11月起跨境小包新增处理费，欧洲卖家务必警惕 欧盟海关新规落地！11月起跨境小包新增处理费，欧洲卖家务必警惕    雨果跨境",
+        "impact": "涉及跨境物流/关税。",
+        "action": "关注后续。",
+        "source": "雨果跨境 (via Google News) | Sun, 20 Sep 2026 03:16:51 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5UbEZtaDZ0SWNCMTB3bUdnbUNVUlNZcFZ2TTZDTTFBNEd4NkFKT2ZkVnpkOTdMTDZYaHN5b1BRSHpOUHNUZlJDRGpTU3c4Y28?oc=5",
+        "origin": "google",
+        "needs_review": true
+      },
+      {
+        "level": "mid",
+        "column": "政策与费用",
+        "title": "2026年亚马逊FBA费用调整来了",
+        "tags": [
+          "#政策与费用",
+          "#雨果跨境"
+        ],
+        "what": "2026年亚马逊FBA费用调整来了 2026年亚马逊FBA费用调整来了    雨果跨境",
+        "impact": "涉及平台费用。",
+        "action": "关注后续。",
+        "source": "雨果跨境 (via Google News) | Sun, 20 Sep 2026 01:07:57 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1OQm1xbmxkVXlIMk0yNktRejI4STJKZVlqNHozaU5OZjFBMkdIX3lwXzFFM3YyOXZ0Yi0wUEU0NWY5SDhVMURoNXNNdFc?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "亚马逊Prime大促定档10月6-7日，各站点提报截止日期请收好",
+        "tags": [
+          "#流量与活动",
+          "#雨果跨境"
+        ],
+        "what": "亚马逊Prime大促定档10月6-7日，各站点提报截止日期请收好 亚马逊Prime大促定档10月6-7日，各站点提报截止日期请收好    雨果跨境",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "雨果跨境 (via Google News) | Sat, 19 Sep 2026 22:26:18 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1sX3BCR3VQSno1MFBZVWlyczJLZ3VjUldYTlVLbmY5Y2ozamtSTE1ZNDZmSnJHRVZMWlNxVnlqYjZySFdhRExGZ0QtMVU?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "Maison Margiela 香水专场 | 慵懒周末$129(原$195) 5.6折起！比 prime day 还划算！",
+        "tags": [
+          "#流量与活动",
+          "#dealmoon.ca"
+        ],
+        "what": "Maison Margiela 香水专场 | 慵懒周末$129(原$195) 5.6折起！比 prime day 还划算！ Maison Margiela 香水专场 | 慵懒周末$129(原$195) 5.6折起！比 prime day 还划算！    dealmoon.ca",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "dealmoon.ca (via Google News) | Sun, 20 Sep 2026 07:41:01 GMT",
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTTdxb0U2YWRNX1h4cWxpN0NGM3BFQkJDdkVRNllELUlCWlR6V0FxU1AxRWdib0k1MkgwbFpEbldqVEQ3c0RnaU1taWNXMzR1dVFfTlp6dzJvU0lFUUNfVjUxcDFFWlVfTFRhalA3QVl2aXg0WHZ0NmVZZ1FNSUFZclB3X2VmbFBERzhGLXE3RzcyS1hxSUtYMnI5QWM1a2FmVHJORHJESzNwVXhqT2N0RTR5M0QyYUZQNU44dkNnRXMtNFV1T2g3ci1seGhWNm5jWVBnWWFFbTVlTlpuaEJmS0xjdW5HQU9NYWtnT1BaMEU0R28?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "亚马逊旺季多重收费来了，卖家利润告急！",
+        "tags": [
+          "#headline",
+          "#t.cj.sina.cn"
+        ],
+        "what": "亚马逊旺季多重收费来了，卖家利润告急！ 亚马逊旺季多重收费来了，卖家利润告急！    t.cj.sina.cn",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "t.cj.sina.cn (via Google News) | Sun, 20 Sep 2026 09:12:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYlVpZDdFMjBoUTVTQlByNk5aV2JzcUVfa05ieFhSWXVLaDA5UGpJemlGWUhmdE5jTm5oNjdkQmxXYkNzLTZJVmJkYnNZYVpqRzBUOGQ5X3NRcm9fVWJ4UFNSNlJfZXhOSl9weXRuakxTWmlobnYtWGFDazhuRk9GbmhLS1A2X0EyeEpfeUVn?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "亚马逊欧洲站生变；SHEIN在美国扩建；小红书出海悄然发力｜跨境电商周报",
+        "tags": [
+          "#headline",
+          "#亿邦动力网"
+        ],
+        "what": "亚马逊欧洲站生变；SHEIN在美国扩建；小红书出海悄然发力｜跨境电商周报 亚马逊欧洲站生变；SHEIN在美国扩建；小红书出海悄然发力｜跨境电商周报    亿邦动力网",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "亿邦动力网 (via Google News) | Sun, 20 Sep 2026 08:25:31 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BWkpWRFdvMWt5dVJ5RDB5TmFrQ0xRd201OW9oRGRqY2lUbnZXUlFQa2RTMDhXY3ZHcVpwSVBPMmJ5X3JCWmdWVEZBNTN3V0tBUlFTelFR?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "工具与运营",
+        "title": "Test Your Products for AI Discovery",
+        "tags": [
+          "#工具与运营",
+          "#Practical Ecommerce"
+        ],
+        "what": "Test Your Products for AI Discovery The goal is to match a shopper's needs to your product so an AI system will recommend it. The post Test Your Products for AI Discovery appeared first on Practical Ecommerce ",
+        "impact": "涉及运营工具。",
+        "action": "关注后续。",
+        "source": "Practical Ecommerce | Sun, 20 Sep 2026 15:17:42 +0000",
+        "link": "https://www.practicalecommerce.com/test-your-products-for-ai-discovery",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "物流与供应链",
+        "title": "欧盟取消小包免税政策，跨境电商平台销售额大幅下滑",
+        "tags": [
+          "#物流与供应链",
+          "#huxiu.com"
+        ],
+        "what": "欧盟取消小包免税政策，跨境电商平台销售额大幅下滑 欧盟取消小包免税政策，跨境电商平台销售额大幅下滑    huxiu.com",
+        "impact": "涉及跨境物流/关税。",
+        "action": "关注后续。",
+        "source": "huxiu.com (via Google News) | Sun, 20 Sep 2026 09:17:22 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FYWJIX1hScWZXSVBWOFNSRC1FV1MzWG5sbkktYW1NNW9peFFMN3VOQkVETlR1RXlya2lSQnZCc1Z6UzQxZGVrSjRZdU1PbTRlN0JBSFIwR0QwSkdrc0k0?oc=5",
+        "origin": "google",
+        "needs_review": false
+      }
+    ]
   }
 ]
