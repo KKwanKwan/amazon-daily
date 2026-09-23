@@ -8117,5 +8117,141 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-09-23",
+    "issue": 78,
+    "summary": "8 items (7 official), 0 high",
+    "alert": "",
+    "items": [
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "How Amazon and Prime make everyday life more affordable for American families",
+        "tags": [
+          "#流量与活动",
+          "#About Amazon"
+        ],
+        "what": "How Amazon and Prime make everyday life more affordable for American families Amazon and Prime deliver billions in savings every year—averaging over $1,000 per customer for 100+ million customers—through everyday low prices, deals, time-saving free delivery, and fuel savings—pl",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "About Amazon | Mon, 21 Sep 2026 15:00:18 GMT",
+        "link": "https://www.aboutamazon.com/news/retail/amazon-prime-affordable-everyday-savings?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "Amazon Prime Big Deal Days 官宣10月 小黑五狂欢 好价提前享！舒适达抗敏牙膏$4.9",
+        "tags": [
+          "#流量与活动",
+          "#dealmoon.ca"
+        ],
+        "what": "Amazon Prime Big Deal Days 官宣10月 小黑五狂欢 好价提前享！舒适达抗敏牙膏$4.9 Amazon Prime Big Deal Days 官宣10月 小黑五狂欢 好价提前享！舒适达抗敏牙膏$4.9    dealmoon.ca",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "dealmoon.ca (via Google News) | Mon, 21 Sep 2026 07:26:29 GMT",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQT3ZCT050LUN3Wkp1czcxRm1rNU1UWlNvRDVlMzNSMVZ1Y3ZnR2N1NTFBQ0tMMGgwa05uXzFPbHBRMnFoNXZHNmJyVTc1WjUxYUVXTFloRUNtanJUT0F5RUxlSkEtUHFScUk2MDBGdUw5Z2F5NUo0TndzWTdlX1RCMnRFSW43SWRoaGxsR1loVDNJd2lYYmtaaG5pZjU2cjk0MUI4VUVaTmNFSjl1VGJQVzVfbzB4TXR4UlZTTWJnMURubm84NlloSUx3MVNrYndmcHlTTmQ2U2RYTnZKLTNidVhTWjZ1ejhV?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Inside a decade of Amazon chip design, built workload by workload",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Inside a decade of Amazon chip design, built workload by workload At AI Infra Summit, Amazon SVP Peter DeSantis explained how real customer workloads guided every generation of Amazon's chips, from Nitro to Trainium",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Tue, 22 Sep 2026 18:42:38 GMT",
+        "link": "https://www.aboutamazon.com/news/innovation-at-amazon/peter-desantis-amazon-ai-chips-design?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "AWS becomes first cloud provider approved for NATO RESTRICTED workloads across all member nations",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "AWS becomes first cloud provider approved for NATO RESTRICTED workloads across all member nations AWS is the first cloud provider to have its cloud capabilities approved for use by all NATO member nations when handling information at the NATO RESTRICTED level",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Tue, 22 Sep 2026 15:45:09 GMT",
+        "link": "https://www.aboutamazon.com/news/aws/aws-first-cloud-provider-nato-restricted-workloads?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Amazon Leo is bringing high-quality satellite internet to Uzbekistan",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Amazon Leo is bringing high-quality satellite internet to Uzbekistan Amazon Leo has partnered with telecoms leader Uztelecom to extend connectivity where it’s needed most",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Tue, 22 Sep 2026 08:30:16 GMT",
+        "link": "https://www.aboutamazon.com/news/amazon-leo/amazon-leo-uzbekistan?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Amazon’s carbon-free energy projects contribute $11 billion to US GDP, support nearly 22,000 jobs in local communities",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Amazon’s carbon-free energy projects contribute $11 billion to US GDP, support nearly 22,000 jobs in local communities Amazon's solar, wind, nuclear, and battery storage investments drove economic growth across the U.S. from 2023 through 2025, per an Oxford Economics study",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Mon, 21 Sep 2026 19:00:05 GMT",
+        "link": "https://www.aboutamazon.com/news/sustainability/amazon-carbon-free-energy-economic-impact-study-2026?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Amazon invests $20 million in the Colorado River as part of a coalition to mobilize $100 million for water conservation",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Amazon invests $20 million in the Colorado River as part of a coalition to mobilize $100 million for water conservation Amazon is launching a collaborative action initiative alongside other companies to fund water projects across the basin",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Mon, 21 Sep 2026 09:55:01 GMT",
+        "link": "https://www.aboutamazon.com/news/sustainability/amazon-investment-colorado-river-water-conservation?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Omnichannel Playbook for Beauty Brands",
+        "tags": [
+          "#headline",
+          "#Practical Ecommerce"
+        ],
+        "what": "Omnichannel Playbook for Beauty Brands Spas and niche retailers want exclusivity and also products their clients recognize. That's the challenge. The post Omnichannel Playbook for Beauty Brands appeared first on Practical Ecommerce ",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "Practical Ecommerce | Tue, 22 Sep 2026 15:23:30 +0000",
+        "link": "https://www.practicalecommerce.com/omnichannel-playbook-for-beauty-brands",
+        "origin": "official",
+        "needs_review": false
+      }
+    ]
   }
 ]
