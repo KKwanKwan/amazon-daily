@@ -8389,5 +8389,141 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-09-25",
+    "issue": 80,
+    "summary": "8 items (5 official), 1 high",
+    "alert": "Check high-impact items.",
+    "items": [
+      {
+        "level": "high",
+        "column": "物流与供应链",
+        "title": "亚马逊旺季附加费新规，分三档阶梯涨价",
+        "tags": [
+          "#物流与供应链",
+          "#雨果跨境"
+        ],
+        "what": "亚马逊旺季附加费新规，分三档阶梯涨价 亚马逊旺季附加费新规，分三档阶梯涨价    雨果跨境",
+        "impact": "涉及跨境物流/关税。",
+        "action": "关注后续。",
+        "source": "雨果跨境 (via Google News) | Wed, 23 Sep 2026 09:08:31 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2UnNrYkxobHlKOVE4amoxcG5Xb0ZJY3hqeVV1M0l2MDU1TXdMbW5oTEFrRWRuMUk1RjVWYVpQX1ZBQXlRUUhoejVkS3U?oc=5",
+        "origin": "google",
+        "needs_review": true
+      },
+      {
+        "level": "mid",
+        "column": "物流与供应链",
+        "title": "Merchants can now add fast, free Prime delivery to their own websites and save up to 25% on fulfillment fees with Amazon Supply Chain Services",
+        "tags": [
+          "#物流与供应链",
+          "#About Amazon"
+        ],
+        "what": "Merchants can now add fast, free Prime delivery to their own websites and save up to 25% on fulfillment fees with Amazon Supply Chain Services Amazon Supply Chain Services customers who enroll in Multichannel Fulfillment, along with merchants already using MCF, can now add the Prime badge and delivery to their websites and separately save 15",
+        "impact": "涉及跨境物流/关税。",
+        "action": "关注后续。",
+        "source": "About Amazon | Thu, 24 Sep 2026 09:58:21 GMT",
+        "link": "https://www.aboutamazon.com/news/retail/amazon-mcf-prime-delivery-merchant-websites?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Bee Private Compute: How Bee keeps your conversations private",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Bee Private Compute: How Bee keeps your conversations private Bee doesn't store your audio and encrypts transcripts, summaries, and to-dos with keys only you control. Learn how Bee Private Compute protects your data",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Wed, 23 Sep 2026 22:30:07 GMT",
+        "link": "https://www.aboutamazon.com/news/devices/bee-private-compute-data-protection?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Amazon now offers nearly 30,000 pickup locations across the US",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Amazon now offers nearly 30,000 pickup locations across the US Customers are on track to collect more than 100 million packages from Amazon pickup locations this year",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Wed, 23 Sep 2026 13:00:12 GMT",
+        "link": "https://www.aboutamazon.com/news/retail/amazon-pickup-locations-expansion?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "How Amazon is preparing for the energy needs of the future",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "How Amazon is preparing for the energy needs of the future Learn how we're supporting the transition to carbon-free energy and powering our business with sustainability in mind",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Wed, 23 Sep 2026 07:02:00 GMT",
+        "link": "https://www.aboutamazon.com/news/sustainability/amazon-renewable-energy-updates?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Shopify Opens to Meta Muse; Amazon Balks",
+        "tags": [
+          "#headline",
+          "#Practical Ecommerce"
+        ],
+        "what": "Shopify Opens to Meta Muse; Amazon Balks Agentic commerce is evolving, but the two opposing responses suggest the stakes are high. The post Shopify Opens to Meta Muse; Amazon Balks appeared first on Practical Ecommerce ",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "Practical Ecommerce | Thu, 24 Sep 2026 12:50:19 +0000",
+        "link": "https://www.practicalecommerce.com/shopify-opens-to-meta-muse-amazon-balks",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "欧洲站又有新变化，亚马逊卖家9月开始要重新检查这4件事",
+        "tags": [
+          "#headline",
+          "#雨果跨境"
+        ],
+        "what": "欧洲站又有新变化，亚马逊卖家9月开始要重新检查这4件事 欧洲站又有新变化，亚马逊卖家9月开始要重新检查这4件事    雨果跨境",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "雨果跨境 (via Google News) | Thu, 24 Sep 2026 01:49:05 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9qaGhQSU1sb2FuaHpsV0VrWHNBd1h0RFlyMzhXOUxTTzNEekd5Qno1YVA5LXVDOEpDS3Y0SVphWWJoLVlpTjBuLTdyOGY?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "16点聊电商：2026年京东双11将于10月12日开始- 栏目",
+        "tags": [
+          "#headline",
+          "#亿邦动力网"
+        ],
+        "what": "16点聊电商：2026年京东双11将于10月12日开始- 栏目 16点聊电商：2026年京东双11将于10月12日开始- 栏目    亿邦动力网",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "亿邦动力网 (via Google News) | Thu, 24 Sep 2026 08:00:02 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxY2tORkNNZjJmVmtfbnRqaTdOVFZMXzNLMTNFc3JJR0hFT1FsWGQ4aUh3WWVjcnNFLWl4ZGM4QlhuZ2tVdXpXeHdRQlBhYnF3TWludjhB?oc=5",
+        "origin": "google",
+        "needs_review": false
+      }
+    ]
   }
 ]
