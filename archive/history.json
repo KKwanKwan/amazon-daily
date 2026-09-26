@@ -8525,5 +8525,141 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-09-26",
+    "issue": 81,
+    "summary": "8 items (3 official), 1 high",
+    "alert": "Check high-impact items.",
+    "items": [
+      {
+        "level": "high",
+        "column": "物流与供应链",
+        "title": "欧洲小包裹关税生效中国电商在法国发展受挫| 零新聞",
+        "tags": [
+          "#物流与供应链",
+          "#GitHub"
+        ],
+        "what": "欧洲小包裹关税生效中国电商在法国发展受挫| 零新聞 欧洲小包裹关税生效中国电商在法国发展受挫| 零新聞    GitHub",
+        "impact": "涉及跨境物流/关税。",
+        "action": "关注后续。",
+        "source": "GitHub (via Google News) | Fri, 25 Sep 2026 14:44:10 GMT",
+        "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNVkotSmlBMXItMkxVdjd6X29HUHRycU5KRUdVaGcwR1ptR0FEX2lwMDVWc2JQelEzeFhycDJsNGxPRmpBcHlNeTAyQ0owSER0SmtsREhuUjctcEN4aGdpNUxjMEp2RTJhTjFBaWo2MTBRN1dOb3Zjd243QzFCaGpla0RCa0tpN3Iwai15ZVAzek9LTm5uT3lpZDhXR0h6dUNMMTBCN3lNa1lrLXgzTzc3TVM1d3ZQek9YdWV3bkpoc3hMZEx0TTFaaThpWnVldFpQNnNETFoxeTFiaE8wd2JyUUNlcFNCdXdpbkpfS3FjSzVnbi15ckU2NGs5WERoa1pfRWlLUENKNEMtMVo1UEpYS2JoVk5KRFFocnVBS0VQOExIQkV6ZFZIeHJ2X0ljQXR0SjNqYmVORFdzU18yN21EclB5U1NMbmc4TU1nV0lqVUxZcEctMmc?oc=5",
+        "origin": "google",
+        "needs_review": true
+      },
+      {
+        "level": "mid",
+        "column": "物流与供应链",
+        "title": "Merchants can now add fast, free Prime delivery to their own websites and save up to 25% on fulfillment fees with Amazon Supply Chain Services",
+        "tags": [
+          "#物流与供应链",
+          "#About Amazon"
+        ],
+        "what": "Merchants can now add fast, free Prime delivery to their own websites and save up to 25% on fulfillment fees with Amazon Supply Chain Services Amazon Supply Chain Services customers who enroll in Multichannel Fulfillment, along with merchants already using MCF, can now add the Prime badge and delivery to their websites and separately save 15",
+        "impact": "涉及跨境物流/关税。",
+        "action": "关注后续。",
+        "source": "About Amazon | Thu, 24 Sep 2026 09:58:21 GMT",
+        "link": "https://www.aboutamazon.com/news/retail/amazon-mcf-prime-delivery-merchant-websites?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "Prime Day刷新行业增速纪录！ MOVA以“人工智能+户外庭院”成全球智能割草新标杆",
+        "tags": [
+          "#流量与活动",
+          "#品玩"
+        ],
+        "what": "Prime Day刷新行业增速纪录！ MOVA以“人工智能+户外庭院”成全球智能割草新标杆 Prime Day刷新行业增速纪录！ MOVA以“人工智能+户外庭院”成全球智能割草新标杆    品玩",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "品玩 (via Google News) | Thu, 24 Sep 2026 05:30:08 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBaZExTTTM2RmFVME9vc3ZSelBud21jZTZKdDR1MHBjRWtua3dNMEpvLXVXZmhHc1NHQ2k5SWRvOWRTSlNRcWR1Rw?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "Prime Day 提前享：Mimoglad 人体工学高背办公椅 可调腰托+头枕 翻折扶手久坐更舒适$144",
+        "tags": [
+          "#流量与活动",
+          "#dealmoon.ca"
+        ],
+        "what": "Prime Day 提前享：Mimoglad 人体工学高背办公椅 可调腰托+头枕 翻折扶手久坐更舒适$144 Prime Day 提前享：Mimoglad 人体工学高背办公椅 可调腰托+头枕 翻折扶手久坐更舒适$144    dealmoon.ca",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "dealmoon.ca (via Google News) | Fri, 25 Sep 2026 20:59:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPd3Y1UjRfUUktN2kwUnBxVWl5WEVQQXdqdURTbG9iSS1JdnVJalVCWVVyTGh5cFNpZDlCMkJvY2l6VkhrUVFaUDJQSUdQcURQNEtxMUlrUFBUZUt0a0dtczhDVGZFclBUQlBLd2loMlN3XzRPQ0s3VS1iaUVUcXRONHZVdzNpcXhGTWFHQ2NuQ1VHbWlLb0YweWhxRUtEdHZkczFLT2NSUjZxZnNfV2FIM3Fjdw?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "Prime Day 提前享：Philips Sonicare儿童电动牙刷！让娃主动爱上刷牙 $29.95",
+        "tags": [
+          "#流量与活动",
+          "#dealmoon.ca"
+        ],
+        "what": "Prime Day 提前享：Philips Sonicare儿童电动牙刷！让娃主动爱上刷牙 $29.95 Prime Day 提前享：Philips Sonicare儿童电动牙刷！让娃主动爱上刷牙 $29.95    dealmoon.ca",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "dealmoon.ca (via Google News) | Fri, 25 Sep 2026 18:29:12 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdTJocXR1U0pCeGpNb2J0b3hpSVlxWFVMR1QtTXZrTUN0d2hhQVVibWVKTmFSZG5Ic2RRVmFDN0ptSzVJRXZON1FsMEctVy1GNGxIaTgyTHBUd21DRU45eTNwbUsyNnZFV0oyQnQtcWVwR2IxRDdWTFo2Ujc1dDZPRXRBVzZIVFpzYUtDalNfZFFlWDR0UUd6WDNyNnYwRmVxd25PeG1lN1M2TzFDVE9jd3g0NUdHZjllRHpvOUNsejU?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Amazon data center communities: Here’s what’s happening near data centers across the US",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Amazon data center communities: Here’s what’s happening near data centers across the US Get the latest updates on how Amazon supports small businesses, creates jobs, sets up sustainability initiatives, and develops educational programs near AWS data centers",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Fri, 25 Sep 2026 18:03:00 GMT",
+        "link": "https://www.aboutamazon.com/news/aws/amazon-data-centers-locations-news?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Shopify Opens to Meta Muse; Amazon Balks",
+        "tags": [
+          "#headline",
+          "#Practical Ecommerce"
+        ],
+        "what": "Shopify Opens to Meta Muse; Amazon Balks Agentic commerce is evolving, but the two opposing responses suggest the stakes are high. The post Shopify Opens to Meta Muse; Amazon Balks appeared first on Practical Ecommerce ",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "Practical Ecommerce | Thu, 24 Sep 2026 12:50:19 +0000",
+        "link": "https://www.practicalecommerce.com/shopify-opens-to-meta-muse-amazon-balks",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "16点聊电商：2026年京东双11将于10月12日开始- 栏目",
+        "tags": [
+          "#headline",
+          "#亿邦动力网"
+        ],
+        "what": "16点聊电商：2026年京东双11将于10月12日开始- 栏目 16点聊电商：2026年京东双11将于10月12日开始- 栏目    亿邦动力网",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "亿邦动力网 (via Google News) | Thu, 24 Sep 2026 08:00:02 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxY2tORkNNZjJmVmtfbnRqaTdOVFZMXzNLMTNFc3JJR0hFT1FsWGQ4aUh3WWVjcnNFLWl4ZGM4QlhuZ2tVdXpXeHdRQlBhYnF3TWludjhB?oc=5",
+        "origin": "google",
+        "needs_review": false
+      }
+    ]
   }
 ]
