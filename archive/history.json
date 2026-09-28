@@ -8733,5 +8733,45 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-09-28",
+    "issue": 83,
+    "summary": "2 items (1 official), 0 high",
+    "alert": "",
+    "items": [
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "ROAS’s First Source of Truth",
+        "tags": [
+          "#headline",
+          "#Practical Ecommerce"
+        ],
+        "what": "ROAS’s First Source of Truth If advertising investment rises, sales and profit should too. If ad spending falls, so should sales. The post ROAS’s First Source of Truth appeared first on Practical Ecommerce ",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "Practical Ecommerce | Sun, 27 Sep 2026 12:49:58 +0000",
+        "link": "https://www.practicalecommerce.com/roass-first-source-of-truth",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "工具与运营",
+        "title": "微软 vs 亚马逊：哪只股票更值得投资？AI与云计算巨头全面对比",
+        "tags": [
+          "#工具与运营",
+          "#TradingKey"
+        ],
+        "what": "微软 vs 亚马逊：哪只股票更值得投资？AI与云计算巨头全面对比 微软 vs 亚马逊：哪只股票更值得投资？AI与云计算巨头全面对比    TradingKey",
+        "impact": "涉及运营工具。",
+        "action": "关注后续。",
+        "source": "TradingKey (via Google News) | Sat, 26 Sep 2026 16:05:24 GMT",
+        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPUDkzTG9jWUR4WnFiSWtmM2pMTE42a3M1bV9uSWh1U0lhYWhCT3JmSUdoV1QyWlkwVkNMRE54eWh3bGJPX0dVUEJtVF9lc0pDSnhWa0VhTzVSRlNXcGNOc1gxczRuMWd2T1J5SjQ2WFJGbnNoYjUtUVdMdldBdmlPTjdsZ0ljQ19zZXFOdDlqZnpyMXJtOWx6Qk9kWTVXblNSdXJoYTM4T3RLOFF1SG1MeTNDeDE0aDBnVWxUNGo2dkdabTc5aTVLelB5UjlhaXM5dnRncWl2WWc3RDJKLW01eUJGWEh4UTFOZ2ZLR0VadVcwS0prTnpqbGNvb3FVdw?oc=5",
+        "origin": "google",
+        "needs_review": false
+      }
+    ]
   }
 ]
