@@ -8773,5 +8773,77 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-09-29",
+    "issue": 84,
+    "summary": "4 items (4 official), 0 high",
+    "alert": "",
+    "items": [
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "Michael Bublé and Drew Scott strive for hockey glory in Prime Video docuseries 'Hometown Giants,' coming October 16",
+        "tags": [
+          "#流量与活动",
+          "#About Amazon"
+        ],
+        "what": "Michael Bublé and Drew Scott strive for hockey glory in Prime Video docuseries 'Hometown Giants,' coming October 16 Watch the trailer for the new Prime Video series about Vancouver Giants junior hockey players chasing NHL dreams",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "About Amazon | Mon, 28 Sep 2026 18:30:10 GMT",
+        "link": "https://www.aboutamazon.com/news/entertainment/hometown-giants-hockey-michael-buble-drew-scott-prime-video?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "How to stream Shakira's Madrid concert, exclusively with Amazon Music",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "How to stream Shakira's Madrid concert, exclusively with Amazon Music Shakira's October 3 Madrid performance as part of her 'Las Mujeres Ya No Lloran' world tour will stream live exclusively via Amazon",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Mon, 28 Sep 2026 08:00:19 GMT",
+        "link": "https://www.aboutamazon.com/news/entertainment/shakira-livestream-amazon-music-prime-video?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "ROAS’s First Source of Truth",
+        "tags": [
+          "#headline",
+          "#Practical Ecommerce"
+        ],
+        "what": "ROAS’s First Source of Truth If advertising investment rises, sales and profit should too. If ad spending falls, so should sales. The post ROAS’s First Source of Truth appeared first on Practical Ecommerce ",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "Practical Ecommerce | Sun, 27 Sep 2026 12:49:58 +0000",
+        "link": "https://www.practicalecommerce.com/roass-first-source-of-truth",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "工具与运营",
+        "title": "New GSC Image Filter Aids Product Discovery",
+        "tags": [
+          "#工具与运营",
+          "#Practical Ecommerce"
+        ],
+        "what": "New GSC Image Filter Aids Product Discovery Search Console's new filter reveals a discovery channel since shoppers often search images to find products. The post New GSC Image Filter Aids Product Discovery appeared first on Practical Ecommerce ",
+        "impact": "涉及运营工具。",
+        "action": "关注后续。",
+        "source": "Practical Ecommerce | Sun, 27 Sep 2026 15:56:27 +0000",
+        "link": "https://www.practicalecommerce.com/new-gsc-image-filter-aids-product-discovery",
+        "origin": "official",
+        "needs_review": false
+      }
+    ]
   }
 ]
