@@ -9205,5 +9205,141 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-10-03",
+    "issue": 88,
+    "summary": "8 items (7 official), 0 high",
+    "alert": "",
+    "items": [
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "What’s new on Prime Video in October 2026, including ‘Carrie,’ ‘The Terminal List,’ and NBA games",
+        "tags": [
+          "#流量与活动",
+          "#About Amazon"
+        ],
+        "what": "What’s new on Prime Video in October 2026, including ‘Carrie,’ ‘The Terminal List,’ and NBA games Prime Video’s October lineup also features new originals like ‘Masterplan’ and ‘Apocalypse Z 2.’",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "About Amazon | Thu, 01 Oct 2026 13:15:32 GMT",
+        "link": "https://www.aboutamazon.com/news/entertainment/prime-video-october-films-shows-sports-2026?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "Prime Day：70mai A810 Lite 4K行车记录仪现$140.59! 前后双录 评论再送2台！速来>>",
+        "tags": [
+          "#流量与活动",
+          "#dealmoon.ca"
+        ],
+        "what": "Prime Day：70mai A810 Lite 4K行车记录仪现$140.59! 前后双录 评论再送2台！速来>> Prime Day：70mai A810 Lite 4K行车记录仪现$140.59! 前后双录 评论再送2台！速来>>    dealmoon.ca",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "dealmoon.ca (via Google News) | Thu, 01 Oct 2026 06:01:49 GMT",
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQblVaUFR5RktNV0xwRnlQTTBwYXFNeWFzc28yckNmaEJCY1hPTElfS09zUFB1RlRaSmJDQU9FamVyTzlOUWlmQUpaaDVmTXZKXzBaM2hoS3hKQjVic0RSMFpWQzNUaUE5R0k4WnJOZHIzNE0tRUU2Z0VRNlRoTnAxSlBRTHFOd1lWdUR3SHlqYVNLMmVLd3N2RjhnWmVjVGtsazBuRExpZUNyYWhmcjZUNW13WHQ3VmczYzVOUTVRbkJrSmJvaktQeHljRTFEUnJJTTFKYXUwM2RGRThBc2FUUUZfVUdRb0xYelBiUUlacw?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "The race our nation can’t afford to lose, plus a new commitment from us and a fresh set of community investments",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "The race our nation can’t afford to lose, plus a new commitment from us and a fresh set of community investments ",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Fri, 02 Oct 2026 08:55:14 GMT",
+        "link": "https://www.aboutamazon.com/news/company-news/amazon-data-centers-built-together?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "How Amazon is helping communities impacted by the Nepal flash floods",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "How Amazon is helping communities impacted by the Nepal flash floods Amazon is working with aid organizations to help communities recover following flooding and landslides along the Nepal border",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Fri, 02 Oct 2026 08:34:00 GMT",
+        "link": "https://www.aboutamazon.com/news/community/nepal-floods-amazon-disaster-relief?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Amazon in the community: Service, community, and commitment at HQ2",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Amazon in the community: Service, community, and commitment at HQ2 Learn how we invest in the community, help power the local economy, and support our employees in the National Capital Region",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Thu, 01 Oct 2026 21:44:00 GMT",
+        "link": "https://www.aboutamazon.com/news/community/amazon-arlington-virginia-news?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "5 ways Amazon is investing in New Jersey",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "5 ways Amazon is investing in New Jersey Amazon's investments are boosting the Garden State's economy while creating opportunities for New Jersey residents",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Thu, 01 Oct 2026 15:29:41 GMT",
+        "link": "https://www.aboutamazon.com/news/community/amazon-investment-new-jersey-jobs-infrastructure-small-business?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Amazon introduces a completely redesigned Kindle family",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Amazon introduces a completely redesigned Kindle family The all-new Kindle, Kindle Paperwhite, and Kindle Colorsoft are thinner and lighter with a new display stack and seamless edge-to-edge color across the lineup",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Thu, 01 Oct 2026 12:50:13 GMT",
+        "link": "https://www.aboutamazon.com/news/devices/new-kindle-lineup-2026?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "工具与运营",
+        "title": "TinyHealth.com Sells Gut Tests by Mail",
+        "tags": [
+          "#工具与运营",
+          "#Practical Ecommerce"
+        ],
+        "what": "TinyHealth.com Sells Gut Tests by Mail Founder Cheryl Sew Hoy explains why gut health matters and her company's simple process for collecting and analyzing stool samples. The post TinyHealth.com Sells Gut Tests by Mail appeared first on Pr",
+        "impact": "涉及运营工具。",
+        "action": "关注后续。",
+        "source": "Practical Ecommerce | Fri, 02 Oct 2026 14:48:19 +0000",
+        "link": "https://www.practicalecommerce.com/tinyhealth-com-sells-gut-tests-by-mail",
+        "origin": "official",
+        "needs_review": false
+      }
+    ]
   }
 ]
