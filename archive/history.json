@@ -9453,5 +9453,141 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-10-06",
+    "issue": 91,
+    "summary": "8 items (5 official), 0 high",
+    "alert": "",
+    "items": [
+      {
+        "level": "mid",
+        "column": "政策与费用",
+        "title": "Inside the AWS lab that makes everything you do online feel effortless",
+        "tags": [
+          "#政策与费用",
+          "#About Amazon"
+        ],
+        "what": "Inside the AWS lab that makes everything you do online feel effortless In a nondescript building in Cupertino, California, a team of engineers is quietly designing the networking technology that keeps the modern world connected—one wavelength of light at a time",
+        "impact": "涉及平台费用。",
+        "action": "关注后续。",
+        "source": "About Amazon | Mon, 05 Oct 2026 15:37:49 GMT",
+        "link": "https://www.aboutamazon.com/stories/inside-aws-networking-lab-cupertino?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "Amazon Prime 亚马逊10月小黑五 王嘉尔同款 Beats 耳机$230 提前享！INU磁吸充电器$15",
+        "tags": [
+          "#流量与活动",
+          "#dealmoon.ca"
+        ],
+        "what": "Amazon Prime 亚马逊10月小黑五 王嘉尔同款 Beats 耳机$230 提前享！INU磁吸充电器$15 Amazon Prime 亚马逊10月小黑五 王嘉尔同款 Beats 耳机$230 提前享！INU磁吸充电器$15    dealmoon.ca",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "dealmoon.ca (via Google News) | Mon, 05 Oct 2026 09:29:48 GMT",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQT3ZCT050LUN3Wkp1czcxRm1rNU1UWlNvRDVlMzNSMVZ1Y3ZnR2N1NTFBQ0tMMGgwa05uXzFPbHBRMnFoNXZHNmJyVTc1WjUxYUVXTFloRUNtanJUT0F5RUxlSkEtUHFScUk2MDBGdUw5Z2F5NUo0TndzWTdlX1RCMnRFSW43SWRoaGxsR1loVDNJd2lYYmtaaG5pZjU2cjk0MUI4VUVaTmNFSjl1VGJQVzVfbzB4TXR4UlZTTWJnMURubm84NlloSUx3MVNrYndmcHlTTmQ2U2RYTnZKLTNidVhTWjZ1ejhV?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "Prime Day 提前享：STAUB 迷你铸铁锅也太精致了！炖汤焗饭都方便710ml一人食刚刚好$98（官网$249）",
+        "tags": [
+          "#流量与活动",
+          "#dealmoon.ca"
+        ],
+        "what": "Prime Day 提前享：STAUB 迷你铸铁锅也太精致了！炖汤焗饭都方便710ml一人食刚刚好$98（官网$249） Prime Day 提前享：STAUB 迷你铸铁锅也太精致了！炖汤焗饭都方便710ml一人食刚刚好$98（官网$249）    dealmoon.ca",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "dealmoon.ca (via Google News) | Mon, 05 Oct 2026 07:01:15 GMT",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQWwwcmtSTEVCRXlXSFNMT0YzNlNmQTVwT0NkOVU2WXI2bktsTnpnMWpHMVhYUnJmWkd2NldKUzd6ZFk4STZ6SjdXSDBjSkZ2YllscGFlYjVVSk5xX29DMmNQejY2WVJmM21kNG5IZmlLTjF0bTRnaXJ5Yk5kajNWZ0s2M1dPUXFDY0RFdFlIQXB3Q2hUVjNBbjFBZXEzNXlfVV84VV9JZWZJNjR2aEM4QXlNblNSdw?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "Prime Day 提前享：ECOVACS科沃斯去年旗舰X9 PRO OMNI，历史好价！ 评论区送$1399.99扫拖一体机",
+        "tags": [
+          "#流量与活动",
+          "#dealmoon.ca"
+        ],
+        "what": "Prime Day 提前享：ECOVACS科沃斯去年旗舰X9 PRO OMNI，历史好价！ 评论区送$1399.99扫拖一体机 Prime Day 提前享：ECOVACS科沃斯去年旗舰X9 PRO OMNI，历史好价！ 评论区送$1399.99扫拖一体机    dealmoon.ca",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "dealmoon.ca (via Google News) | Sun, 04 Oct 2026 05:35:07 GMT",
+        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxONFZQd1EzRVJZd3V5S2FJb3E3Ni15QXdxVTVTWXNidllrWC11NWZNZzRtUXJ3VEZMb05fTkxsOG05RjN0RnRDOTJoMHhud1R3RllCSXJWMEdEZnNFSzZvd1EzVWJFejVPeWx0aEZKY0M2REwtMndXcGJKa2hhdmZ3eEtFaUZvVS1kdXRIME5FcnZSZ0x2QlNGWlJoenNrZzdlcHJ6eENoWDdFeVg2QjMtOWd5U01QRHl4Q2s0eVJQaDhyRFYwcE5wM1hFa2hpMTltZkg1cmZHRVA2dTNaVEFPMXh3QmNSd0xoSkUzcWo5SG1VMl9RaFMwS29HWUEwN0N5bjNtYg?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "5 ways Amazon is investing in Connecticut",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "5 ways Amazon is investing in Connecticut Amazon's investments are boosting the Constitution State's economy while creating opportunities for Connecticut residents",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Mon, 05 Oct 2026 16:44:55 GMT",
+        "link": "https://www.aboutamazon.com/news/community/amazon-investment-connecticut-jobs-infrastructure-small-business?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Amazon in the community: Here’s what’s happening in Seattle, Bellevue, and the Puget Sound",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Amazon in the community: Here’s what’s happening in Seattle, Bellevue, and the Puget Sound Learn how we invest in the community, help power the local economy, and support our employees in the Puget Sound region",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Mon, 05 Oct 2026 15:26:00 GMT",
+        "link": "https://www.aboutamazon.com/news/community/amazon-seattle-bellevue-puget-sound-news?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Amazon's Holiday Kids Gift Book is back with 600+ toys, games, and gifts for every age",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Amazon's Holiday Kids Gift Book is back with 600+ toys, games, and gifts for every age From an interactive Alexa+ story to exclusive Forest Friends gifts, this year's edition has something for everyone on your list",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Mon, 05 Oct 2026 13:00:05 GMT",
+        "link": "https://www.aboutamazon.com/news/retail/amazon-2026-holiday-kids-gift-book?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Add Social Profiles to Search Console",
+        "tags": [
+          "#headline",
+          "#Practical Ecommerce"
+        ],
+        "what": "Add Social Profiles to Search Console Publish a video on YouTube and related product images on Instagram, and then track organic search performance for each. The post Add Social Profiles to Search Console appeared first on Practical Ecomm",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "Practical Ecommerce | Mon, 05 Oct 2026 09:00:52 +0000",
+        "link": "https://www.practicalecommerce.com/add-social-profiles-to-search-console",
+        "origin": "official",
+        "needs_review": false
+      }
+    ]
   }
 ]
