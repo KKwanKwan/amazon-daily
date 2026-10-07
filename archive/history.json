@@ -9589,5 +9589,141 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-10-07",
+    "issue": 92,
+    "summary": "8 items (3 official), 0 high",
+    "alert": "",
+    "items": [
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "Prime Video and the Television Academy announce 6-year deal to exclusively stream the Emmy Awards globally",
+        "tags": [
+          "#流量与活动",
+          "#About Amazon"
+        ],
+        "what": "Prime Video and the Television Academy announce 6-year deal to exclusively stream the Emmy Awards globally Beginning in 2027, the Emmy Awards will stream live and free on Prime Video in more than 240 countries and territories—the first time the ceremony has had a single, dedicated home",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "About Amazon | Tue, 06 Oct 2026 12:58:12 GMT",
+        "link": "https://www.aboutamazon.com/news/entertainment/prime-video-emmy-awards-deal?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "Prime Big Deal Days 2026 is here: 165 of the best deals to shop now through October 7",
+        "tags": [
+          "#流量与活动",
+          "#About Amazon"
+        ],
+        "what": "Prime Big Deal Days 2026 is here: 165 of the best deals to shop now through October 7 From tech and toys to kitchen, beauty, and fall fashion, here are the top deals to shop during the 48-hour event, running through 11:59 p.m. PDT on Wednesday, October 7",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "About Amazon | Tue, 06 Oct 2026 07:22:02 GMT",
+        "link": "https://www.aboutamazon.com/news/retail/best-prime-big-deal-days-2026-top-deals?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "mid",
+        "column": "政策与费用",
+        "title": "Inside the AWS lab that makes everything you do online feel effortless",
+        "tags": [
+          "#政策与费用",
+          "#About Amazon"
+        ],
+        "what": "Inside the AWS lab that makes everything you do online feel effortless In a nondescript building in Cupertino, California, a team of engineers is quietly designing the networking technology that keeps the modern world connected—one wavelength of light at a time",
+        "impact": "涉及平台费用。",
+        "action": "关注后续。",
+        "source": "About Amazon | Mon, 05 Oct 2026 15:37:49 GMT",
+        "link": "https://www.aboutamazon.com/stories/inside-aws-networking-lab-cupertino?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "Amazon Kicked Off Prime Big Deal Days as Consumer Stocks Slump. Here’s Where the Stock Could Go by 2030",
+        "tags": [
+          "#流量与活动",
+          "#TIKR.com"
+        ],
+        "what": "Amazon Kicked Off Prime Big Deal Days as Consumer Stocks Slump. Here’s Where the Stock Could Go by 2030 Amazon Kicked Off Prime Big Deal Days as Consumer Stocks Slump. Here’s Where the Stock Could Go by 2030    TIKR.com",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "TIKR.com (via Google News) | Tue, 06 Oct 2026 14:58:47 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQm5BTU0wUzV1YkV0cjZ3MEg5ZmNCb1JqUk83RFZNcFJaMzFfYUF1YnFQWHQ2a0k5Q3lHTU5uSnhZMVMtYVp5VWVEWEZwYVNSTTMxQ1ZkUTJoME1kM0VUbG9MTjNYb1RmOGk4MmE2cTRQcjNKMC10OFdGZ2RuOWptN010bmJRM3RZYV8tY3lRQ2xmX2ZpbndxbUtaNUxhWGZTQkllT3NLTDVSOEYydUZETG9qVmNORDFad283MmRHWVp4eTl6UHhYTTVqRQ?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "亚马逊美国站 Prime Big Deal Days，AI 书籍最高降价 64%，智能家居同样有折扣",
+        "tags": [
+          "#流量与活动",
+          "#Pasquale Pillitteri"
+        ],
+        "what": "亚马逊美国站 Prime Big Deal Days，AI 书籍最高降价 64%，智能家居同样有折扣 亚马逊美国站 Prime Big Deal Days，AI 书籍最高降价 64%，智能家居同样有折扣    Pasquale Pillitteri",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "Pasquale Pillitteri (via Google News) | Tue, 06 Oct 2026 08:19:44 GMT",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQREMwaDBIc0lvanJaN3pReUJSYkw4bEh1bUstbVZSZ2drajFRZE5LS3RPaWMxN0x4MDhVQXZyN1hHb2FSMmZXZzI1b3cyeGdYUmlXUWhEUkNwWHZmR2RVUi11UE9WQzAyTDR6eElwTEJDd1hyZnBxeXU4NHlyLTJnSVFZSHNtSS0zNDJmRkdhVlptNVJxOFNR?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "Amazon Prime 亚马逊10月小黑五 王嘉尔同款 Beats 耳机$230 提前享！INU磁吸充电器$15",
+        "tags": [
+          "#流量与活动",
+          "#加拿大省钱快报"
+        ],
+        "what": "Amazon Prime 亚马逊10月小黑五 王嘉尔同款 Beats 耳机$230 提前享！INU磁吸充电器$15 Amazon Prime 亚马逊10月小黑五 王嘉尔同款 Beats 耳机$230 提前享！INU磁吸充电器$15    加拿大省钱快报",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "加拿大省钱快报 (via Google News) | Mon, 05 Oct 2026 09:29:48 GMT",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQT3ZCT050LUN3Wkp1czcxRm1rNU1UWlNvRDVlMzNSMVZ1Y3ZnR2N1NTFBQ0tMMGgwa05uXzFPbHBRMnFoNXZHNmJyVTc1WjUxYUVXTFloRUNtanJUT0F5RUxlSkEtUHFScUk2MDBGdUw5Z2F5NUo0TndzWTdlX1RCMnRFSW43SWRoaGxsR1loVDNJd2lYYmtaaG5pZjU2cjk0MUI4VUVaTmNFSjl1VGJQVzVfbzB4TXR4UlZTTWJnMURubm84NlloSUx3MVNrYndmcHlTTmQ2U2RYTnZKLTNidVhTWjZ1ejhV?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "Amazon Prime 10月小黑五Uber/加航/宜家...超多礼卡诚意满满！ 开抢！UGG史低扎堆羊毛拖$66",
+        "tags": [
+          "#流量与活动",
+          "#加拿大省钱快报"
+        ],
+        "what": "Amazon Prime 10月小黑五Uber/加航/宜家...超多礼卡诚意满满！ 开抢！UGG史低扎堆羊毛拖$66 Amazon Prime 10月小黑五Uber/加航/宜家...超多礼卡诚意满满！ 开抢！UGG史低扎堆羊毛拖$66    加拿大省钱快报",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "加拿大省钱快报 (via Google News) | Tue, 06 Oct 2026 09:24:36 GMT",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMWtxenpfdHhLZ2E3MkMyT0dDZm8zVXFQeWllZVlQaVgzZHBuSXRCQTBlUXRRMEJSNnZUaEx5QzZ3RjJ2U1FjdjI5NG9iSXNtc1RTbURHMm9fYTlvRTVkcmJwai15c2FmbWprZTNzNzFiTDd2YTd5Z0FDMjB6ZjFCOGlrSXFXNHJHWWc0RXVUODh3S2FvcV8taWhsOGs3YlNDRDI0a2JuOWJUVk9rMWtmdnphY0FIUVBRNjRMWFo0dDNJSmtpaVRfRFBCdWxMVE9LNEVza2t5c0kzNnVRQy1MRzJVOFk?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "Prime Day 提前享：STAUB 迷你铸铁锅也太精致了！炖汤焗饭都方便710ml一人食刚刚好$98（官网$249）",
+        "tags": [
+          "#流量与活动",
+          "#dealmoon.ca"
+        ],
+        "what": "Prime Day 提前享：STAUB 迷你铸铁锅也太精致了！炖汤焗饭都方便710ml一人食刚刚好$98（官网$249） Prime Day 提前享：STAUB 迷你铸铁锅也太精致了！炖汤焗饭都方便710ml一人食刚刚好$98（官网$249）    dealmoon.ca",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "dealmoon.ca (via Google News) | Mon, 05 Oct 2026 06:53:54 GMT",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQWwwcmtSTEVCRXlXSFNMT0YzNlNmQTVwT0NkOVU2WXI2bktsTnpnMWpHMVhYUnJmWkd2NldKUzd6ZFk4STZ6SjdXSDBjSkZ2YllscGFlYjVVSk5xX29DMmNQejY2WVJmM21kNG5IZmlLTjF0bTRnaXJ5Yk5kajNWZ0s2M1dPUXFDY0RFdFlIQXB3Q2hUVjNBbjFBZXEzNXlfVV84VV9JZWZJNjR2aEM4QXlNblNSdw?oc=5",
+        "origin": "google",
+        "needs_review": false
+      }
+    ]
   }
 ]
