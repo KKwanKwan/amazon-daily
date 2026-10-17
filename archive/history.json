@@ -10917,5 +10917,141 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-10-17",
+    "issue": 102,
+    "summary": "8 items (5 official), 1 high",
+    "alert": "Check high-impact items.",
+    "items": [
+      {
+        "level": "high",
+        "column": "政策与费用",
+        "title": "亚马逊英德站旺季配送费10月15日生效，费率、适用范围与叠加规则全解读",
+        "tags": [
+          "#政策与费用",
+          "#雨果跨境"
+        ],
+        "what": "亚马逊英德站旺季配送费10月15日生效，费率、适用范围与叠加规则全解读 亚马逊英德站旺季配送费10月15日生效，费率、适用范围与叠加规则全解读    雨果跨境",
+        "impact": "涉及平台费用。",
+        "action": "关注后续。",
+        "source": "雨果跨境 (via Google News) | Fri, 16 Oct 2026 09:50:13 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE02X2NORGpfeWRDcGZ1c3p5VUtZbVVjMFZsWFVoVkhDV1pGRDlydkdnenZPNnBOSzVKNHRLLVdWVlZxV05UQlN6dVhoSUk?oc=5",
+        "origin": "google",
+        "needs_review": true
+      },
+      {
+        "level": "mid",
+        "column": "政策与费用",
+        "title": "亚马逊美国站FBA大件费率下调，新品入仓福利同步升级",
+        "tags": [
+          "#政策与费用",
+          "#雨果跨境"
+        ],
+        "what": "亚马逊美国站FBA大件费率下调，新品入仓福利同步升级 亚马逊美国站FBA大件费率下调，新品入仓福利同步升级    雨果跨境",
+        "impact": "涉及平台费用。",
+        "action": "关注后续。",
+        "source": "雨果跨境 (via Google News) | Fri, 16 Oct 2026 09:52:11 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBPRU9YbWR0MTBMX0xBbTd1M3Q0anREVmZET1lFRXlRTFVUOFdEODBpdEJET20wOEtibGtYSzVGVXZUM1VNdkVQLUE1c3c?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "松屋在Amazon Prime感谢祭正式开幕时主推\"牛肉饭浇头30份套装\"",
+        "tags": [
+          "#流量与活动",
+          "#ギュメシー"
+        ],
+        "what": "松屋在Amazon Prime感谢祭正式开幕时主推\"牛肉饭浇头30份套装\" 松屋在Amazon Prime感谢祭正式开幕时主推\"牛肉饭浇头30份套装\"    ギュメシー",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "ギュメシー (via Google News) | Thu, 15 Oct 2026 23:00:10 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5JRzNWSnZQOG95a3JvTHg5QjVQaERrSlZPR3A4enVKRDlGTTNHR0JJV3JBZ29Fa1FrZUhKWU52bl95a1pBeHVhNVIwRlUxZEZQ?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Amazon data center communities: Here’s what’s happening near data centers across the US",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Amazon data center communities: Here’s what’s happening near data centers across the US Get the latest updates on how Amazon supports small businesses, creates jobs, sets up sustainability initiatives, and develops educational programs near AWS data centers",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Fri, 16 Oct 2026 21:12:00 GMT",
+        "link": "https://www.aboutamazon.com/news/aws/amazon-data-centers-locations-news?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Amazon will share its Q3 2026 earnings on October 29",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Amazon will share its Q3 2026 earnings on October 29 On October 29, Amazon is set to hold a conference call to discuss its Q3 2026 financial results",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Thu, 15 Oct 2026 20:14:12 GMT",
+        "link": "https://www.aboutamazon.com/news/company-news/amazon-earnings-q3-2026-report?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Commerce Data as Credit Data",
+        "tags": [
+          "#headline",
+          "#Practical Ecommerce"
+        ],
+        "what": "Commerce Data as Credit Data Sales, fulfillment, and shipping are becoming part of a merchant's potential borrowing capacity. The post Commerce Data as Credit Data appeared first on Practical Ecommerce ",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "Practical Ecommerce | Thu, 15 Oct 2026 09:00:20 +0000",
+        "link": "https://www.practicalecommerce.com/commerce-data-as-credit-data",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "工具与运营",
+        "title": "Amazon introduces 2 new AI products from Bee: Bee Frontier and Bee Eclipse",
+        "tags": [
+          "#工具与运营",
+          "#About Amazon"
+        ],
+        "what": "Amazon introduces 2 new AI products from Bee: Bee Frontier and Bee Eclipse Bee expands its ambient AI family with two personal AI devices designed to remember the moments that matter most, plus new integrations with Alexa+ and Amazon.com",
+        "impact": "涉及运营工具。",
+        "action": "关注后续。",
+        "source": "About Amazon | Thu, 15 Oct 2026 11:55:24 GMT",
+        "link": "https://www.aboutamazon.com/news/devices/amazon-personal-ai-bee-frontier-bee-eclipse?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "工具与运营",
+        "title": "AI Platforms Attract a Growing Ecosystem",
+        "tags": [
+          "#工具与运营",
+          "#Practical Ecommerce"
+        ],
+        "what": "AI Platforms Attract a Growing Ecosystem Apps, connectors, marketplaces, protocols, and payment systems are beginning to form around AI platforms. The post AI Platforms Attract a Growing Ecosystem appeared first on Practical Ecommerce ",
+        "impact": "涉及运营工具。",
+        "action": "关注后续。",
+        "source": "Practical Ecommerce | Fri, 16 Oct 2026 09:00:35 +0000",
+        "link": "https://www.practicalecommerce.com/ai-platforms-attract-a-growing-ecosystem",
+        "origin": "official",
+        "needs_review": false
+      }
+    ]
   }
 ]
