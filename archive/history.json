@@ -11157,5 +11157,29 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-10-19",
+    "issue": 104,
+    "summary": "1 items (0 official), 0 high",
+    "alert": "",
+    "items": [
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "松屋在Amazon Prime感谢祭推出烤银鲑鱼30食装，每食216日元",
+        "tags": [
+          "#流量与活动",
+          "#ギュメシー"
+        ],
+        "what": "松屋在Amazon Prime感谢祭推出烤银鲑鱼30食装，每食216日元 松屋在Amazon Prime感谢祭推出烤银鲑鱼30食装，每食216日元    ギュメシー",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "ギュメシー (via Google News) | Sat, 17 Oct 2026 10:00:35 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1JVVRyMW1Ec01ULVFYVk9FdG5RR1ZOT3JFdXZrb0xhaWx1bGY5QVZvaWNaZHh4SVVIcXI1OWNjcVhvcnp6anpuZ3BSa01SMDhN?oc=5",
+        "origin": "google",
+        "needs_review": false
+      }
+    ]
   }
 ]
