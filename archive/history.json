@@ -11301,5 +11301,141 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-10-21",
+    "issue": 106,
+    "summary": "8 items (5 official), 0 high",
+    "alert": "",
+    "items": [
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "Watch the trailer for ‘Drive – The Pretenders,’ coming to Prime Video October 28",
+        "tags": [
+          "#流量与活动",
+          "#About Amazon"
+        ],
+        "what": "Watch the trailer for ‘Drive – The Pretenders,’ coming to Prime Video October 28 The romantic movie, inspired by the hit novel 'Drive,' follows a mechanic who fakes an engagement to a scandalous racing star—with a passion that could destroy them both",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "About Amazon | Mon, 19 Oct 2026 13:00:24 GMT",
+        "link": "https://www.aboutamazon.com/news/entertainment/drive-the-pretenders-prime-video?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "Prime Day最后一天🚨加拿大实时热销榜！ 别等卖光才后悔 TheraBreath $8｜Lysol除菌液 $12",
+        "tags": [
+          "#流量与活动",
+          "#加拿大省钱快报"
+        ],
+        "what": "Prime Day最后一天🚨加拿大实时热销榜！ 别等卖光才后悔 TheraBreath $8｜Lysol除菌液 $12 Prime Day最后一天🚨加拿大实时热销榜！ 别等卖光才后悔 TheraBreath $8｜Lysol除菌液 $12    加拿大省钱快报",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "加拿大省钱快报 (via Google News) | Mon, 19 Oct 2026 09:37:32 GMT",
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPQ2JCbGVhc3ozUzNENG1BRTBTUWtiU19EdTV6a21BX01zZjM3cmRFbGdIb0g3eFplMVJxblA4eWdDMGVSOVRzRVRmcWNMZ0s2cm5KUGJhUDkyeGpTN21uVm9pLWxvdGV0Q0dSSTdJMEkxNG9oSndhbEVTTDJrUVVncjQxM3VndVE3akVMSlJBaXJlcU53U2NBNXhWOVBxSzkwWGZyZGt4bWdSTV90NTVpRE1US1N6YXRHSkhjTXVjbzNfRG92NWZ6TUVscVVTTExTX29Db3JQQ1B6LTBhRDAtdk5CUFc2N1B0YWNfcnNCeFhNM1k?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Amazon commits 30,000 jobs to young people in the UK by 2030—no experience required",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Amazon commits 30,000 jobs to young people in the UK by 2030—no experience required The Amazon Youth Promise will also see 10,000 work experience places open to young people in the UK",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Tue, 20 Oct 2026 21:25:08 GMT",
+        "link": "https://www.aboutamazon.com/news/company-news/amazon-youth-promise-uk?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Amazon is creating over 300,000 new US jobs this holiday season with increased pay and expanded benefits",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Amazon is creating over 300,000 new US jobs this holiday season with increased pay and expanded benefits Amazon offers industry-leading benefits based on role and tenure, and starting January 1, 2027, eligible seasonal employees will have access to healthcare coverage from their first day on the job",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Tue, 20 Oct 2026 12:30:09 GMT",
+        "link": "https://www.aboutamazon.com/news/workplace/amazon-holiday-jobs-2026-seasonal-hiring-healthcare?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Amazon announces plan to invest €16 billion in Germany in 2027",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Amazon announces plan to invest €16 billion in Germany in 2027 Since 2010, Amazon has invested over €100 billion in Germany, underscoring the country as one of the most important to Amazon worldwide",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Tue, 20 Oct 2026 09:04:23 GMT",
+        "link": "https://www.aboutamazon.com/company-news/amazon-germany-investment?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Amazon invests in nuclear energy project targeting nearly 1 gigawatt of carbon-free energy for Indiana",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Amazon invests in nuclear energy project targeting nearly 1 gigawatt of carbon-free energy for Indiana Amazon, X-energy, and AEP are collaborating to explore building small modular reactors in Indiana that would add carbon-free power to the regional grid",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Mon, 19 Oct 2026 12:30:08 GMT",
+        "link": "https://www.aboutamazon.com/news/sustainability/amazon-nuclear-energy-indiana-x-energy-aep?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "亚马逊放大招：Listing违规也能继续卖！这项新机制或将改变卖家申诉方式",
+        "tags": [
+          "#headline",
+          "#雨果跨境"
+        ],
+        "what": "亚马逊放大招：Listing违规也能继续卖！这项新机制或将改变卖家申诉方式 亚马逊放大招：Listing违规也能继续卖！这项新机制或将改变卖家申诉方式    雨果跨境",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "雨果跨境 (via Google News) | Mon, 19 Oct 2026 07:21:28 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBMXRaejFBNFh6VXZ6VEtmRnNodktaOG12UlNTZVBnQnBoU0JXeW1OZm5WbVFJcUJsVUthb1VlaXcyM0pxVG43S0hLUmpQVEU?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "速卖通2026商家大会观察：跨境电商告别“低价铺货”，品牌化与本地化成破局关键",
+        "tags": [
+          "#headline",
+          "#https://www.caiwennews.com/"
+        ],
+        "what": "速卖通2026商家大会观察：跨境电商告别“低价铺货”，品牌化与本地化成破局关键 速卖通2026商家大会观察：跨境电商告别“低价铺货”，品牌化与本地化成破局关键    https://www.caiwennews.com/",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "https://www.caiwennews.com/ (via Google News) | Tue, 20 Oct 2026 13:26:09 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1RZm9sd0NLcDBkVTZqYUdYV3E2Vmo4d2Qyc2pQczBiZFc5X1VmQmlaWFJ0R3JjOWw4NGU2dnVFcVdQZGlFQ3RZeTZlUTlhNFhpRW5zRWhZMDdGMk50?oc=5",
+        "origin": "google",
+        "needs_review": false
+      }
+    ]
   }
 ]
