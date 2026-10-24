@@ -11709,5 +11709,141 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-10-24",
+    "issue": 109,
+    "summary": "8 items (4 official), 1 high",
+    "alert": "Check high-impact items.",
+    "items": [
+      {
+        "level": "high",
+        "column": "全球合规",
+        "title": "欧盟新规倒计时！不合规货物或被销毁",
+        "tags": [
+          "#全球合规",
+          "#雨果跨境"
+        ],
+        "what": "欧盟新规倒计时！不合规货物或被销毁 欧盟新规倒计时！不合规货物或被销毁    雨果跨境",
+        "impact": "涉及合规风险。",
+        "action": "关注后续。",
+        "source": "雨果跨境 (via Google News) | Fri, 23 Oct 2026 09:41:30 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5yMjVPcXlKbjVvc2MzM3Q3RVFGdHBIbkZ6TUVhaTRSOEFQaEhLR2FFZnNTWmQwYloyRFhhbkxBQ1hpbmpMbFJGUUFZdlM?oc=5",
+        "origin": "google",
+        "needs_review": true
+      },
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "‘The Odyssey’ is coming to Prime Video November 17. Here's how to watch.",
+        "tags": [
+          "#流量与活动",
+          "#About Amazon"
+        ],
+        "what": "‘The Odyssey’ is coming to Prime Video November 17. Here's how to watch. Director Christopher Nolan's 2026 epic ‘The Odyssey’ will be available to buy starting November 17. Preorder it now",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "About Amazon | Fri, 23 Oct 2026 10:49:58 GMT",
+        "link": "https://www.aboutamazon.com/news/entertainment/the-odyssey-christopher-nolan-prime-video?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "Prime Day最后一天🚨加拿大实时热销榜！ 别等卖光才后悔 TheraBreath $8｜Lysol除菌液 $12",
+        "tags": [
+          "#流量与活动",
+          "#加拿大省钱快报"
+        ],
+        "what": "Prime Day最后一天🚨加拿大实时热销榜！ 别等卖光才后悔 TheraBreath $8｜Lysol除菌液 $12 Prime Day最后一天🚨加拿大实时热销榜！ 别等卖光才后悔 TheraBreath $8｜Lysol除菌液 $12    加拿大省钱快报",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "加拿大省钱快报 (via Google News) | Thu, 22 Oct 2026 04:49:16 GMT",
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPQ2JCbGVhc3ozUzNENG1BRTBTUWtiU19EdTV6a21BX01zZjM3cmRFbGdIb0g3eFplMVJxblA4eWdDMGVSOVRzRVRmcWNMZ0s2cm5KUGJhUDkyeGpTN21uVm9pLWxvdGV0Q0dSSTdJMEkxNG9oSndhbEVTTDJrUVVncjQxM3VndVE3akVMSlJBaXJlcU53U2NBNXhWOVBxSzkwWGZyZGt4bWdSTV90NTVpRE1US1N6YXRHSkhjTXVjbzNfRG92NWZ6TUVscVVTTExTX29Db3JQQ1B6LTBhRDAtdk5CUFc2N1B0YWNfcnNCeFhNM1k?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Amazon CEO Andy Jassy's career advice: Most people don't land their dream job at 22—and that's okay",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Amazon CEO Andy Jassy's career advice: Most people don't land their dream job at 22—and that's okay Jassy reflected on how his career wandered before he found Amazon—and why he tells young people to stop chasing the perfect first job",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Fri, 23 Oct 2026 19:49:26 GMT",
+        "link": "https://www.aboutamazon.com/news/workplace/amazon-ceo-andy-jassy-first-job-advice?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Amazon data center communities: Here’s what’s happening near data centers across the US",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Amazon data center communities: Here’s what’s happening near data centers across the US Get the latest updates on how Amazon supports small businesses, creates jobs, sets up sustainability initiatives, and develops educational programs near AWS data centers",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Fri, 23 Oct 2026 19:07:00 GMT",
+        "link": "https://www.aboutamazon.com/news/aws/amazon-data-centers-locations-news?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "工具与运营",
+        "title": "AI Shopping Metrics Considered",
+        "tags": [
+          "#工具与运营",
+          "#Practical Ecommerce"
+        ],
+        "what": "AI Shopping Metrics Considered Successful AI shopping assistance is measured by the quality of buying decisions, not how much time customers spend interacting with the tool. The post AI Shopping Metrics Considered appeared first on",
+        "impact": "涉及运营工具。",
+        "action": "关注后续。",
+        "source": "Practical Ecommerce | Thu, 22 Oct 2026 13:41:20 +0000",
+        "link": "https://www.practicalecommerce.com/ai-shopping-metrics-considered",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "工具与运营",
+        "title": "政策在变、AI在变，亚马逊把答案放在厦门这三天",
+        "tags": [
+          "#工具与运营",
+          "#雨果跨境"
+        ],
+        "what": "政策在变、AI在变，亚马逊把答案放在厦门这三天 政策在变、AI在变，亚马逊把答案放在厦门这三天    雨果跨境",
+        "impact": "涉及运营工具。",
+        "action": "关注后续。",
+        "source": "雨果跨境 (via Google News) | Fri, 23 Oct 2026 05:48:56 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA0U182YzdETTJQbk1LcUNDQnFzMlR1VGFlQUw4TWJSa0NGMk9WUWxrZy1lTERlY1hCR1JVUExNWUdaWTVRZGd2Y1hKYWs2QXc?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "流量与活动",
+        "title": "unBoxed 2026 重磅发布·AI 功能加持让广告更简单更有效",
+        "tags": [
+          "#流量与活动",
+          "#雨果跨境"
+        ],
+        "what": "unBoxed 2026 重磅发布·AI 功能加持让广告更简单更有效 unBoxed 2026 重磅发布·AI 功能加持让广告更简单更有效    雨果跨境",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "雨果跨境 (via Google News) | Fri, 23 Oct 2026 06:24:19 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE42NjJuR1VtTzRSbGx0NXp3cUxydk56MHZwRVRzX3lkY05vR1Vqcjg2RDAtT0N6TDl5U041OV95eXp4M2lSbzE1eldXNWs?oc=5",
+        "origin": "google",
+        "needs_review": false
+      }
+    ]
   }
 ]
