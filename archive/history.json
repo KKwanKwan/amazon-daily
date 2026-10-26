@@ -11981,5 +11981,29 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-10-26",
+    "issue": 111,
+    "summary": "1 items (1 official), 0 high",
+    "alert": "",
+    "items": [
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "USPS Can Bill Sellers for Foreign Duties",
+        "tags": [
+          "#headline",
+          "#Practical Ecommerce"
+        ],
+        "what": "USPS Can Bill Sellers for Foreign Duties The E.U.'s July 2026 removal of its de minimis exemption prompted the USPS's rule. The post USPS Can Bill Sellers for Foreign Duties appeared first on Practical Ecommerce ",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "Practical Ecommerce | Sun, 25 Oct 2026 13:54:08 +0000",
+        "link": "https://www.practicalecommerce.com/usps-can-bill-sellers-for-foreign-duties",
+        "origin": "official",
+        "needs_review": false
+      }
+    ]
   }
 ]
