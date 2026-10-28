@@ -12109,5 +12109,141 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-10-28",
+    "issue": 113,
+    "summary": "8 items (5 official), 0 high",
+    "alert": "",
+    "items": [
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Amazon data center communities: Here’s what’s happening near data centers across the US",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Amazon data center communities: Here’s what’s happening near data centers across the US Get the latest updates on how Amazon supports small businesses, creates jobs, sets up sustainability initiatives, and develops educational programs near AWS data centers",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Tue, 27 Oct 2026 22:42:00 GMT",
+        "link": "https://www.aboutamazon.com/news/aws/amazon-data-centers-locations-news?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Amazon's water conservation and replenishment efforts around the world",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Amazon's water conservation and replenishment efforts around the world Get the latest updates on how we’re reducing our water footprint and investing in innovations to address water scarcity",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Tue, 27 Oct 2026 14:30:00 GMT",
+        "link": "https://www.aboutamazon.com/news/sustainability/amazon-water-conservation-replenishment-sustainability?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Amazon's pro bono program surpasses 90,000 hours of free legal service across six continents",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Amazon's pro bono program surpasses 90,000 hours of free legal service across six continents Over 12 years, Amazon’s legal teams have provided free help across 26 countries, from a legal clinic supporting victims of scams to veteran support programs. Inside the 2026 Pro Bono Report",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Mon, 26 Oct 2026 15:00:14 GMT",
+        "link": "https://www.aboutamazon.com/news/policy-news-views/amazon-pro-bono-report-2026?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "歐盟課稅重擊中國電商 捷克低價包裹驟降80%",
+        "tags": [
+          "#headline",
+          "#大紀元"
+        ],
+        "what": "歐盟課稅重擊中國電商 捷克低價包裹驟降80% 歐盟課稅重擊中國電商 捷克低價包裹驟降80%    大紀元",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "大紀元 (via Google News) | Tue, 27 Oct 2026 10:02:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rUzcwX1R0VXROZGZwOVRMT2pyelRZaldTX3dZam1LeFY2Z0dVLW5IclNZVkgzdFNFNHlQU2JoMGxPcGtfVjVUMklFclpFN2swOF8xWDdvZm5WcS1yTmFVUmVrcUZpOG_SAWdBVV95cUxPa1M3MF9UdFV0TmRmcDlUTE9qcnpUWWpXU193WWptS3hWNmdHVS1uSHJTWVZIM3RTRTR5UFNiaDBsT3BrX1Y1VDJJRXJaRTdrMDhfMVg3b2ZuVnEtck5hVVJla3FGaThv?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "速卖通2026商家大会观察：跨境电商告别“低价铺货”，品牌化与本地化成破局关键",
+        "tags": [
+          "#headline",
+          "#手机新浪网"
+        ],
+        "what": "速卖通2026商家大会观察：跨境电商告别“低价铺货”，品牌化与本地化成破局关键 速卖通2026商家大会观察：跨境电商告别“低价铺货”，品牌化与本地化成破局关键    手机新浪网",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "手机新浪网 (via Google News) | Mon, 26 Oct 2026 08:21:03 GMT",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DS2I1NWJ1M1BYMUF1cFRVWlB2WUl6VDFENmpTcmlZaTYwUVdfM0xzM3RSdC04TUVPclFFWE5GbzBvTUJqZGNneUlHZU5LaHdRTHpBcll1OVhxTzhoUm42NGRvbjVnbndsWC1EbFVMSmUtOXlBT2hocmpDUk5YUjA?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "欧盟11.1征包裹处理费 每类加收2欧元 夹击Shein、Temu等平台",
+        "tags": [
+          "#headline",
+          "#香港01"
+        ],
+        "what": "欧盟11.1征包裹处理费 每类加收2欧元 夹击Shein、Temu等平台 欧盟11.1征包裹处理费 每类加收2欧元 夹击Shein、Temu等平台    香港01",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "香港01 (via Google News) | Mon, 26 Oct 2026 07:52:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNUzRiQ3hJd3VMc2QwY2pjSTk5U055OEZWTWN5VHd6eDdoS2VWNENaZnNhYXBaM05WSXlhQjM5QUJzbHEwTzRkZ3VGWlhLb3NMeUgxRVUxSlVfeWY0WGJXZDhHT1Npa0MtODlxRzBLNFRkM2lHV0xNd2RLbnBuU08yb0pNWm9pejJ3eWc0dzhyVUpJb3NQVGZJc1FPb0pjazNvUVEwR0NkMl9ndmh5RHhCRi1lalRuX29kV1J6QmlYWFJrYjBiTVA0c3RZdEhybGZUN3JIZVBJLW96TGlEUUJBeXpqc1lXWEhNWFo5a1k1T3p1aTRDWmpEQ2phaTRDSTZDSTVzRTJRYU10WWlHM3JudlF0aTY2ckFXeDdEY3ZjTTF2T3hCbDVlLW1HcktCZEFGay10U1BNamlFRGZmX2hTV3ZVazk1SWVZT04zZTk1ZWVBUFVsTm5lbm5UdnNmNTRjWG9jUUwtOEE2aFFmeUpzTUhfRlY?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "工具与运营",
+        "title": "An update from Amazon engineering leadership on the role of the developer in the age of AI",
+        "tags": [
+          "#工具与运营",
+          "#About Amazon"
+        ],
+        "what": "An update from Amazon engineering leadership on the role of the developer in the age of AI Amazon engineering leaders revised the role guideline for software development engineers, underscoring what matters most is the outcome, not which tools are used",
+        "impact": "涉及运营工具。",
+        "action": "关注后续。",
+        "source": "About Amazon | Tue, 27 Oct 2026 17:50:33 GMT",
+        "link": "https://www.aboutamazon.com/news/company-news/amazon-software-engineer-role-guideline-ai?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "工具与运营",
+        "title": "How Amazon data centers in Spain are helping businesses create jobs and opportunities",
+        "tags": [
+          "#工具与运营",
+          "#About Amazon"
+        ],
+        "what": "How Amazon data centers in Spain are helping businesses create jobs and opportunities A new independent study reveals that AWS's investment in northeastern Spain is transforming the region's economy",
+        "impact": "涉及运营工具。",
+        "action": "关注后续。",
+        "source": "About Amazon | Tue, 27 Oct 2026 17:10:10 GMT",
+        "link": "https://www.aboutamazon.com/news/aws/amazon-data-centers-spain?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      }
+    ]
   }
 ]
