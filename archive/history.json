@@ -12245,5 +12245,141 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-10-29",
+    "issue": 114,
+    "summary": "8 items (8 official), 0 high",
+    "alert": "",
+    "items": [
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "Amazon's most advanced chip helps power the AI behind Prime 360—here's how",
+        "tags": [
+          "#流量与活动",
+          "#About Amazon"
+        ],
+        "what": "Amazon's most advanced chip helps power the AI behind Prime 360—here's how Amazon's purpose-built Trainium AI chip helps power the diffusion models that deliver NBA on Prime’s breakthrough highlight technology",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "About Amazon | Wed, 28 Oct 2026 16:00:00 GMT",
+        "link": "https://www.aboutamazon.com/news/innovation/trainium-ai-chip-prime-360-nba-highlights?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Amazon unveils its newest lineup of Alexa devices",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Amazon unveils its newest lineup of Alexa devices Five new products purpose-built for the home, powered by the latest Alexa, that help make daily life easier",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Wed, 28 Oct 2026 11:57:05 GMT",
+        "link": "https://www.aboutamazon.com/news/devices/new-alexa-devices-2026?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Amazon introduces Alexa Photo Frame—the smartest way to bring your photos into the home",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Amazon introduces Alexa Photo Frame—the smartest way to bring your photos into the home Alexa intelligently picks the photos worth seeing from Amazon Photos, keeps them current, and makes any moment easy to find, relive, and share",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Wed, 28 Oct 2026 11:55:51 GMT",
+        "link": "https://www.aboutamazon.com/news/devices/amazon-alexa-photo-frame?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Amazon introduces the all-new Echo Show 16—our most advanced, versatile smart display yet",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Amazon introduces the all-new Echo Show 16—our most advanced, versatile smart display yet All-new premium design with the best screen ever on an Echo Show, three new Screen Styles to make it your own, and Fire TV built in",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Wed, 28 Oct 2026 11:55:41 GMT",
+        "link": "https://www.aboutamazon.com/news/devices/echo-show-16-smart-display?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Introducing the new Echo Dot and all-new Echo Studio with Home Camera",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Introducing the new Echo Dot and all-new Echo Studio with Home Camera The Echo speaker lineup gets an upgrade—Echo Dot is more capable than ever with a built-in smart home hub, while a new Echo Studio gains a camera that lets Alexa+ see and help",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Wed, 28 Oct 2026 11:55:36 GMT",
+        "link": "https://www.aboutamazon.com/news/devices/echo-speaker-lineup?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Amazon introduces Echo Time, a smarter way to start and end your day",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Amazon introduces Echo Time, a smarter way to start and end your day The all-new Echo Time is a smart alarm clock with hundreds of customizable clock faces, smart alarms, and a beautiful adaptive display",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Wed, 28 Oct 2026 11:55:19 GMT",
+        "link": "https://www.aboutamazon.com/news/devices/echo-time-smart-alarm-clock?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Meet Alexa Home Map, an interactive 3D map that lets you see and control your home",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Meet Alexa Home Map, an interactive 3D map that lets you see and control your home A new way to view your home and property, inside and out, with every connected device right where it actually is",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Wed, 28 Oct 2026 11:55:13 GMT",
+        "link": "https://www.aboutamazon.com/news/devices/alexa-home-map-3d-smart-home-view?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Amazon data center communities: Here’s what’s happening near data centers across the US",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Amazon data center communities: Here’s what’s happening near data centers across the US Get the latest updates on how Amazon supports small businesses, creates jobs, sets up sustainability initiatives, and develops educational programs near AWS data centers",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Tue, 27 Oct 2026 22:42:00 GMT",
+        "link": "https://www.aboutamazon.com/news/aws/amazon-data-centers-locations-news?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      }
+    ]
   }
 ]
