@@ -12517,5 +12517,141 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-10-31",
+    "issue": 116,
+    "summary": "8 items (8 official), 0 high",
+    "alert": "",
+    "items": [
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "What’s new on Prime Video in November 2026, including ‘The Lord of the Rings: The Rings of Power’ Season 3 and ‘Campus Drivers’",
+        "tags": [
+          "#流量与活动",
+          "#About Amazon"
+        ],
+        "what": "What’s new on Prime Video in November 2026, including ‘The Lord of the Rings: The Rings of Power’ Season 3 and ‘Campus Drivers’ From the first authorized Muhammad Ali series to ‘Blade Runner 2099,’ here is everything coming to Prime Video this month, including NFL, NBA, and NHL games",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "About Amazon | Fri, 30 Oct 2026 13:00:34 GMT",
+        "link": "https://www.aboutamazon.com/news/entertainment/prime-video-november-films-shows-sports-2026?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "The official ‘James Bond’ films in order: How to watch 007 on Prime Video",
+        "tags": [
+          "#流量与活动",
+          "#About Amazon"
+        ],
+        "what": "The official ‘James Bond’ films in order: How to watch 007 on Prime Video You can watch 25 official ‘James Bond’ films on Prime Video. Here is how to stream them in chronological order",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "About Amazon | Thu, 29 Oct 2026 23:54:12 GMT",
+        "link": "https://www.aboutamazon.com/news/entertainment/james-bond-movies-watch-prime-video?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Amazon data center communities: Here’s what’s happening near data centers across the US",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Amazon data center communities: Here’s what’s happening near data centers across the US Get the latest updates on how Amazon supports small businesses, creates jobs, sets up sustainability initiatives, and develops educational programs near AWS data centers",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Fri, 30 Oct 2026 20:15:00 GMT",
+        "link": "https://www.aboutamazon.com/news/aws/amazon-data-centers-locations-news?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Q3 Earnings: Andy Jassy on why demand for Amazon’s custom chips keeps growing",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Q3 Earnings: Andy Jassy on why demand for Amazon’s custom chips keeps growing Amazon’s chips business continues to grow triple-digit percentages year over year, and revenue commitments for Graviton and Trainium have each increased more than 20x year over year",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Fri, 30 Oct 2026 16:31:49 GMT",
+        "link": "https://www.aboutamazon.com/news/company-news/amazon-custom-chips-demand-q3-2026-earnings?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Q3 Earnings: Andy Jassy on why AWS growth keeps accelerating",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Q3 Earnings: Andy Jassy on why AWS growth keeps accelerating AWS grew 39.3% year over year, accelerating for the sixth straight quarter—its fastest growth in nearly five years—as enterprises run more of their Core and AI workloads in AWS",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Fri, 30 Oct 2026 16:29:29 GMT",
+        "link": "https://www.aboutamazon.com/news/company-news/aws-growth-ai-demand-q3-2026-earnings?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "When is Black Friday 2026? Here’s everything you need to know",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "When is Black Friday 2026? Here’s everything you need to know Black Friday 2026 falls on November 27. Here’s what to expect, how to prepare, and how to save",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Fri, 30 Oct 2026 00:12:47 GMT",
+        "link": "https://www.aboutamazon.com/news/retail/when-is-amazon-black-friday-faq?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Highlights from Amazon's third quarter",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Highlights from Amazon's third quarter Amazon announced financial results for its third quarter on October 29. Here's a look at what the company has been up to",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Thu, 29 Oct 2026 22:44:00 GMT",
+        "link": "https://www.aboutamazon.com/news/company-news/amazon-q3-2026-earnings-preview?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Last chance to shop Amazon’s Holiday Beauty Event before it ends on November 1",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Last chance to shop Amazon’s Holiday Beauty Event before it ends on November 1 Only a few days left to save up to 30% off skin care and makeup, with rotating 48-hour flash deals and curated holiday gift sets",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Thu, 29 Oct 2026 20:03:00 GMT",
+        "link": "https://www.aboutamazon.com/news/retail/amazon-holiday-beauty-event-2026?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      }
+    ]
   }
 ]
