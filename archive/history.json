@@ -12653,5 +12653,141 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-11-01",
+    "issue": 117,
+    "summary": "8 items (5 official), 0 high",
+    "alert": "",
+    "items": [
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "What’s new on Prime Video in November 2026, including ‘The Lord of the Rings: The Rings of Power’ Season 3 and ‘Campus Drivers’",
+        "tags": [
+          "#流量与活动",
+          "#About Amazon"
+        ],
+        "what": "What’s new on Prime Video in November 2026, including ‘The Lord of the Rings: The Rings of Power’ Season 3 and ‘Campus Drivers’ From the first authorized Muhammad Ali series to ‘Blade Runner 2099,’ here is everything coming to Prime Video this month, including NFL, NBA, and NHL games",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "About Amazon | Fri, 30 Oct 2026 13:00:34 GMT",
+        "link": "https://www.aboutamazon.com/news/entertainment/prime-video-november-films-shows-sports-2026?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Amazon data center communities: Here’s what’s happening near data centers across the US",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Amazon data center communities: Here’s what’s happening near data centers across the US Get the latest updates on how Amazon supports small businesses, creates jobs, sets up sustainability initiatives, and develops educational programs near AWS data centers",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Fri, 30 Oct 2026 20:15:00 GMT",
+        "link": "https://www.aboutamazon.com/news/aws/amazon-data-centers-locations-news?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Q3 Earnings: Andy Jassy on why demand for Amazon’s custom chips keeps growing",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Q3 Earnings: Andy Jassy on why demand for Amazon’s custom chips keeps growing Amazon’s chips business continues to grow triple-digit percentages year over year, and revenue commitments for Graviton and Trainium have each increased more than 20x year over year",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Fri, 30 Oct 2026 16:31:49 GMT",
+        "link": "https://www.aboutamazon.com/news/company-news/amazon-custom-chips-demand-q3-2026-earnings?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Q3 Earnings: Andy Jassy on why AWS growth keeps accelerating",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Q3 Earnings: Andy Jassy on why AWS growth keeps accelerating AWS grew 39.3% year over year, accelerating for the sixth straight quarter—its fastest growth in nearly five years—as enterprises run more of their Core and AI workloads in AWS",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Fri, 30 Oct 2026 16:29:29 GMT",
+        "link": "https://www.aboutamazon.com/news/company-news/aws-growth-ai-demand-q3-2026-earnings?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "欧盟11月1日起对境外直邮B2C电商商品按申报品项征收2欧元联盟处理费",
+        "tags": [
+          "#headline",
+          "#虎嗅网"
+        ],
+        "what": "欧盟11月1日起对境外直邮B2C电商商品按申报品项征收2欧元联盟处理费 欧盟11月1日起对境外直邮B2C电商商品按申报品项征收2欧元联盟处理费    虎嗅网",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "虎嗅网 (via Google News) | Fri, 30 Oct 2026 11:51:02 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5sSklnaG45bXVwZWZySmpJaHZVc2RZU3JObUpIdmRJRWJQNlV2M3lUSVA5QXNQRC1FdlpIcWtqeVZWV1Z2YmtiQVpZRmtPbEZ2VHR3N1R5WFV2QW5BckFN?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "物流与供应链",
+        "title": "Q3 Earnings: Andy Jassy on faster delivery, lowering cost to serve, groceries, pharmacy, and AI shopping",
+        "tags": [
+          "#物流与供应链",
+          "#About Amazon"
+        ],
+        "what": "Q3 Earnings: Andy Jassy on faster delivery, lowering cost to serve, groceries, pharmacy, and AI shopping Year to date, units have grown nearly 15% year over year, having sold more than 30 billion items last year",
+        "impact": "涉及跨境物流/关税。",
+        "action": "关注后续。",
+        "source": "About Amazon | Fri, 30 Oct 2026 16:31:01 GMT",
+        "link": "https://www.aboutamazon.com/news/company-news/amazon-stores-growth-q3-2026-earnings?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "工具与运营",
+        "title": "亚马逊三季度营收增速放缓AWS增长近四成AI投入加大现金流压力- 跨境电商",
+        "tags": [
+          "#工具与运营",
+          "#亿邦动力网"
+        ],
+        "what": "亚马逊三季度营收增速放缓AWS增长近四成AI投入加大现金流压力- 跨境电商 亚马逊三季度营收增速放缓AWS增长近四成AI投入加大现金流压力- 跨境电商    亿邦动力网",
+        "impact": "涉及运营工具。",
+        "action": "关注后续。",
+        "source": "亿邦动力网 (via Google News) | Fri, 30 Oct 2026 08:21:21 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8wZEp6eGlYS1oyR0xKQi1VcG5UQ0UxTEJ3QWpRV1hyaDZuTlVJN3hhT0VlTXI3X1pEUkN2Nm9TZVh6ZTBvR2hsNFo2RnBQNklFdEhKWjNR?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "物流与供应链",
+        "title": "欧盟对入境小包裹再加税 每年财政增收60亿欧元",
+        "tags": [
+          "#物流与供应链",
+          "#DW.com"
+        ],
+        "what": "欧盟对入境小包裹再加税 每年财政增收60亿欧元 欧盟对入境小包裹再加税 每年财政增收60亿欧元    DW.com",
+        "impact": "涉及跨境物流/关税。",
+        "action": "关注后续。",
+        "source": "DW.com (via Google News) | Fri, 30 Oct 2026 15:31:32 GMT",
+        "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNQ2pOaHp2Rjc2d05kX0JJVU1xRHNvXy1zOXJMMDl1VkstaGwyVmF6RF9ybTVNS2JuYWIyR0U5bFM1bTNUMU1VQlRUMzJ1MzI3bk0ydkhWTTNWZnlKbUl5N1EwTXFOZGVEVkotZ3l1RUtBUVJiLWM5QjAwVHgyNlhLSlRVUnBydVNqWVZXcXNqRHBGVUlpbDZ0MFNKY1FpREd5Y3kxRFFnNTNYYkpTdDZMRk1aT3ZhZE9ENUw4RlFDcDh0bEJTRXE5bVVYV0RxbWNNNXVTaXNGNmlidDF5NGxTMERwclJsTlRXUUpNZjVxRTR3X2l6TmJzNnM3Nm9fc2NvZ1MwN2l4bUZNYUpLZVVTcVRINm9ONDZPbVRtb2pUNHpJcmdFZnRiWUN5aDJCTEgxRVVRUGtNc2JFU3Vz0gG8AkFVX3lxTE9rblV6Vi1lUU5la3RNS1ZTNEFkb1RwX1JuY1JXX1k3M3U0R2tHVjhkTkN5Q0JRSUtRWTFzTU1oTW1hTWJtb296UDZCMFZuRHBjeW5wS2hMbFlYUkhJU2ZJN1RzaEZ2bVdtaDBNQ1RfRXRoWVJwWndQNFhZS3hWaTk5bmkzZjVMZm1YZmRBU25VdDN3SThrOFpFNG1TcVpWVmt3VWZRUkI2M2Z4aWhCU2JObkVWNWNUNW4zdW1XUGg2Q2lIRkNOTjFHMWIwN21rN3R1RlZjbC13V2t6ZS16YWotWDNaYnZjUGdOR3hVbzJKUTRmZVN0VGRzY2xqNUlDc1A3UTFqUnQ3SWFYMDhCcUpZMjZiRXh3eGVzMDVzbkM5RWlqSk0tMkpSUEJRRDFBOG5CM2x6UElZS1UxNGg?oc=5",
+        "origin": "google",
+        "needs_review": false
+      }
+    ]
   }
 ]
