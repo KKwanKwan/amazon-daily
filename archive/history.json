@@ -13013,5 +13013,141 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-11-04",
+    "issue": 120,
+    "summary": "8 items (7 official), 0 high",
+    "alert": "",
+    "items": [
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "5 ways Amazon is investing in Wisconsin",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "5 ways Amazon is investing in Wisconsin Amazon’s investments are boosting the Badger State’s economy while creating opportunities for those who call Wisconsin home",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Tue, 03 Nov 2026 19:13:47 GMT",
+        "link": "https://www.aboutamazon.com/news/community/amazon-investment-wisconsin-jobs-infrastructure-small-business?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "5 ways Amazon is investing in Michigan",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "5 ways Amazon is investing in Michigan Amazon’s investments are boosting the Great Lakes State’s economy while creating opportunities for those who call Michigan home",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Tue, 03 Nov 2026 19:11:57 GMT",
+        "link": "https://www.aboutamazon.com/news/community/amazon-investment-michigan-jobs-infrastructure-small-business?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "5 ways Amazon is investing in Oklahoma",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "5 ways Amazon is investing in Oklahoma Amazon’s investments are boosting the Sooner State’s economy while creating opportunities for those who call Oklahoma home",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Tue, 03 Nov 2026 19:08:10 GMT",
+        "link": "https://www.aboutamazon.com/news/community/amazon-investment-oklahoma-jobs-infrastructure-small-business?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "5 ways Amazon is investing in Kansas",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "5 ways Amazon is investing in Kansas Amazon’s investments are boosting the Sunflower State’s economy while creating opportunities for those who call Kansas home",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Tue, 03 Nov 2026 19:05:53 GMT",
+        "link": "https://www.aboutamazon.com/news/community/amazon-investment-kansas-jobs-infrastructure-small-business?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Amazon CEO Andy Jassy: ‘I had to change how I worked, or I was going to be a lousy dad’",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Amazon CEO Andy Jassy: ‘I had to change how I worked, or I was going to be a lousy dad’ From Tuesday date nights to weekly breakfasts with his kids, Jassy shared the boundaries and traditions that keep his family close",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Mon, 02 Nov 2026 18:12:51 GMT",
+        "link": "https://www.aboutamazon.com/news/workplace/amazon-ceo-andy-jassy-work-life-balance?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Is Amazon Grocery worth it? Yes—here’s what to know.",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Is Amazon Grocery worth it? Yes—here’s what to know. With everyday low prices and Same-Day Delivery in more than 2,300 U.S. cities and towns, Amazon Grocery is helping customers save more and shop faster on fresh groceries and everyday essentials",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Mon, 02 Nov 2026 14:00:05 GMT",
+        "link": "https://www.aboutamazon.com/news/retail/is-amazon-grocery-worth-it?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "HTML vs. XML Sitemaps for Ecommerce",
+        "tags": [
+          "#headline",
+          "#Practical Ecommerce"
+        ],
+        "what": "HTML vs. XML Sitemaps for Ecommerce Both sitemaps help search engines, but neither replaces a fast, well-structured, and well-interlinked website. The post HTML vs. XML Sitemaps for Ecommerce appeared first on Practical Ecommerce ",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "Practical Ecommerce | Mon, 02 Nov 2026 15:59:49 +0000",
+        "link": "https://www.practicalecommerce.com/html-vs-xml-sitemaps-for-ecommerce",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "欧盟新增2欧元跨境包裹处理费，两轮政策相继落地，对欧直邮中国电商遭遇考验- 深度",
+        "tags": [
+          "#headline",
+          "#亿豹网"
+        ],
+        "what": "欧盟新增2欧元跨境包裹处理费，两轮政策相继落地，对欧直邮中国电商遭遇考验- 深度 欧盟新增2欧元跨境包裹处理费，两轮政策相继落地，对欧直邮中国电商遭遇考验- 深度    亿豹网",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "亿豹网 (via Google News) | Mon, 02 Nov 2026 05:48:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mT3BVS0Q3WlVLWEhXS3pUbV94dlRxZmhNY1Jna3loOUc0T01fd0pydzBHdVdYYzdISkptQ3ZjaVlCbExHUVZxS1FIZERXQ1hhczd3d2VKbk0?oc=5",
+        "origin": "google",
+        "needs_review": false
+      }
+    ]
   }
 ]
