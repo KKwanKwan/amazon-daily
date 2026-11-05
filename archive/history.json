@@ -13149,5 +13149,141 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-11-05",
+    "issue": 121,
+    "summary": "8 items (7 official), 0 high",
+    "alert": "",
+    "items": [
+      {
+        "level": "mid",
+        "column": "物流与供应链",
+        "title": "亚马逊欧洲站FBA附加费涨至2%：十国履约成本上涨-GlobalPOD",
+        "tags": [
+          "#物流与供应链",
+          "#全球定制网"
+        ],
+        "what": "亚马逊欧洲站FBA附加费涨至2%：十国履约成本上涨-GlobalPOD 亚马逊欧洲站FBA附加费涨至2%：十国履约成本上涨-GlobalPOD    全球定制网",
+        "impact": "涉及跨境物流/关税。",
+        "action": "关注后续。",
+        "source": "全球定制网 (via Google News) | Wed, 04 Nov 2026 09:56:12 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5wQWgwVDFsRUlGcVFNSU1KUEd0eG5tdmJtMlJESDNjU0NGbWxHYmtQVUduNTNJd1A3QzdLczZlaHhEZXIwanZfa0o1U1ZJQQ?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "When is Cyber Monday 2026? Here’s everything you need to know",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "When is Cyber Monday 2026? Here’s everything you need to know Cyber Monday 2026 falls on November 30. Here’s what to expect, how to prepare, and how to save big on the year’s final major deal event",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Wed, 04 Nov 2026 19:14:04 GMT",
+        "link": "https://www.aboutamazon.com/news/retail/when-is-amazon-cyber-monday-faq?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "‘Keep your cool’: The advice Amazon CEO Andy Jassy's dad gave him that stuck for life",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "‘Keep your cool’: The advice Amazon CEO Andy Jassy's dad gave him that stuck for life At Amazon's “Bring Your Parents to Work Day,” Jassy shared some of his father's advice, which has helped shape how he leads",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Wed, 04 Nov 2026 14:00:13 GMT",
+        "link": "https://www.aboutamazon.com/news/workplace/amazon-ceo-andy-jassy-dad-advice?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Amazon’s new Shop Direct Merchant Workspace makes it even easier for stores across the web to have their products discovered by customers on Alexa for Shopping and Amazon",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Amazon’s new Shop Direct Merchant Workspace makes it even easier for stores across the web to have their products discovered by customers on Alexa for Shopping and Amazon Tens of millions of customers have already discovered hundreds of millions of products from stores across the web through Amazon’s Shop Direct. With the new Shop Direct Merchant Workspace, merchants h",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Wed, 04 Nov 2026 14:00:07 GMT",
+        "link": "https://www.aboutamazon.com/news/retail/amazon-shop-direct-merchant-workspace?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "5 ways Amazon is investing in Wisconsin",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "5 ways Amazon is investing in Wisconsin Amazon’s investments are boosting the Badger State’s economy while creating opportunities for those who call Wisconsin home",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Tue, 03 Nov 2026 19:13:47 GMT",
+        "link": "https://www.aboutamazon.com/news/community/amazon-investment-wisconsin-jobs-infrastructure-small-business?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "5 ways Amazon is investing in Michigan",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "5 ways Amazon is investing in Michigan Amazon’s investments are boosting the Great Lakes State’s economy while creating opportunities for those who call Michigan home",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Tue, 03 Nov 2026 19:11:57 GMT",
+        "link": "https://www.aboutamazon.com/news/community/amazon-investment-michigan-jobs-infrastructure-small-business?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "5 ways Amazon is investing in Oklahoma",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "5 ways Amazon is investing in Oklahoma Amazon’s investments are boosting the Sooner State’s economy while creating opportunities for those who call Oklahoma home",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Tue, 03 Nov 2026 19:08:10 GMT",
+        "link": "https://www.aboutamazon.com/news/community/amazon-investment-oklahoma-jobs-infrastructure-small-business?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "5 ways Amazon is investing in Kansas",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "5 ways Amazon is investing in Kansas Amazon’s investments are boosting the Sunflower State’s economy while creating opportunities for those who call Kansas home",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Tue, 03 Nov 2026 19:05:53 GMT",
+        "link": "https://www.aboutamazon.com/news/community/amazon-investment-kansas-jobs-infrastructure-small-business?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      }
+    ]
   }
 ]
