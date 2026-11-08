@@ -13557,5 +13557,141 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-11-08",
+    "issue": 124,
+    "summary": "8 items (3 official), 0 high",
+    "alert": "",
+    "items": [
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "How to watch Camp Flog Gnaw 2026 festival on Amazon Music, Prime Video, and Twitch",
+        "tags": [
+          "#流量与活动",
+          "#About Amazon"
+        ],
+        "what": "How to watch Camp Flog Gnaw 2026 festival on Amazon Music, Prime Video, and Twitch For the fourth consecutive year, Amazon Music will exclusively livestream Tyler, The Creator's sold-out festival for free",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "About Amazon | Fri, 06 Nov 2026 15:00:43 GMT",
+        "link": "https://www.aboutamazon.com/news/entertainment/camp-flog-gnaw-tyler-the-creator-livestream-amazon-music?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "mid",
+        "column": "政策与费用",
+        "title": "亚马逊美国站公布2027年费用变更 促销费改按月计费 FBA配送费平均涨0.19美元",
+        "tags": [
+          "#政策与费用",
+          "#全球定制网"
+        ],
+        "what": "亚马逊美国站公布2027年费用变更 促销费改按月计费 FBA配送费平均涨0.19美元 亚马逊美国站公布2027年费用变更 促销费改按月计费 FBA配送费平均涨0.19美元    全球定制网",
+        "impact": "涉及平台费用。",
+        "action": "关注后续。",
+        "source": "全球定制网 (via Google News) | Sat, 07 Nov 2026 11:29:57 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5kQmpqU1JFYlIzUEJzSU5ydUVBdm96S1ZLNEtMVFZ0Uy1meV8zM0p2RGhnX0FYd2FUMjFSYnRvX211b2lxOW4tYUNGVDAzSlk?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "mid",
+        "column": "政策与费用",
+        "title": "亚马逊美国站2027 FBA配送费平均涨0.19美元，仓储费规则同步调整",
+        "tags": [
+          "#政策与费用",
+          "#全球定制网"
+        ],
+        "what": "亚马逊美国站2027 FBA配送费平均涨0.19美元，仓储费规则同步调整 亚马逊美国站2027 FBA配送费平均涨0.19美元，仓储费规则同步调整    全球定制网",
+        "impact": "涉及平台费用。",
+        "action": "关注后续。",
+        "source": "全球定制网 (via Google News) | Fri, 06 Nov 2026 09:32:58 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE51NmdFak1EVHlOM191OEpXN1lGcTdpbXRaQ3VyaVVIcDYwM1BxNlNyWVZJaTRUTHNpSWlBb3FoVTFaTnl2cG1GWXhuQ1d3UQ?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Text, shop, done: Alexa for Shopping is now just a text away",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Text, shop, done: Alexa for Shopping is now just a text away Starting today, a subset of customers can text Amazon’s personal AI shopping agent to get their shopping done quickly and easily, ahead of the texting option rolling out to customers across the U.S. i",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Fri, 06 Nov 2026 13:55:08 GMT",
+        "link": "https://www.aboutamazon.com/news/retail/alexa-for-shopping-text-to-shop?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "欧盟跨境网购占比预计升至15.2% 2026年规模达690亿欧元",
+        "tags": [
+          "#headline",
+          "#全球定制网"
+        ],
+        "what": "欧盟跨境网购占比预计升至15.2% 2026年规模达690亿欧元 欧盟跨境网购占比预计升至15.2% 2026年规模达690亿欧元    全球定制网",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "全球定制网 (via Google News) | Fri, 06 Nov 2026 08:34:03 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5CWjhVTjJuRkV1YnZMZkFwU3RMZ1lLekp4QjQ2SmVQa20wUlJ6bjhQM2VOYzhDVkpyNUl5bGc5VFJ5SzcwcjZNWElzbHkyUQ?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "工具与运营",
+        "title": "My AI Bots for Email, SEO, Reports, More",
+        "tags": [
+          "#工具与运营",
+          "#Practical Ecommerce"
+        ],
+        "what": "My AI Bots for Email, SEO, Reports, More Thanks to tools such as Grok Bot, it's a fun time to be an entrepreneur. The operational components are now less burdensome, if not fully solved. The post My AI Bots for Email, SEO, Reports, More appe",
+        "impact": "涉及运营工具。",
+        "action": "关注后续。",
+        "source": "Practical Ecommerce | Fri, 06 Nov 2026 15:34:37 +0000",
+        "link": "https://www.practicalecommerce.com/my-ai-bots-for-email-seo-reports-more",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "物流与供应链",
+        "title": "亚马逊2027年销售佣金&物流费用变更",
+        "tags": [
+          "#物流与供应链",
+          "#雨果跨境"
+        ],
+        "what": "亚马逊2027年销售佣金&物流费用变更 亚马逊2027年销售佣金&物流费用变更    雨果跨境",
+        "impact": "涉及跨境物流/关税。",
+        "action": "关注后续。",
+        "source": "雨果跨境 (via Google News) | Fri, 06 Nov 2026 09:33:14 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE80MDFUeExRby1WUHNmS3VKamcwa0tPR3JqMEc5bDZHOHV2dEdBT0tZYm5wd1k2V251ZUFtcV9aZGdlRnQtcHU5dWhaZVE?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "物流与供应链",
+        "title": "欧盟对跨境小包裹加收2欧元手续费，中国电商调整欧洲业务",
+        "tags": [
+          "#物流与供应链",
+          "#新浪财经_金融信息服务商"
+        ],
+        "what": "欧盟对跨境小包裹加收2欧元手续费，中国电商调整欧洲业务 欧盟对跨境小包裹加收2欧元手续费，中国电商调整欧洲业务    新浪财经_金融信息服务商",
+        "impact": "涉及跨境物流/关税。",
+        "action": "关注后续。",
+        "source": "新浪财经_金融信息服务商 (via Google News) | Sat, 07 Nov 2026 09:36:33 GMT",
+        "link": "https://news.google.com/rss/articles/CBMi8AVBVV95cUxOVmdKdFoyOFBrVVBQOU9YOG82XzVPeHozTEh4N1hENXlsTjAwV2lieXRQc3hiR0M5NWd3LWlZZ19GSjNXUWppZm1kbkR3cVp3RUdIVDROdzk3QW5hUHB0QUZSaHUtWjZVOGpaejE3X25JeXNLS2xrS0hOZFB4aFZGbmZUMnk1bEdVM2NvVzBqM3o4b0g2U0lZdXFqTm9OMGRoWlB1Qk5YdjlpT04ycDRqNXU1dTBRUWZJNDJSb0V4TDAxampiQ01TZUJIT1A0X3FGMGFrRDZtdUxOeVVHdnlVSWdMc09aUldORms3QnEydlJZcWpUZDVTLTFOVzY4MXdNc1lDM2JkN2JKbWRBcDRXd21jdHhiUEVfbnMxMXhhaEVtT0FqQ3ZoN2t5WGhKb0F1bGJGazF5WEpXbzNCMExSeDdiaHpMM1N5RThMMFZFZ0JEU3NtTWFHdmxyekRubW1ScG04NWhCQjIyd2gtWVBiOWlPYlpVZ24yQWp5UEZvZ3RVeTdtYURhekFHNjRDZ00xaTh2QkxIUXA4VTRfci1JMFVaejU1REV2a0VRZXJsX0szZkNXWGdMbGJNZkZDcDIyZmtCbm9INVo3OWFkZVFWOHhPdTdFelI2MWV0TXp0YWlJclJpZkhhR1VjMURHVzQxenEyYVVueXJhNEJHQk1sX3N3VFVETFY0cHN0eS1RaTdZb2x1RHhhd2lmT0dDenotcTdRODduWHAwUkRzcVBFNzNJNWl1RGpTSVBjTVBSaDJoaVNsWjVjRmxROGlZNXFFSEZ4NlF3U0hXUFZDN0hJZXNHamlTc0UzaHMzRHRMaENFZ29pUlhEWDBwdmpBVi1BZ0F4ZTUzMW85aERFb0VVNFVjQzctMHloRno5SzAySlU0d18zd3ptNUxDc29ocnZrdUFxYXRqc3BpR2ZtMkFkNUZkdF9qd2xhTmI3NGRaWE1yVWNOdks1WFY5VjBTenJLMHNhSkNONWc2TlFfTG9DMw?oc=5",
+        "origin": "google",
+        "needs_review": false
+      }
+    ]
   }
 ]
