@@ -13693,5 +13693,77 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-11-09",
+    "issue": 125,
+    "summary": "4 items (1 official), 0 high",
+    "alert": "",
+    "items": [
+      {
+        "level": "mid",
+        "column": "政策与费用",
+        "title": "亚马逊美国站公布2027年费用变更 促销费改按月计费 FBA配送费平均涨0.19美元",
+        "tags": [
+          "#政策与费用",
+          "#全球定制网"
+        ],
+        "what": "亚马逊美国站公布2027年费用变更 促销费改按月计费 FBA配送费平均涨0.19美元 亚马逊美国站公布2027年费用变更 促销费改按月计费 FBA配送费平均涨0.19美元    全球定制网",
+        "impact": "涉及平台费用。",
+        "action": "关注后续。",
+        "source": "全球定制网 (via Google News) | Sat, 07 Nov 2026 11:29:57 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5kQmpqU1JFYlIzUEJzSU5ydUVBdm96S1ZLNEtMVFZ0Uy1meV8zM0p2RGhnX0FYd2FUMjFSYnRvX211b2lxOW4tYUNGVDAzSlk?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "工具与运营",
+        "title": "Who Owns an AI Agent’s Mistakes?",
+        "tags": [
+          "#工具与运营",
+          "#Practical Ecommerce"
+        ],
+        "what": "Who Owns an AI Agent’s Mistakes? The question is not what AI agents can do. It is what they are allowed to do and who remains accountable. The post Who Owns an AI Agent’s Mistakes? appeared first on Practical Ecommerce ",
+        "impact": "涉及运营工具。",
+        "action": "关注后续。",
+        "source": "Practical Ecommerce | Sun, 08 Nov 2026 14:22:48 +0000",
+        "link": "https://www.practicalecommerce.com/who-owns-an-ai-agents-mistakes",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "物流与供应链",
+        "title": "欧盟对跨境小包裹加收2欧元手续费，中国电商调整欧洲业务",
+        "tags": [
+          "#物流与供应链",
+          "#新浪财经_金融信息服务商"
+        ],
+        "what": "欧盟对跨境小包裹加收2欧元手续费，中国电商调整欧洲业务 欧盟对跨境小包裹加收2欧元手续费，中国电商调整欧洲业务    新浪财经_金融信息服务商",
+        "impact": "涉及跨境物流/关税。",
+        "action": "关注后续。",
+        "source": "新浪财经_金融信息服务商 (via Google News) | Sat, 07 Nov 2026 09:36:33 GMT",
+        "link": "https://news.google.com/rss/articles/CBMi8AVBVV95cUxOVmdKdFoyOFBrVVBQOU9YOG82XzVPeHozTEh4N1hENXlsTjAwV2lieXRQc3hiR0M5NWd3LWlZZ19GSjNXUWppZm1kbkR3cVp3RUdIVDROdzk3QW5hUHB0QUZSaHUtWjZVOGpaejE3X25JeXNLS2xrS0hOZFB4aFZGbmZUMnk1bEdVM2NvVzBqM3o4b0g2U0lZdXFqTm9OMGRoWlB1Qk5YdjlpT04ycDRqNXU1dTBRUWZJNDJSb0V4TDAxampiQ01TZUJIT1A0X3FGMGFrRDZtdUxOeVVHdnlVSWdMc09aUldORms3QnEydlJZcWpUZDVTLTFOVzY4MXdNc1lDM2JkN2JKbWRBcDRXd21jdHhiUEVfbnMxMXhhaEVtT0FqQ3ZoN2t5WGhKb0F1bGJGazF5WEpXbzNCMExSeDdiaHpMM1N5RThMMFZFZ0JEU3NtTWFHdmxyekRubW1ScG04NWhCQjIyd2gtWVBiOWlPYlpVZ24yQWp5UEZvZ3RVeTdtYURhekFHNjRDZ00xaTh2QkxIUXA4VTRfci1JMFVaejU1REV2a0VRZXJsX0szZkNXWGdMbGJNZkZDcDIyZmtCbm9INVo3OWFkZVFWOHhPdTdFelI2MWV0TXp0YWlJclJpZkhhR1VjMURHVzQxenEyYVVueXJhNEJHQk1sX3N3VFVETFY0cHN0eS1RaTdZb2x1RHhhd2lmT0dDenotcTdRODduWHAwUkRzcVBFNzNJNWl1RGpTSVBjTVBSaDJoaVNsWjVjRmxROGlZNXFFSEZ4NlF3U0hXUFZDN0hJZXNHamlTc0UzaHMzRHRMaENFZ29pUlhEWDBwdmpBVi1BZ0F4ZTUzMW85aERFb0VVNFVjQzctMHloRno5SzAySlU0d18zd3ptNUxDc29ocnZrdUFxYXRqc3BpR2ZtMkFkNUZkdF9qd2xhTmI3NGRaWE1yVWNOdks1WFY5VjBTenJLMHNhSkNONWc2TlFfTG9DMw?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "流量与活动",
+        "title": "亚马逊广告发布AI广告平台 全流域广告活动向美国广告主开放",
+        "tags": [
+          "#流量与活动",
+          "#全球定制网"
+        ],
+        "what": "亚马逊广告发布AI广告平台 全流域广告活动向美国广告主开放 亚马逊广告发布AI广告平台 全流域广告活动向美国广告主开放    全球定制网",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "全球定制网 (via Google News) | Sat, 07 Nov 2026 21:37:30 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBER2ViVGItaHlwdGFLY0ZaNnFSaHctbkNmVmZ2SHFkaXZyZVNmRGY5RVVEUmZZNEdNM0FOV2xHenl6X0RyalVaS0t6dk04RWs?oc=5",
+        "origin": "google",
+        "needs_review": false
+      }
+    ]
   }
 ]
