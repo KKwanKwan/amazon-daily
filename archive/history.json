@@ -13885,5 +13885,141 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-11-11",
+    "issue": 127,
+    "summary": "8 items (5 official), 1 high",
+    "alert": "Check high-impact items.",
+    "items": [
+      {
+        "level": "high",
+        "column": "政策与费用",
+        "title": "亚马逊美国站新规，2027年多项费用即将调整！",
+        "tags": [
+          "#政策与费用",
+          "#雨果跨境"
+        ],
+        "what": "亚马逊美国站新规，2027年多项费用即将调整！ 亚马逊美国站新规，2027年多项费用即将调整！    雨果跨境",
+        "impact": "涉及平台费用。",
+        "action": "关注后续。",
+        "source": "雨果跨境 (via Google News) | Tue, 10 Nov 2026 06:51:33 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5EQWJDanIxQlFqUDFqWjgxUy12djRpRXUwUll3NEdyTmxBaEJmcE9EdXVnX2oydi1zaHFyX3Zxa2dmOE1yMlJLUnRpUkc?oc=5",
+        "origin": "google",
+        "needs_review": true
+      },
+      {
+        "level": "mid",
+        "column": "政策与费用",
+        "title": "亚马逊2027年费用调整来了，FBA配送费又上涨了！这几项调整直接影响卖家利润！",
+        "tags": [
+          "#政策与费用",
+          "#雨果跨境"
+        ],
+        "what": "亚马逊2027年费用调整来了，FBA配送费又上涨了！这几项调整直接影响卖家利润！ 亚马逊2027年费用调整来了，FBA配送费又上涨了！这几项调整直接影响卖家利润！    雨果跨境",
+        "impact": "涉及平台费用。",
+        "action": "关注后续。",
+        "source": "雨果跨境 (via Google News) | Tue, 10 Nov 2026 07:01:06 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5rOU5KWEhiT2xwT2pzTE1nUllSQ3BNOGVHeUhOS05xcUY1bmh3MWVia3NGbk5CdjlfbS1TRm5aNHJ3eFZkMXVlUW5CWFFrcGc?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "mid",
+        "column": "政策与费用",
+        "title": "亚马逊2027年美国站费用调整 FBA配送费每件上调0.19美元",
+        "tags": [
+          "#政策与费用",
+          "#观点网"
+        ],
+        "what": "亚马逊2027年美国站费用调整 FBA配送费每件上调0.19美元 亚马逊2027年美国站费用调整 FBA配送费每件上调0.19美元    观点网",
+        "impact": "涉及平台费用。",
+        "action": "关注后续。",
+        "source": "观点网 (via Google News) | Mon, 09 Nov 2026 05:08:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB5R2dwRWZ1TG1ZSkVOMVFReUppRWlGRC1BQnlNZmtTWnpPV1pabmZwdlctWWhTVUloa1dKcUZIZkJPTXl6Q05WNU83blJIQQ?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Ring announces Ring Robotics, ushering in a new era of security",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Ring announces Ring Robotics, ushering in a new era of security Ring Robotics is launching with two robots: Ring Drone Cam and Ring Rover Cam, providing mobile, proactive protection whenever and wherever you need it",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Tue, 10 Nov 2026 13:26:02 GMT",
+        "link": "https://www.aboutamazon.com/news/devices/ring-drone-cam-rover-cam-security-robot?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Amazon in the community: Service, community, and commitment at HQ2",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Amazon in the community: Service, community, and commitment at HQ2 Learn how we invest in the community, help power the local economy, and support our employees in the National Capital Region",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Mon, 09 Nov 2026 22:42:00 GMT",
+        "link": "https://www.aboutamazon.com/news/community/amazon-arlington-virginia-news?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Amazon Leo to launch 40 satellites on its first Vulcan mission",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Amazon Leo to launch 40 satellites on its first Vulcan mission Leo Vulcan 1 (LV-01) will carry the largest batch of Leo satellites to orbit yet and kick off a 38-launch partnership with ULA",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Mon, 09 Nov 2026 17:22:29 GMT",
+        "link": "https://www.aboutamazon.com/news/amazon-leo/amazon-leo-vulcan-satellites-launch?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Optimize YouTube Videos for ChatGPT",
+        "tags": [
+          "#headline",
+          "#Practical Ecommerce"
+        ],
+        "what": "Optimize YouTube Videos for ChatGPT ChatGPT favors high-view videos but also weighs channel subscribers and verification. The post Optimize YouTube Videos for ChatGPT appeared first on Practical Ecommerce ",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "Practical Ecommerce | Tue, 10 Nov 2026 14:10:53 +0000",
+        "link": "https://www.practicalecommerce.com/optimize-youtube-videos-for-chatgpt",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Google Ads Loosens Channel Restrictions",
+        "tags": [
+          "#headline",
+          "#Practical Ecommerce"
+        ],
+        "what": "Google Ads Loosens Channel Restrictions The new feature allows advertisers to set \"High\" or \"Low\" priorities for each channel. The post Google Ads Loosens Channel Restrictions appeared first on Practical Ecommerce ",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "Practical Ecommerce | Mon, 09 Nov 2026 18:24:35 +0000",
+        "link": "https://www.practicalecommerce.com/google-ads-loosens-channel-restrictions",
+        "origin": "official",
+        "needs_review": false
+      }
+    ]
   }
 ]
