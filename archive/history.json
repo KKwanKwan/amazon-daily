@@ -14157,5 +14157,141 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-11-13",
+    "issue": 129,
+    "summary": "8 items (7 official), 1 high",
+    "alert": "Check high-impact items.",
+    "items": [
+      {
+        "level": "high",
+        "column": "政策与费用",
+        "title": "黑五网一激战正酣，亚马逊正式公布 2027 美国站佣金及 FBA 费用新规",
+        "tags": [
+          "#政策与费用",
+          "#雨果跨境"
+        ],
+        "what": "黑五网一激战正酣，亚马逊正式公布 2027 美国站佣金及 FBA 费用新规 黑五网一激战正酣，亚马逊正式公布 2027 美国站佣金及 FBA 费用新规    雨果跨境",
+        "impact": "涉及平台费用。",
+        "action": "关注后续。",
+        "source": "雨果跨境 (via Google News) | Thu, 12 Nov 2026 06:01:56 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1BV2pURUlPOW13YlcwaUJoVW1TRERUNUxNeTlsZlhsa2tiS0RVekRvR0VfdkpSaVBTUFl0REw4RWhLakppV05id3JtUXA?oc=5",
+        "origin": "google",
+        "needs_review": true
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Amazon data center communities: Here’s what’s happening near data centers across the US in 2026",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Amazon data center communities: Here’s what’s happening near data centers across the US in 2026 Get the latest updates on how Amazon supports small businesses, creates jobs, sets up sustainability initiatives, and develops educational programs near AWS data centers",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Fri, 13 Nov 2026 01:12:00 GMT",
+        "link": "https://www.aboutamazon.com/news/aws/amazon-data-centers-locations-news?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "How Amazon is building an internet network 400 miles above Earth",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "How Amazon is building an internet network 400 miles above Earth See how Amazon's growing constellation of custom-built satellites will work together to bring internet connectivity anywhere on the planet",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Thu, 12 Nov 2026 16:07:17 GMT",
+        "link": "https://www.aboutamazon.com/stories/how-amazon-leo-satellite-internet-works?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Amazon in the community: Service, community, and commitment at HQ2",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Amazon in the community: Service, community, and commitment at HQ2 Learn how we invest in the community, help power the local economy, and support our employees in the National Capital Region",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Thu, 12 Nov 2026 14:53:00 GMT",
+        "link": "https://www.aboutamazon.com/news/community/amazon-arlington-virginia-news?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Amazon in the community: Here’s what’s happening in Seattle, Bellevue, and the Puget Sound",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Amazon in the community: Here’s what’s happening in Seattle, Bellevue, and the Puget Sound Learn how we invest in the community, help power the local economy, and support our employees in the Puget Sound region",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Thu, 12 Nov 2026 14:36:00 GMT",
+        "link": "https://www.aboutamazon.com/news/community/amazon-seattle-bellevue-puget-sound-news?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "The best books of 2026, according to the Amazon Editors",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "The best books of 2026, according to the Amazon Editors Min Jin Lee’s ‘American Hagwon,’ her anticipated follow-up to ‘Pachinko,’ comes in at No. 1 from Amazon’s wide selection this year",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Thu, 12 Nov 2026 14:00:17 GMT",
+        "link": "https://www.aboutamazon.com/news/books-and-authors/best-books-of-the-year-2026?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Amazon ranks No. 1 on Forbes’ list of America’s Best Companies for 2027",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Amazon ranks No. 1 on Forbes’ list of America’s Best Companies for 2027 The annual ranking evaluates U.S. companies across metrics like employee sentiment, customer sentiment, and innovation. Here’s how Amazon earned the top spot",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Thu, 12 Nov 2026 13:30:09 GMT",
+        "link": "https://www.aboutamazon.com/news/workplace/amazon-forbes-best-companies-2027?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "How we built the agents that built AWS Emulator",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "How we built the agents that built AWS Emulator Thousands of autonomous AI agents wrote every line of code in AWS Emulator, a new local emulator for AWS now available for download",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Wed, 11 Nov 2026 17:25:18 GMT",
+        "link": "https://www.aboutamazon.com/news/aws/how-autonomous-ai-agents-built-aws-emulator?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      }
+    ]
   }
 ]
