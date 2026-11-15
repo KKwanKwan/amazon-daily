@@ -14429,5 +14429,61 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-11-15",
+    "issue": 131,
+    "summary": "3 items (1 official), 0 high",
+    "alert": "",
+    "items": [
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Amazon data center communities: Here’s what’s happening near data centers across the US in 2026",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Amazon data center communities: Here’s what’s happening near data centers across the US in 2026 Get the latest updates on how Amazon supports small businesses, creates jobs, sets up sustainability initiatives, and develops educational programs near AWS data centers",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Fri, 13 Nov 2026 16:51:00 GMT",
+        "link": "https://www.aboutamazon.com/news/aws/amazon-data-centers-locations-news?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "物流与供应链",
+        "title": "欧盟对跨境小包裹加收2欧元手续费，中国电商调整欧洲业务",
+        "tags": [
+          "#物流与供应链",
+          "#新浪财经"
+        ],
+        "what": "欧盟对跨境小包裹加收2欧元手续费，中国电商调整欧洲业务 欧盟对跨境小包裹加收2欧元手续费，中国电商调整欧洲业务    新浪财经",
+        "impact": "涉及跨境物流/关税。",
+        "action": "关注后续。",
+        "source": "新浪财经 (via Google News) | Sat, 14 Nov 2026 13:07:23 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQWktQeVNBazA2c3IzX1gyMnUtR2VzcUNrUjhqY2Fya2R5NVhjZVA1VWNBSXppbV9CRVlOM2dsNHNyOXNzMFE0UVd2OWVQZTcyMHVYaUhPRHdsdTgyVFpyYmhsS3dSWkJLSFNCOVl4M0U3WFdLT25RSUZDTU9lTWdSbjJZRkZqTHh6TlNydjFxZUpGc04xREFLREVKSUItNVNfLWJleFRjamRuZV9GU3FTX2p6ckNCNC02SXZXdkZFYmN4cmwxdmhPRTVyOEtUVENTSk9FTEJyV3ZXTFV0QTBXQnZFSGRVU3g2bXlxLS1NZkVBWTAxMUZZb3B4cDh5OFhoOUFwZDh3di1oMHlwaGs2aW5GbGhxX2M2NW1KMnduNHJ2TzVuVXpESTNuRUlSNmFIYjFpMEItcTg?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "流量与活动",
+        "title": "亚马逊秘密打造全球商品数据库，意在围堵AI购物代理、守住广告收入",
+        "tags": [
+          "#流量与活动",
+          "#华尔街见闻"
+        ],
+        "what": "亚马逊秘密打造全球商品数据库，意在围堵AI购物代理、守住广告收入 亚马逊秘密打造全球商品数据库，意在围堵AI购物代理、守住广告收入    华尔街见闻",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "华尔街见闻 (via Google News) | Fri, 13 Nov 2026 11:59:26 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tZjBtZ2RXbVJuMnhnVmJUVFNhbmhLbGF2T05ybzQ4NDlBUnI2MVdEeHhqQ0xZbnduOE9Qa3lRdTliTDY2WWdhVGNKZjgxLTdNSFU4?oc=5",
+        "origin": "google",
+        "needs_review": false
+      }
+    ]
   }
 ]
