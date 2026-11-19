@@ -14764,5 +14764,141 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-11-19",
+    "issue": 135,
+    "summary": "8 items (7 official), 0 high",
+    "alert": "",
+    "items": [
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Amazon data center communities: Here’s what’s happening near data centers across the US in 2026",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Amazon data center communities: Here’s what’s happening near data centers across the US in 2026 Get the latest updates on how Amazon supports small businesses, creates jobs, sets up sustainability initiatives, and develops educational programs near AWS data centers",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Wed, 18 Nov 2026 17:38:00 GMT",
+        "link": "https://www.aboutamazon.com/news/aws/amazon-data-centers-locations-news?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "5 ways Amazon is supporting US communities in 2026, from free meals to affordable homes",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "5 ways Amazon is supporting US communities in 2026, from free meals to affordable homes From disaster relief to housing and scholarships, Amazon's community investments are helping neighbors across the country",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Tue, 17 Nov 2026 13:00:07 GMT",
+        "link": "https://www.aboutamazon.com/news/community/amazon-community-impact-2026?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Amazon to invest $7 billion in renewable energy in India by 2030",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Amazon to invest $7 billion in renewable energy in India by 2030 Amazon also announced four new wind and solar projects in India, including its largest wind farm contracted in Asia to date",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Tue, 17 Nov 2026 08:35:19 GMT",
+        "link": "https://www.aboutamazon.com/news/sustainability/amazon-investment-india-renewable-energy?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Amazon sets goal to cut electricity carbon intensity 65% by 2030",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Amazon sets goal to cut electricity carbon intensity 65% by 2030 As energy demand grows, Amazon is setting a new, science-aligned interim target for electricity emissions as a leading corporate buyer of carbon-free energy",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Tue, 17 Nov 2026 08:30:31 GMT",
+        "link": "https://www.aboutamazon.com/news/sustainability/amazon-carbon-intensity-goal-electricity-emissions?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Inside Amazon’s new Tokyo office with views of Japan's iconic Tokyo Tower",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Inside Amazon’s new Tokyo office with views of Japan's iconic Tokyo Tower Amazon's new home in Japan draws on the four seasons, garden traditions, and washi walls hand-dyed by employees",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Tue, 17 Nov 2026 06:00:00 GMT",
+        "link": "https://www.aboutamazon.com/news/amazon-offices/amazon-tokyo-office-photos?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Ecommerce Newsletters I Actually Read",
+        "tags": [
+          "#headline",
+          "#Practical Ecommerce"
+        ],
+        "what": "Ecommerce Newsletters I Actually Read Four newsletters for what's happening and two for tactics of owner-operators. The post Ecommerce Newsletters I Actually Read appeared first on Practical Ecommerce ",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "Practical Ecommerce | Tue, 17 Nov 2026 13:35:36 +0000",
+        "link": "https://www.practicalecommerce.com/ecommerce-newsletters-i-actually-read",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "工具与运营",
+        "title": "New Ecommerce Tools: November 18, 2026",
+        "tags": [
+          "#工具与运营",
+          "#Practical Ecommerce"
+        ],
+        "what": "New Ecommerce Tools: November 18, 2026 This week: AI website builders, shopping agents, affiliate links, cross-border fund management, agentic payments, fulfillment, carbon footprinting, and more. The post New Ecommerce Tools: November 18,",
+        "impact": "涉及运营工具。",
+        "action": "关注后续。",
+        "source": "Practical Ecommerce | Wed, 18 Nov 2026 13:52:18 +0000",
+        "link": "https://www.practicalecommerce.com/new-ecommerce-tools-november-18-2026",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "流量与活动",
+        "title": "Nunn与亚马逊广告达成合作，强化AI营销",
+        "tags": [
+          "#流量与活动",
+          "#4A广告网"
+        ],
+        "what": "Nunn与亚马逊广告达成合作，强化AI营销 Nunn与亚马逊广告达成合作，强化AI营销    4A广告网",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "4A广告网 (via Google News) | Wed, 18 Nov 2026 08:40:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5XR1JTcVhSNFppb1JBQ1pUT1FTSDlvWmR3a18tbDJiaGtIMWNpemZWUmNudHZBX2ZCT0FQWUFSeWJvV1RremZ2Um45Skt3OExWbVRDZFk0aXI2c0VhSmxv?oc=5",
+        "origin": "google",
+        "needs_review": false
+      }
+    ]
   }
 ]
