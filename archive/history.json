@@ -14900,5 +14900,109 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-11-20",
+    "issue": 136,
+    "summary": "6 items (4 official), 0 high",
+    "alert": "",
+    "items": [
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "Watch the teaser trailer for 'Invincible' Season 5, coming to Prime Video February 17",
+        "tags": [
+          "#流量与活动",
+          "#About Amazon"
+        ],
+        "what": "Watch the teaser trailer for 'Invincible' Season 5, coming to Prime Video February 17 'The Boys' star Jack Quaid will join the fifth season of the critically acclaimed animated superhero series",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "About Amazon | Thu, 19 Nov 2026 17:01:00 GMT",
+        "link": "https://www.aboutamazon.com/news/entertainment/invincible-prime-video?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Amazon data center communities: Here’s what’s happening near data centers across the US in 2026",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Amazon data center communities: Here’s what’s happening near data centers across the US in 2026 Get the latest updates on how Amazon supports small businesses, creates jobs, sets up sustainability initiatives, and develops educational programs near AWS data centers",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Wed, 18 Nov 2026 17:38:00 GMT",
+        "link": "https://www.aboutamazon.com/news/aws/amazon-data-centers-locations-news?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Top Ecommerce Fraud Risks for 2027",
+        "tags": [
+          "#headline",
+          "#Practical Ecommerce"
+        ],
+        "what": "Top Ecommerce Fraud Risks for 2027 AI and automation may help criminals steal cards, hijack accounts, and file bogus refunds faster with less effort. The post Top Ecommerce Fraud Risks for 2027 appeared first on Practical Ecommerce ",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "Practical Ecommerce | Thu, 19 Nov 2026 14:05:08 +0000",
+        "link": "https://www.practicalecommerce.com/top-ecommerce-fraud-risks-for-2027",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "速卖通双11中国商家狂揽全球订单：品牌成交大涨近50%，美巴创历史新高",
+        "tags": [
+          "#headline",
+          "#电商派"
+        ],
+        "what": "速卖通双11中国商家狂揽全球订单：品牌成交大涨近50%，美巴创历史新高 速卖通双11中国商家狂揽全球订单：品牌成交大涨近50%，美巴创历史新高    电商派",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "电商派 (via Google News) | Fri, 20 Nov 2026 03:28:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tRDl2WnFJTUgtZDlIMExVOGNmaklZMU92Z1YyRFRkNVZLSFJSS29fMUtNcmd1YzVubTNhZHEwOWxUT2Jzckh5TXNpMEw4VGZ2b25Iakl5YzVPQVNkSERxVw?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "工具与运营",
+        "title": "New Ecommerce Tools: November 18, 2026",
+        "tags": [
+          "#工具与运营",
+          "#Practical Ecommerce"
+        ],
+        "what": "New Ecommerce Tools: November 18, 2026 This week: AI website builders, shopping agents, affiliate links, cross-border fund management, agentic payments, fulfillment, carbon footprinting, and more. The post New Ecommerce Tools: November 18,",
+        "impact": "涉及运营工具。",
+        "action": "关注后续。",
+        "source": "Practical Ecommerce | Wed, 18 Nov 2026 13:52:18 +0000",
+        "link": "https://www.practicalecommerce.com/new-ecommerce-tools-november-18-2026",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "流量与活动",
+        "title": "Nunn与亚马逊广告达成合作，强化AI营销",
+        "tags": [
+          "#流量与活动",
+          "#4A广告网"
+        ],
+        "what": "Nunn与亚马逊广告达成合作，强化AI营销 Nunn与亚马逊广告达成合作，强化AI营销    4A广告网",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "4A广告网 (via Google News) | Wed, 18 Nov 2026 08:40:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5XR1JTcVhSNFppb1JBQ1pUT1FTSDlvWmR3a18tbDJiaGtIMWNpemZWUmNudHZBX2ZCT0FQWUFSeWJvV1RremZ2Um45Skt3OExWbVRDZFk0aXI2c0VhSmxv?oc=5",
+        "origin": "google",
+        "needs_review": false
+      }
+    ]
   }
 ]
