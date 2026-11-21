@@ -15004,5 +15004,141 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-11-21",
+    "issue": 137,
+    "summary": "8 items (3 official), 1 high",
+    "alert": "Check high-impact items.",
+    "items": [
+      {
+        "level": "high",
+        "column": "政策与费用",
+        "title": "亚马逊2027年FBA低库存费新规，怎么算？哪些情况会被收费？",
+        "tags": [
+          "#政策与费用",
+          "#雨果跨境"
+        ],
+        "what": "亚马逊2027年FBA低库存费新规，怎么算？哪些情况会被收费？ 亚马逊2027年FBA低库存费新规，怎么算？哪些情况会被收费？    雨果跨境",
+        "impact": "涉及平台费用。",
+        "action": "关注后续。",
+        "source": "雨果跨境 (via Google News) | Fri, 20 Nov 2026 07:33:56 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBhQ0N5MzJZRy1HVXJkVjd2ZVVxaXhXOTJoSHRoNzRZanl3cWxWZWkyR21hR05ZQkdJclB6UlJESmdmcWg2UXJVTElmV2w?oc=5",
+        "origin": "google",
+        "needs_review": true
+      },
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "Watch the teaser trailer for 'Invincible' Season 5, coming to Prime Video February 17",
+        "tags": [
+          "#流量与活动",
+          "#About Amazon"
+        ],
+        "what": "Watch the teaser trailer for 'Invincible' Season 5, coming to Prime Video February 17 'The Boys' star Jack Quaid will join the fifth season of the critically acclaimed animated superhero series",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "About Amazon | Thu, 19 Nov 2026 17:01:00 GMT",
+        "link": "https://www.aboutamazon.com/news/entertainment/invincible-prime-video?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Top Ecommerce Fraud Risks for 2027",
+        "tags": [
+          "#headline",
+          "#Practical Ecommerce"
+        ],
+        "what": "Top Ecommerce Fraud Risks for 2027 AI and automation may help criminals steal cards, hijack accounts, and file bogus refunds faster with less effort. The post Top Ecommerce Fraud Risks for 2027 appeared first on Practical Ecommerce ",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "Practical Ecommerce | Thu, 19 Nov 2026 14:05:08 +0000",
+        "link": "https://www.practicalecommerce.com/top-ecommerce-fraud-risks-for-2027",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "CAD25自动退款不退货：亚马逊加拿大站跨境自配送卖家6项自查",
+        "tags": [
+          "#headline",
+          "#雨果跨境"
+        ],
+        "what": "CAD25自动退款不退货：亚马逊加拿大站跨境自配送卖家6项自查 CAD25自动退款不退货：亚马逊加拿大站跨境自配送卖家6项自查    雨果跨境",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "雨果跨境 (via Google News) | Fri, 20 Nov 2026 09:17:15 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5rTk0tUjhpMXN5YXh5T3IxczVzWWJHQUlBTE14SzNKQnlldy1sS19OOUFmTnZmS2ZkZVpScVhyVnJCcEN3R19XNTNrT1Y?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "速卖通双11中国商家狂揽全球订单：品牌成交大涨近50%，美巴创历史新高",
+        "tags": [
+          "#headline",
+          "#电商派"
+        ],
+        "what": "速卖通双11中国商家狂揽全球订单：品牌成交大涨近50%，美巴创历史新高 速卖通双11中国商家狂揽全球订单：品牌成交大涨近50%，美巴创历史新高    电商派",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "电商派 (via Google News) | Fri, 20 Nov 2026 03:28:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tRDl2WnFJTUgtZDlIMExVOGNmaklZMU92Z1YyRFRkNVZLSFJSS29fMUtNcmd1YzVubTNhZHEwOWxUT2Jzckh5TXNpMEw4VGZ2b25Iakl5YzVPQVNkSERxVw?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "工具与运营",
+        "title": "CEOs Need AI Agents, Says AppSumo Vet",
+        "tags": [
+          "#工具与运营",
+          "#Practical Ecommerce"
+        ],
+        "what": "CEOs Need AI Agents, Says AppSumo Vet Ayman Al-Abdullah suggests agents that function as chief of staff, leadership roles, and specialists, all working from a shared knowledge base. The post CEOs Need AI Agents, Says AppSumo Vet appeared ",
+        "impact": "涉及运营工具。",
+        "action": "关注后续。",
+        "source": "Practical Ecommerce | Fri, 20 Nov 2026 14:48:03 +0000",
+        "link": "https://www.practicalecommerce.com/ceos-need-ai-agents-says-appsumo-vet",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "物流与供应链",
+        "title": "欧盟取消低价值包裹关税豁免，中国跨境电商长尾模式承压",
+        "tags": [
+          "#物流与供应链",
+          "#虎嗅网"
+        ],
+        "what": "欧盟取消低价值包裹关税豁免，中国跨境电商长尾模式承压 欧盟取消低价值包裹关税豁免，中国跨境电商长尾模式承压    虎嗅网",
+        "impact": "涉及跨境物流/关税。",
+        "action": "关注后续。",
+        "source": "虎嗅网 (via Google News) | Fri, 20 Nov 2026 16:09:49 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1TeVI1S1llTmpwaEpNb0Nuazg4WURIdlRCSGNFajkzdUhtbngzanJFaFpmeXFKMndUZWU1RW1YRTlYM2gxS2RzUmZRZi0tZWR4aWhERQ?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "流量与活动",
+        "title": "广告逻辑大改！亚马逊把广告后台交给 AI 了",
+        "tags": [
+          "#流量与活动",
+          "#雨果跨境"
+        ],
+        "what": "广告逻辑大改！亚马逊把广告后台交给 AI 了 广告逻辑大改！亚马逊把广告后台交给 AI 了    雨果跨境",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "雨果跨境 (via Google News) | Fri, 20 Nov 2026 08:53:18 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5pbUctUG5IQXlqM3UzRDNhcENhNjY1eDJBU0drTWh5UUhJV1NjcEtRaU1PdHF6aGxUc2lQWXh4NUY4NkJtVHkxR3NaQ2U?oc=5",
+        "origin": "google",
+        "needs_review": false
+      }
+    ]
   }
 ]
