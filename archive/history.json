@@ -15140,5 +15140,61 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-11-22",
+    "issue": 138,
+    "summary": "3 items (1 official), 1 high",
+    "alert": "Check high-impact items.",
+    "items": [
+      {
+        "level": "high",
+        "column": "政策与费用",
+        "title": "亚马逊2027年FBA低库存费新规，怎么算？哪些情况会被收费？",
+        "tags": [
+          "#政策与费用",
+          "#雨果跨境"
+        ],
+        "what": "亚马逊2027年FBA低库存费新规，怎么算？哪些情况会被收费？ 亚马逊2027年FBA低库存费新规，怎么算？哪些情况会被收费？    雨果跨境",
+        "impact": "涉及平台费用。",
+        "action": "关注后续。",
+        "source": "雨果跨境 (via Google News) | Fri, 20 Nov 2026 07:33:56 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBhQ0N5MzJZRy1HVXJkVjd2ZVVxaXhXOTJoSHRoNzRZanl3cWxWZWkyR21hR05ZQkdJclB6UlJESmdmcWg2UXJVTElmV2w?oc=5",
+        "origin": "google",
+        "needs_review": true
+      },
+      {
+        "level": "low",
+        "column": "工具与运营",
+        "title": "CEOs Need AI Agents, Says AppSumo Vet",
+        "tags": [
+          "#工具与运营",
+          "#Practical Ecommerce"
+        ],
+        "what": "CEOs Need AI Agents, Says AppSumo Vet Ayman Al-Abdullah suggests agents that function as chief of staff, leadership roles, and specialists, all working from a shared knowledge base. The post CEOs Need AI Agents, Says AppSumo Vet appeared ",
+        "impact": "涉及运营工具。",
+        "action": "关注后续。",
+        "source": "Practical Ecommerce | Fri, 20 Nov 2026 14:48:03 +0000",
+        "link": "https://www.practicalecommerce.com/ceos-need-ai-agents-says-appsumo-vet",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "物流与供应链",
+        "title": "欧盟取消低价值包裹关税豁免，中国跨境电商长尾模式承压",
+        "tags": [
+          "#物流与供应链",
+          "#虎嗅网"
+        ],
+        "what": "欧盟取消低价值包裹关税豁免，中国跨境电商长尾模式承压 欧盟取消低价值包裹关税豁免，中国跨境电商长尾模式承压    虎嗅网",
+        "impact": "涉及跨境物流/关税。",
+        "action": "关注后续。",
+        "source": "虎嗅网 (via Google News) | Fri, 20 Nov 2026 16:09:49 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1TeVI1S1llTmpwaEpNb0Nuazg4WURIdlRCSGNFajkzdUhtbngzanJFaFpmeXFKMndUZWU1RW1YRTlYM2gxS2RzUmZRZi0tZWR4aWhERQ?oc=5",
+        "origin": "google",
+        "needs_review": false
+      }
+    ]
   }
 ]
