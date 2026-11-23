@@ -15196,5 +15196,45 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-11-23",
+    "issue": 139,
+    "summary": "2 items (1 official), 0 high",
+    "alert": "",
+    "items": [
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "B2B and D2C Ecommerce for Beauty Brands",
+        "tags": [
+          "#headline",
+          "#Practical Ecommerce"
+        ],
+        "what": "B2B and D2C Ecommerce for Beauty Brands The two audiences feed each other. Professional usage encourages consumers, and consumer sales build awareness among professionals. The post B2B and D2C Ecommerce for Beauty Brands appeared first on P",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "Practical Ecommerce | Sun, 22 Nov 2026 15:10:58 +0000",
+        "link": "https://www.practicalecommerce.com/b2b-and-d2c-ecommerce-for-beauty-brands",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "CAD25自动退款不退货：亚马逊加拿大站跨境自配送卖家6项自查",
+        "tags": [
+          "#headline",
+          "#雨果跨境"
+        ],
+        "what": "CAD25自动退款不退货：亚马逊加拿大站跨境自配送卖家6项自查 CAD25自动退款不退货：亚马逊加拿大站跨境自配送卖家6项自查    雨果跨境",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "雨果跨境 (via Google News) | Sat, 21 Nov 2026 21:23:33 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5rTk0tUjhpMXN5YXh5T3IxczVzWWJHQUlBTE14SzNKQnlldy1sS19OOUFmTnZmS2ZkZVpScVhyVnJCcEN3R19XNTNrT1Y?oc=5",
+        "origin": "google",
+        "needs_review": false
+      }
+    ]
   }
 ]
