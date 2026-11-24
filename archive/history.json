@@ -15236,5 +15236,125 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-11-24",
+    "issue": 140,
+    "summary": "7 items (6 official), 0 high",
+    "alert": "",
+    "items": [
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Amazon data center communities: Here’s what’s happening near data centers across the US in 2026",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Amazon data center communities: Here’s what’s happening near data centers across the US in 2026 Get the latest updates on how Amazon supports small businesses, creates jobs, sets up sustainability initiatives, and develops educational programs near AWS data centers",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Mon, 23 Nov 2026 21:57:00 GMT",
+        "link": "https://www.aboutamazon.com/news/aws/amazon-data-centers-locations-news?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "B2B and D2C Ecommerce for Beauty Brands",
+        "tags": [
+          "#headline",
+          "#Practical Ecommerce"
+        ],
+        "what": "B2B and D2C Ecommerce for Beauty Brands The two audiences feed each other. Professional usage encourages consumers, and consumer sales build awareness among professionals. The post B2B and D2C Ecommerce for Beauty Brands appeared first on P",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "Practical Ecommerce | Sun, 22 Nov 2026 15:10:58 +0000",
+        "link": "https://www.practicalecommerce.com/b2b-and-d2c-ecommerce-for-beauty-brands",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "工具与运营",
+        "title": "AI safety can’t depend on an emergency brake. It needs better engineering.",
+        "tags": [
+          "#工具与运营",
+          "#About Amazon"
+        ],
+        "what": "AI safety can’t depend on an emergency brake. It needs better engineering. Most of the practical tools to build trustworthy AI systems already exist, and the industry needs to use them",
+        "impact": "涉及运营工具。",
+        "action": "关注后续。",
+        "source": "About Amazon | Mon, 23 Nov 2026 17:00:05 GMT",
+        "link": "https://www.aboutamazon.com/news/aws/aws-ceo-ai-safety-engineering?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "工具与运营",
+        "title": "What is physical AI? How Trainium accelerates how robots learn.",
+        "tags": [
+          "#工具与运营",
+          "#About Amazon"
+        ],
+        "what": "What is physical AI? How Trainium accelerates how robots learn. For robots, a split-second delay can change the outcome. Here's why speed matters for physical AI, and how AWS Trainium helps",
+        "impact": "涉及运营工具。",
+        "action": "关注后续。",
+        "source": "About Amazon | Mon, 23 Nov 2026 16:59:39 GMT",
+        "link": "https://www.aboutamazon.com/new/aws/what-is-physical-ai-aws-trainium-robots?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "工具与运营",
+        "title": "Amazon to purchase Decart's AI optimization technology to advance chip and model innovation for customers",
+        "tags": [
+          "#工具与运营",
+          "#About Amazon"
+        ],
+        "what": "Amazon to purchase Decart's AI optimization technology to advance chip and model innovation for customers ",
+        "impact": "涉及运营工具。",
+        "action": "关注后续。",
+        "source": "About Amazon | Mon, 23 Nov 2026 13:46:59 GMT",
+        "link": "https://www.aboutamazon.com/news/company-news/amazon-decart-ai-optimization?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "工具与运营",
+        "title": "Test Your Ecommerce Site for AI Access",
+        "tags": [
+          "#工具与运营",
+          "#Practical Ecommerce"
+        ],
+        "what": "Test Your Ecommerce Site for AI Access AI platforms now drive buying decisions, much more than visibility alone. The post Test Your Ecommerce Site for AI Access appeared first on Practical Ecommerce ",
+        "impact": "涉及运营工具。",
+        "action": "关注后续。",
+        "source": "Practical Ecommerce | Mon, 23 Nov 2026 13:14:40 +0000",
+        "link": "https://www.practicalecommerce.com/test-your-ecommerce-site-for-ai-access",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "流量与活动",
+        "title": "可口可乐不再炫AI，亚马逊不急着卖货：2026年圣诞广告，为什么又开始讲“人”？",
+        "tags": [
+          "#流量与活动",
+          "#手机新浪网"
+        ],
+        "what": "可口可乐不再炫AI，亚马逊不急着卖货：2026年圣诞广告，为什么又开始讲“人”？ 可口可乐不再炫AI，亚马逊不急着卖货：2026年圣诞广告，为什么又开始讲“人”？    手机新浪网",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "手机新浪网 (via Google News) | Mon, 23 Nov 2026 08:30:12 GMT",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91Tk1mUkpFaVJmWjFmRElqSHBPWUVuWERCTHZJMDEyVGZSVkxSOExtU3hFY001MWV1dVRoeE9VaE4yZjlGWUt1ZkZYNkVPbko5UDNIVDZJUkJmeGJqSVVaMmhlS3NGMFh4NFlUTHhyMWo?oc=5",
+        "origin": "google",
+        "needs_review": false
+      }
+    ]
   }
 ]
