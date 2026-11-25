@@ -15356,5 +15356,141 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-11-25",
+    "issue": 141,
+    "summary": "8 items (8 official), 0 high",
+    "alert": "",
+    "items": [
+      {
+        "level": "mid",
+        "column": "流量与活动",
+        "title": "How to watch the UEFA Champions League on Prime Video outside the US",
+        "tags": [
+          "#流量与活动",
+          "#About Amazon"
+        ],
+        "what": "How to watch the UEFA Champions League on Prime Video outside the US Exclusive matches, advanced stats, and an all-star punditry team—here's your guide to the Champions League on Prime Video outside the U.S",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "About Amazon | Tue, 24 Nov 2026 10:34:22 GMT",
+        "link": "https://www.aboutamazon.com/news/entertainment/champions-league-prime-video-how-to-watch-schedule?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Amazon Autos is coming to the UK—the first country outside the US",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Amazon Autos is coming to the UK—the first country outside the US UK customers will be able to browse real-time dealer inventory, see upfront pricing, get an instant trade-in valuation, and connect with a local dealer—all on Amazon.co.uk",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Wed, 25 Nov 2026 05:50:05 GMT",
+        "link": "https://www.aboutamazon.com/news/retail/amazon-autos-uk?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "How Amazon Leo's satellites launch with help from 13 European countries",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "How Amazon Leo's satellites launch with help from 13 European countries More than 600 European businesses help build the rockets that carry Amazon Leo satellites into orbit—working together 'like an orchestra.'",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Tue, 24 Nov 2026 21:21:07 GMT",
+        "link": "https://www.aboutamazon.com/news/amazon-leo/amazon-leo-ariane-space?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "‘The Lord of the Rings: The Rings of Power’ Season 4 is confirmed. Here’s what we know",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "‘The Lord of the Rings: The Rings of Power’ Season 4 is confirmed. Here’s what we know Prime Video’s epic fantasy series is in pre-production at Shepperton Studios in the UK, with filming set to begin this spring",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Tue, 24 Nov 2026 19:00:13 GMT",
+        "link": "https://www.aboutamazon.com/news/entertainment/lord-of-the-rings-rings-of-power-season-4-prime-video?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Amazon CTO Werner Vogels’ 5 tech predictions for 2027 and beyond",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Amazon CTO Werner Vogels’ 5 tech predictions for 2027 and beyond From computers built on living neurons to brain interfaces that need no surgery, Amazon’s CTO shares what’s coming in 2027 and beyond",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Tue, 24 Nov 2026 14:04:20 GMT",
+        "link": "https://www.aboutamazon.com/news/aws/werner-vogels-tech-predictions-2027?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Amazon data center communities: Here’s what’s happening near data centers across the US in 2026",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Amazon data center communities: Here’s what’s happening near data centers across the US in 2026 Get the latest updates on how Amazon supports small businesses, creates jobs, sets up sustainability initiatives, and develops educational programs near AWS data centers",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Mon, 23 Nov 2026 21:57:00 GMT",
+        "link": "https://www.aboutamazon.com/news/aws/amazon-data-centers-locations-news?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "工具与运营",
+        "title": "AI safety can’t depend on an emergency brake. It needs better engineering.",
+        "tags": [
+          "#工具与运营",
+          "#About Amazon"
+        ],
+        "what": "AI safety can’t depend on an emergency brake. It needs better engineering. Most of the practical tools to build trustworthy AI systems already exist, and the industry needs to use them",
+        "impact": "涉及运营工具。",
+        "action": "关注后续。",
+        "source": "About Amazon | Mon, 23 Nov 2026 17:00:05 GMT",
+        "link": "https://www.aboutamazon.com/news/aws/aws-ceo-ai-safety-engineering?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "工具与运营",
+        "title": "What is physical AI? How Trainium accelerates how robots learn.",
+        "tags": [
+          "#工具与运营",
+          "#About Amazon"
+        ],
+        "what": "What is physical AI? How Trainium accelerates how robots learn. For robots, a split-second delay can change the outcome. Here's why speed matters for physical AI, and how AWS Trainium helps",
+        "impact": "涉及运营工具。",
+        "action": "关注后续。",
+        "source": "About Amazon | Mon, 23 Nov 2026 16:59:39 GMT",
+        "link": "https://www.aboutamazon.com/new/aws/what-is-physical-ai-aws-trainium-robots?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      }
+    ]
   }
 ]
