@@ -15628,5 +15628,109 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-11-27",
+    "issue": 143,
+    "summary": "6 items (2 official), 0 high",
+    "alert": "",
+    "items": [
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "How the AWS Nitro System protects customers’ most sensitive data",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "How the AWS Nitro System protects customers’ most sensitive data Designed so AWS operators cannot access customer data, the Nitro System is the first formally verified hypervisor deployed in a commercial cloud environment",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Wed, 25 Nov 2026 20:16:16 GMT",
+        "link": "https://www.aboutamazon.com/news/aws/aws-nitro-system-customer-data-privacy?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "headline",
+        "title": "Amazon Autos is coming to the UK—the first country outside the US",
+        "tags": [
+          "#headline",
+          "#About Amazon"
+        ],
+        "what": "Amazon Autos is coming to the UK—the first country outside the US UK customers will be able to browse real-time dealer inventory, see upfront pricing, get an instant trade-in valuation, and connect with a local dealer—all on Amazon.co.uk",
+        "impact": "建议关注。",
+        "action": "联系账户经理了解入仓条件。",
+        "source": "About Amazon | Wed, 25 Nov 2026 05:50:05 GMT",
+        "link": "https://www.aboutamazon.com/news/retail/amazon-autos-uk?utm_source=rss",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "全球合规",
+        "title": "跨境电商合规门槛提升促品牌出海，拉美、非洲等新兴市场蕴藏机遇",
+        "tags": [
+          "#全球合规",
+          "#Sohu"
+        ],
+        "what": "跨境电商合规门槛提升促品牌出海，拉美、非洲等新兴市场蕴藏机遇 跨境电商合规门槛提升促品牌出海，拉美、非洲等新兴市场蕴藏机遇    Sohu",
+        "impact": "涉及合规风险。",
+        "action": "关注后续。",
+        "source": "Sohu (via Google News) | Thu, 26 Nov 2026 15:11:53 GMT",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPallmR0pITW5uVHpSSkNQdnkxQUtaUXFvelItZ1pBd0ZUTjN6Y2dHTWd6TTd6YmRhcDkteWJFZzI2NmNuSE10TWd3V0RRZ0tLX0VraUlFM1l4RjVsRnVFYXBmcmhOdFhDcGgzU0Q3UFNybFZfNE1PRWM1eEdPMDQ2RmZhakFVUlQxQ0RGUw?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "流量与活动",
+        "title": "Meta据称与亚马逊磋商解除Muse封锁 广告与搜索成焦点",
+        "tags": [
+          "#流量与活动",
+          "#财联社"
+        ],
+        "what": "Meta据称与亚马逊磋商解除Muse封锁 广告与搜索成焦点 Meta据称与亚马逊磋商解除Muse封锁 广告与搜索成焦点    财联社",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "财联社 (via Google News) | Wed, 25 Nov 2026 14:23:15 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9iM2k2cEF5YlJnYWdpaXV1ck5EUThUWEFJcnJHZkJnZmxra3E0M3Y5R1h6Ym5yd2tBb1d4OHRJbzhzTlZ3cGFjSA?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "流量与活动",
+        "title": "美股讯号 | 亚马逊与Meta洽谈AI购物合作，广告收入成焦点 ｜#美股资讯# #亚马逊# #行业竞争#",
+        "tags": [
+          "#流量与活动",
+          "#Sohu"
+        ],
+        "what": "美股讯号 | 亚马逊与Meta洽谈AI购物合作，广告收入成焦点 ｜#美股资讯# #亚马逊# #行业竞争# 美股讯号 | 亚马逊与Meta洽谈AI购物合作，广告收入成焦点 ｜#美股资讯# #亚马逊# #行业竞争#    Sohu",
+        "impact": "涉及站内流量。",
+        "action": "关注后续。",
+        "source": "Sohu (via Google News) | Wed, 25 Nov 2026 23:12:13 GMT",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObDV4T3V2TlBZRzJPdTJsdmJmNGE5ejVuTVlQVzY0NFV0ZlVRZG9uVGJOdFlLaWFCR05NQWNWNXRpVUpxeW1ORldhalBPM3lfOGJuTVh4U1l6T052eUlwN3U2bjluZC10QzNGSDZwZ19QeGlsMTBaUFBuWmd2bWhVQWNESTN5TGttakxiRA?oc=5",
+        "origin": "google",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "工具与运营",
+        "title": "Meta Muse 与亚马逊洽谈，解锁 AI 智能体的购物功能",
+        "tags": [
+          "#工具与运营",
+          "#Meteora Web"
+        ],
+        "what": "Meta Muse 与亚马逊洽谈，解锁 AI 智能体的购物功能 Meta Muse 与亚马逊洽谈，解锁 AI 智能体的购物功能    Meteora Web",
+        "impact": "涉及运营工具。",
+        "action": "关注后续。",
+        "source": "Meteora Web (via Google News) | Wed, 25 Nov 2026 16:44:45 GMT",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcmpZOEk3ZDlzQTdtYzBObnZONWhNa2dzVzJrOXlKQ0F5aEY0XzJPeENQWVk2RXJXeGJDdjQ4dVhnVlBOZndWdVNTeGlGQXhGMzIyMzNWZUNGWUh6UWEzY241MlN1WTJqMm1yN3pYWThRaGtNSF9vZXFuajNralpkc3YxQl9IcEtMWkxRNG1R?oc=5",
+        "origin": "google",
+        "needs_review": false
+      }
+    ]
   }
 ]
