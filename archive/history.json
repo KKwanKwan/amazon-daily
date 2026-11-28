@@ -15732,5 +15732,45 @@
         "needs_review": false
       }
     ]
+  },
+  {
+    "date": "2026-11-28",
+    "issue": 144,
+    "summary": "2 items (1 official), 0 high",
+    "alert": "",
+    "items": [
+      {
+        "level": "low",
+        "column": "工具与运营",
+        "title": "Future Commerce CEO on AI, Brands, Trust",
+        "tags": [
+          "#工具与运营",
+          "#Practical Ecommerce"
+        ],
+        "what": "Future Commerce CEO on AI, Brands, Trust Phillip Jackson says AI agents are surging, celebrity brands are fading, and niche sellers are winning. The post Future Commerce CEO on AI, Brands, Trust appeared first on Practical Ecommerce ",
+        "impact": "涉及运营工具。",
+        "action": "关注后续。",
+        "source": "Practical Ecommerce | Fri, 27 Nov 2026 14:16:50 +0000",
+        "link": "https://www.practicalecommerce.com/future-commerce-ceo-on-ai-brands-trust",
+        "origin": "official",
+        "needs_review": false
+      },
+      {
+        "level": "low",
+        "column": "全球合规",
+        "title": "跨境电商合规门槛提升促品牌出海，拉美、非洲等新兴市场蕴藏机遇",
+        "tags": [
+          "#全球合规",
+          "#Sohu"
+        ],
+        "what": "跨境电商合规门槛提升促品牌出海，拉美、非洲等新兴市场蕴藏机遇 跨境电商合规门槛提升促品牌出海，拉美、非洲等新兴市场蕴藏机遇    Sohu",
+        "impact": "涉及合规风险。",
+        "action": "关注后续。",
+        "source": "Sohu (via Google News) | Thu, 26 Nov 2026 15:11:53 GMT",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPallmR0pITW5uVHpSSkNQdnkxQUtaUXFvelItZ1pBd0ZUTjN6Y2dHTWd6TTd6YmRhcDkteWJFZzI2NmNuSE10TWd3V0RRZ0tLX0VraUlFM1l4RjVsRnVFYXBmcmhOdFhDcGgzU0Q3UFNybFZfNE1PRWM1eEdPMDQ2RmZhakFVUlQxQ0RGUw?oc=5",
+        "origin": "google",
+        "needs_review": false
+      }
+    ]
   }
 ]
